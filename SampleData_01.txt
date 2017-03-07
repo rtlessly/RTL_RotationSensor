@@ -1,0 +1,2212 @@
+ interval=12, pulsesPerRev=20
+	Speed setting=104, RPM=250000.00
+1863: RotationSensor::ReadCount[2]: count=121, startTime=1844364, endTime=1844376, interval=12, pulsesPerRev=20
+	Speed setting=105, RPM=250000.00
+Rotation Sensor test!
+
+Test iteration begin
+
+	Running motor forward from 0 to 255 to 0
+31: RotationSensor::ReadCount[2]: count=3, startTime=19084, endTime=19096, interval=12, pulsesPerRev=20
+	Speed setting=0, RPM=250000.00
+48: RotationSensor::ReadCount[2]: count=3, startTime=19084, endTime=19096, interval=12, pulsesPerRev=20
+	Speed setting=1, RPM=250000.00
+65: RotationSensor::ReadCount[2]: count=6, startTime=65216, endTime=65228, interval=12, pulsesPerRev=20
+	Speed setting=2, RPM=250000.00
+81: RotationSensor::ReadCount[2]: count=6, startTime=65216, endTime=65228, interval=12, pulsesPerRev=20
+	Speed setting=3, RPM=250000.00
+99: RotationSensor::ReadCount[2]: count=6, startTime=65216, endTime=65228, interval=12, pulsesPerRev=20
+	Speed setting=4, RPM=250000.00
+115: RotationSensor::ReadCount[2]: count=6, startTime=65216, endTime=65228, interval=12, pulsesPerRev=20
+	Speed setting=5, RPM=250000.00
+133: RotationSensor::ReadCount[2]: count=6, startTime=65216, endTime=65228, interval=12, pulsesPerRev=20
+	Speed setting=6, RPM=250000.00
+150: RotationSensor::ReadCount[2]: count=6, startTime=65216, endTime=65228, interval=12, pulsesPerRev=20
+	Speed setting=7, RPM=250000.00
+166: RotationSensor::ReadCount[2]: count=6, startTime=65216, endTime=65228, interval=12, pulsesPerRev=20
+	Speed setting=8, RPM=250000.00
+184: RotationSensor::ReadCount[2]: count=6, startTime=65216, endTime=65228, interval=12, pulsesPerRev=20
+	Speed setting=9, RPM=250000.00
+201: RotationSensor::ReadCount[2]: count=6, startTime=65216, endTime=65228, interval=12, pulsesPerRev=20
+	Speed setting=10, RPM=250000.00
+219: RotationSensor::ReadCount[2]: count=631, startTime=205816, endTime=205828, interval=12, pulsesPerRev=20
+	Speed setting=11, RPM=250000.00
+237: RotationSensor::ReadCount[2]: count=631, startTime=205816, endTime=205828, interval=12, pulsesPerRev=20
+	Speed setting=12, RPM=250000.00
+254: RotationSensor::ReadCount[2]: count=631, startTime=205816, endTime=205828, interval=12, pulsesPerRev=20
+	Speed setting=13, RPM=250000.00
+272: RotationSensor::ReadCount[2]: count=631, startTime=205816, endTime=205828, interval=12, pulsesPerRev=20
+	Speed setting=14, RPM=250000.00
+289: RotationSensor::ReadCount[2]: count=631, startTime=205816, endTime=205828, interval=12, pulsesPerRev=20
+	Speed setting=15, RPM=250000.00
+307: RotationSensor::ReadCount[2]: count=631, startTime=205816, endTime=205828, interval=12, pulsesPerRev=20
+	Speed setting=16, RPM=250000.00
+321: RotationSensor::ReadCount[2]: count=1281, startTime=322944, endTime=322956, interval=12, pulsesPerRev=20
+	Speed setting=17, RPM=250000.00
+346: RotationSensor::ReadCount[2]: count=3690, startTime=347936, endTime=347948, interval=12, pulsesPerRev=20
+	Speed setting=18, RPM=250000.00
+386: RotationSensor::ReadCount[2]: count=12890, startTime=387704, endTime=387716, interval=12, pulsesPerRev=20
+	Speed setting=19, RPM=250000.00
+441: RotationSensor::ReadCount[2]: count=24434, startTime=441188, endTime=441200, interval=12, pulsesPerRev=20
+	Speed setting=20, RPM=250000.00
+466: RotationSensor::ReadCount[2]: count=27273, startTime=458112, endTime=458124, interval=12, pulsesPerRev=20
+	Speed setting=21, RPM=250000.00
+484: RotationSensor::ReadCount[2]: count=27273, startTime=458112, endTime=458124, interval=12, pulsesPerRev=20
+	Speed setting=22, RPM=250000.00
+501: RotationSensor::ReadCount[2]: count=27273, startTime=458112, endTime=458124, interval=12, pulsesPerRev=20
+	Speed setting=23, RPM=250000.00
+520: RotationSensor::ReadCount[2]: count=27273, startTime=458112, endTime=458124, interval=12, pulsesPerRev=20
+	Speed setting=24, RPM=250000.00
+537: RotationSensor::ReadCount[2]: count=27273, startTime=458112, endTime=458124, interval=12, pulsesPerRev=20
+	Speed setting=25, RPM=250000.00
+555: RotationSensor::ReadCount[2]: count=27273, startTime=458112, endTime=458124, interval=12, pulsesPerRev=20
+	Speed setting=26, RPM=250000.00
+572: RotationSensor::ReadCount[2]: count=27273, startTime=458112, endTime=458124, interval=12, pulsesPerRev=20
+	Speed setting=27, RPM=250000.00
+590: RotationSensor::ReadCount[2]: count=27273, startTime=458112, endTime=458124, interval=12, pulsesPerRev=20
+	Speed setting=28, RPM=250000.00
+608: RotationSensor::ReadCount[2]: count=27273, startTime=458112, endTime=458124, interval=12, pulsesPerRev=20
+	Speed setting=29, RPM=250000.00
+625: RotationSensor::ReadCount[2]: count=27273, startTime=458112, endTime=458124, interval=12, pulsesPerRev=20
+	Speed setting=30, RPM=250000.00
+643: RotationSensor::ReadCount[2]: count=27273, startTime=458112, endTime=458124, interval=12, pulsesPerRev=20
+	Speed setting=31, RPM=250000.00
+661: RotationSensor::ReadCount[2]: count=27273, startTime=458112, endTime=458124, interval=12, pulsesPerRev=20
+	Speed setting=32, RPM=250000.00
+678: RotationSensor::ReadCount[2]: count=27273, startTime=458112, endTime=458124, interval=12, pulsesPerRev=20
+	Speed setting=33, RPM=250000.00
+696: RotationSensor::ReadCount[2]: count=27273, startTime=458112, endTime=458124, interval=12, pulsesPerRev=20
+	Speed setting=34, RPM=250000.00
+714: RotationSensor::ReadCount[2]: count=27273, startTime=458112, endTime=458124, interval=12, pulsesPerRev=20
+	Speed setting=35, RPM=250000.00
+732: RotationSensor::ReadCount[2]: count=27273, startTime=458112, endTime=458124, interval=12, pulsesPerRev=20
+	Speed setting=36, RPM=250000.00
+749: RotationSensor::ReadCount[2]: count=27273, startTime=458112, endTime=458124, interval=12, pulsesPerRev=20
+	Speed setting=37, RPM=250000.00
+766: RotationSensor::ReadCount[2]: count=27273, startTime=458112, endTime=458124, interval=12, pulsesPerRev=20
+	Speed setting=38, RPM=250000.00
+785: RotationSensor::ReadCount[2]: count=27273, startTime=458112, endTime=458124, interval=12, pulsesPerRev=20
+	Speed setting=39, RPM=250000.00
+802: RotationSensor::ReadCount[2]: count=27275, startTime=794548, endTime=794560, interval=12, pulsesPerRev=20
+	Speed setting=40, RPM=250000.00
+820: RotationSensor::ReadCount[2]: count=27275, startTime=794548, endTime=794560, interval=12, pulsesPerRev=20
+	Speed setting=41, RPM=250000.00
+837: RotationSensor::ReadCount[2]: count=27275, startTime=794548, endTime=794560, interval=12, pulsesPerRev=20
+	Speed setting=42, RPM=250000.00
+856: RotationSensor::ReadCount[2]: count=27275, startTime=794548, endTime=794560, interval=12, pulsesPerRev=20
+	Speed setting=43, RPM=250000.00
+873: RotationSensor::ReadCount[2]: count=27279, startTime=872716, endTime=872724, interval=8, pulsesPerRev=20
+	Speed setting=44, RPM=375000.00
+890: RotationSensor::ReadCount[2]: count=27279, startTime=872716, endTime=872724, interval=8, pulsesPerRev=20
+	Speed setting=45, RPM=375000.00
+908: RotationSensor::ReadCount[2]: count=27279, startTime=872716, endTime=872724, interval=8, pulsesPerRev=20
+	Speed setting=46, RPM=375000.00
+925: RotationSensor::ReadCount[2]: count=27281, startTime=921916, endTime=921928, interval=12, pulsesPerRev=20
+	Speed setting=47, RPM=250000.00
+944: RotationSensor::ReadCount[2]: count=27283, startTime=937124, endTime=937136, interval=12, pulsesPerRev=20
+	Speed setting=48, RPM=250000.00
+961: RotationSensor::ReadCount[2]: count=27283, startTime=937124, endTime=937136, interval=12, pulsesPerRev=20
+	Speed setting=49, RPM=250000.00
+978: RotationSensor::ReadCount[2]: count=27283, startTime=937124, endTime=937136, interval=12, pulsesPerRev=20
+	Speed setting=50, RPM=250000.00
+996: RotationSensor::ReadCount[2]: count=27287, startTime=996168, endTime=996180, interval=12, pulsesPerRev=20
+	Speed setting=51, RPM=250000.00
+1014: RotationSensor::ReadCount[2]: count=27287, startTime=996168, endTime=996180, interval=12, pulsesPerRev=20
+	Speed setting=52, RPM=250000.00
+1032: RotationSensor::ReadCount[2]: count=27287, startTime=996168, endTime=996180, interval=12, pulsesPerRev=20
+	Speed setting=53, RPM=250000.00
+1049: RotationSensor::ReadCount[2]: count=27291, startTime=1050540, endTime=1050552, interval=12, pulsesPerRev=20
+	Speed setting=54, RPM=250000.00
+1068: RotationSensor::ReadCount[2]: count=27291, startTime=1050540, endTime=1050552, interval=12, pulsesPerRev=20
+	Speed setting=55, RPM=250000.00
+1086: RotationSensor::ReadCount[2]: count=27291, startTime=1050540, endTime=1050552, interval=12, pulsesPerRev=20
+	Speed setting=56, RPM=250000.00
+1103: RotationSensor::ReadCount[2]: count=27295, startTime=1101176, endTime=1101188, interval=12, pulsesPerRev=20
+	Speed setting=57, RPM=250000.00
+1122: RotationSensor::ReadCount[2]: count=27295, startTime=1101176, endTime=1101188, interval=12, pulsesPerRev=20
+	Speed setting=58, RPM=250000.00
+1139: RotationSensor::ReadCount[2]: count=27297, startTime=1138672, endTime=1138684, interval=12, pulsesPerRev=20
+	Speed setting=59, RPM=250000.00
+1158: RotationSensor::ReadCount[2]: count=27299, startTime=1151892, endTime=1151904, interval=12, pulsesPerRev=20
+	Speed setting=60, RPM=250000.00
+1175: RotationSensor::ReadCount[2]: count=27299, startTime=1151892, endTime=1151904, interval=12, pulsesPerRev=20
+	Speed setting=61, RPM=250000.00
+1193: RotationSensor::ReadCount[2]: count=27301, startTime=1188352, endTime=1188364, interval=12, pulsesPerRev=20
+	Speed setting=62, RPM=250000.00
+1211: RotationSensor::ReadCount[2]: count=27303, startTime=1200100, endTime=1200112, interval=12, pulsesPerRev=20
+	Speed setting=63, RPM=250000.00
+1229: RotationSensor::ReadCount[2]: count=27303, startTime=1200100, endTime=1200112, interval=12, pulsesPerRev=20
+	Speed setting=64, RPM=250000.00
+1247: RotationSensor::ReadCount[2]: count=27307, startTime=1245440, endTime=1245452, interval=12, pulsesPerRev=20
+	Speed setting=65, RPM=250000.00
+1265: RotationSensor::ReadCount[2]: count=27307, startTime=1245440, endTime=1245452, interval=12, pulsesPerRev=20
+	Speed setting=66, RPM=250000.00
+1284: RotationSensor::ReadCount[2]: count=27309, startTime=1276484, endTime=1276496, interval=12, pulsesPerRev=20
+	Speed setting=67, RPM=250000.00
+1301: RotationSensor::ReadCount[2]: count=27311, startTime=1286972, endTime=1286984, interval=12, pulsesPerRev=20
+	Speed setting=68, RPM=250000.00
+1319: RotationSensor::ReadCount[2]: count=27313, startTime=1317268, endTime=1317280, interval=12, pulsesPerRev=20
+	Speed setting=69, RPM=250000.00
+1337: RotationSensor::ReadCount[2]: count=27315, startTime=1326812, endTime=1326824, interval=12, pulsesPerRev=20
+	Speed setting=70, RPM=250000.00
+1355: RotationSensor::ReadCount[2]: count=27315, startTime=1326812, endTime=1326824, interval=12, pulsesPerRev=20
+	Speed setting=71, RPM=250000.00
+1373: RotationSensor::ReadCount[2]: count=27318, startTime=1368464, endTime=1368476, interval=12, pulsesPerRev=20
+	Speed setting=72, RPM=250000.00
+1391: RotationSensor::ReadCount[2]: count=27318, startTime=1368464, endTime=1368476, interval=12, pulsesPerRev=20
+	Speed setting=73, RPM=250000.00
+1409: RotationSensor::ReadCount[2]: count=27320, startTime=1401080, endTime=1401092, interval=12, pulsesPerRev=20
+	Speed setting=74, RPM=250000.00
+1427: RotationSensor::ReadCount[2]: count=27322, startTime=1410988, endTime=1411000, interval=12, pulsesPerRev=20
+	Speed setting=75, RPM=250000.00
+1444: RotationSensor::ReadCount[2]: count=27324, startTime=1440264, endTime=1440276, interval=12, pulsesPerRev=20
+	Speed setting=76, RPM=250000.00
+1463: RotationSensor::ReadCount[2]: count=27326, startTime=1448928, endTime=1448940, interval=12, pulsesPerRev=20
+	Speed setting=77, RPM=250000.00
+1481: RotationSensor::ReadCount[2]: count=27328, startTime=1475796, endTime=1475808, interval=12, pulsesPerRev=20
+	Speed setting=78, RPM=250000.00
+1499: RotationSensor::ReadCount[2]: count=27330, startTime=1484360, endTime=1484372, interval=12, pulsesPerRev=20
+	Speed setting=79, RPM=250000.00
+1517: RotationSensor::ReadCount[2]: count=27332, startTime=1512360, endTime=1512372, interval=12, pulsesPerRev=20
+	Speed setting=80, RPM=250000.00
+1534: RotationSensor::ReadCount[2]: count=27334, startTime=1519872, endTime=1519884, interval=12, pulsesPerRev=20
+	Speed setting=81, RPM=250000.00
+1553: RotationSensor::ReadCount[2]: count=27336, startTime=1547132, endTime=1547144, interval=12, pulsesPerRev=20
+	Speed setting=82, RPM=250000.00
+1570: RotationSensor::ReadCount[2]: count=27338, startTime=1556624, endTime=1556636, interval=12, pulsesPerRev=20
+	Speed setting=83, RPM=250000.00
+1589: RotationSensor::ReadCount[2]: count=27340, startTime=1585064, endTime=1585076, interval=12, pulsesPerRev=20
+	Speed setting=84, RPM=250000.00
+1606: RotationSensor::ReadCount[2]: count=27342, startTime=1593356, endTime=1593368, interval=12, pulsesPerRev=20
+	Speed setting=85, RPM=250000.00
+1625: RotationSensor::ReadCount[2]: count=27344, startTime=1618260, endTime=1618272, interval=12, pulsesPerRev=20
+	Speed setting=86, RPM=250000.00
+1642: RotationSensor::ReadCount[2]: count=27346, startTime=1627120, endTime=1627132, interval=12, pulsesPerRev=20
+	Speed setting=87, RPM=250000.00
+1660: RotationSensor::ReadCount[2]: count=27350, startTime=1657824, endTime=1657836, interval=12, pulsesPerRev=20
+	Speed setting=88, RPM=250000.00
+1679: RotationSensor::ReadCount[2]: count=27350, startTime=1657824, endTime=1657836, interval=12, pulsesPerRev=20
+	Speed setting=89, RPM=250000.00
+1696: RotationSensor::ReadCount[2]: count=27354, startTime=1688788, endTime=1688800, interval=12, pulsesPerRev=20
+	Speed setting=90, RPM=250000.00
+1715: RotationSensor::ReadCount[2]: count=27356, startTime=1711732, endTime=1711744, interval=12, pulsesPerRev=20
+	Speed setting=91, RPM=250000.00
+1732: RotationSensor::ReadCount[2]: count=27358, startTime=1718476, endTime=1718488, interval=12, pulsesPerRev=20
+	Speed setting=92, RPM=250000.00
+1751: RotationSensor::ReadCount[2]: count=27361, startTime=1741080, endTime=1748368, interval=7288, pulsesPerRev=20
+	Speed setting=93, RPM=411.64
+1768: RotationSensor::ReadCount[2]: count=27361, startTime=1741080, endTime=1748368, interval=7288, pulsesPerRev=20
+	Speed setting=94, RPM=411.64
+1786: RotationSensor::ReadCount[2]: count=27365, startTime=1777760, endTime=1777772, interval=12, pulsesPerRev=20
+	Speed setting=95, RPM=250000.00
+1804: RotationSensor::ReadCount[2]: count=27367, startTime=1798576, endTime=1798584, interval=8, pulsesPerRev=20
+	Speed setting=96, RPM=375000.00
+1822: RotationSensor::ReadCount[2]: count=27369, startTime=1806368, endTime=1806380, interval=12, pulsesPerRev=20
+	Speed setting=97, RPM=250000.00
+1840: RotationSensor::ReadCount[2]: count=27373, startTime=1833976, endTime=1833988, interval=12, pulsesPerRev=20
+	Speed setting=98, RPM=250000.00
+1858: RotationSensor::ReadCount[2]: count=27375, startTime=1854448, endTime=1854460, interval=12, pulsesPerRev=20
+	Speed setting=99, RPM=250000.00
+1875: RotationSensor::ReadCount[2]: count=27377, startTime=1862056, endTime=1862068, interval=12, pulsesPerRev=20
+	Speed setting=100, RPM=250000.00
+1894: RotationSensor::ReadCount[2]: count=27380, startTime=1889792, endTime=1889804, interval=12, pulsesPerRev=20
+	Speed setting=101, RPM=250000.00
+1912: RotationSensor::ReadCount[2]: count=27382, startTime=1909908, endTime=1909920, interval=12, pulsesPerRev=20
+	Speed setting=102, RPM=250000.00
+1930: RotationSensor::ReadCount[2]: count=27384, startTime=1916884, endTime=1916896, interval=12, pulsesPerRev=20
+	Speed setting=103, RPM=250000.00
+1948: RotationSensor::ReadCount[2]: count=27388, startTime=1943024, endTime=1943036, interval=12, pulsesPerRev=20
+	Speed setting=104, RPM=250000.00
+1966: RotationSensor::ReadCount[2]: count=27390, startTime=1961900, endTime=1961912, interval=12, pulsesPerRev=20
+	Speed setting=105, RPM=250000.00
+1984: RotationSensor::ReadCount[2]: count=27392, startTime=1967756, endTime=1967768, interval=12, pulsesPerRev=20
+	Speed setting=106, RPM=250000.00
+2002: RotationSensor::ReadCount[2]: count=27396, startTime=1993788, endTime=1993796, interval=8, pulsesPerRev=20
+	Speed setting=107, RPM=375000.00
+2020: RotationSensor::ReadCount[2]: count=27400, startTime=2020776, endTime=2020788, interval=12, pulsesPerRev=20
+	Speed setting=108, RPM=250000.00
+2038: RotationSensor::ReadCount[2]: count=27400, startTime=2020776, endTime=2020788, interval=12, pulsesPerRev=20
+	Speed setting=109, RPM=250000.00
+2056: RotationSensor::ReadCount[2]: count=27404, startTime=2047120, endTime=2047132, interval=12, pulsesPerRev=20
+	Speed setting=110, RPM=250000.00
+2074: RotationSensor::ReadCount[2]: count=27408, startTime=2072124, endTime=2072136, interval=12, pulsesPerRev=20
+	Speed setting=111, RPM=250000.00
+2093: RotationSensor::ReadCount[2]: count=27410, startTime=2091604, endTime=2091616, interval=12, pulsesPerRev=20
+	Speed setting=112, RPM=250000.00
+2110: RotationSensor::ReadCount[2]: count=27412, startTime=2096820, endTime=2096832, interval=12, pulsesPerRev=20
+	Speed setting=113, RPM=250000.00
+2128: RotationSensor::ReadCount[2]: count=27416, startTime=2121956, endTime=2121968, interval=12, pulsesPerRev=20
+	Speed setting=114, RPM=250000.00
+2147: RotationSensor::ReadCount[2]: count=27420, startTime=2146256, endTime=2146268, interval=12, pulsesPerRev=20
+	Speed setting=115, RPM=250000.00
+2164: RotationSensor::ReadCount[2]: count=27422, startTime=2164560, endTime=2164572, interval=12, pulsesPerRev=20
+	Speed setting=116, RPM=250000.00
+2183: RotationSensor::ReadCount[2]: count=27424, startTime=2170740, endTime=2170752, interval=12, pulsesPerRev=20
+	Speed setting=117, RPM=250000.00
+2201: RotationSensor::ReadCount[2]: count=27428, startTime=2193524, endTime=2193536, interval=12, pulsesPerRev=20
+	Speed setting=118, RPM=250000.00
+2219: RotationSensor::ReadCount[2]: count=27432, startTime=2216776, endTime=2216788, interval=12, pulsesPerRev=20
+	Speed setting=119, RPM=250000.00
+2237: RotationSensor::ReadCount[2]: count=27434, startTime=2233720, endTime=2233732, interval=12, pulsesPerRev=20
+	Speed setting=120, RPM=250000.00
+2254: RotationSensor::ReadCount[2]: count=27438, startTime=2255540, endTime=2255552, interval=12, pulsesPerRev=20
+	Speed setting=121, RPM=250000.00
+2273: RotationSensor::ReadCount[2]: count=27440, startTime=2261096, endTime=2261108, interval=12, pulsesPerRev=20
+	Speed setting=122, RPM=250000.00
+2291: RotationSensor::ReadCount[2]: count=27444, startTime=2283424, endTime=2283436, interval=12, pulsesPerRev=20
+	Speed setting=123, RPM=250000.00
+2309: RotationSensor::ReadCount[2]: count=27448, startTime=2305244, endTime=2305256, interval=12, pulsesPerRev=20
+	Speed setting=124, RPM=250000.00
+2327: RotationSensor::ReadCount[2]: count=27452, startTime=2326860, endTime=2326872, interval=12, pulsesPerRev=20
+	Speed setting=125, RPM=250000.00
+2345: RotationSensor::ReadCount[2]: count=27454, startTime=2342440, endTime=2342452, interval=12, pulsesPerRev=20
+	Speed setting=126, RPM=250000.00
+2363: RotationSensor::ReadCount[2]: count=27458, startTime=2364084, endTime=2364096, interval=12, pulsesPerRev=20
+	Speed setting=127, RPM=250000.00
+2381: RotationSensor::ReadCount[2]: count=27460, startTime=2369632, endTime=2369644, interval=12, pulsesPerRev=20
+	Speed setting=128, RPM=250000.00
+2399: RotationSensor::ReadCount[2]: count=27464, startTime=2390912, endTime=2390924, interval=12, pulsesPerRev=20
+	Speed setting=129, RPM=250000.00
+2417: RotationSensor::ReadCount[2]: count=27468, startTime=2411488, endTime=2411500, interval=12, pulsesPerRev=20
+	Speed setting=130, RPM=250000.00
+2436: RotationSensor::ReadCount[2]: count=27472, startTime=2431440, endTime=2431452, interval=12, pulsesPerRev=20
+	Speed setting=131, RPM=250000.00
+2453: RotationSensor::ReadCount[2]: count=27476, startTime=2452024, endTime=2452036, interval=12, pulsesPerRev=20
+	Speed setting=132, RPM=250000.00
+2471: RotationSensor::ReadCount[2]: count=27478, startTime=2467988, endTime=2468000, interval=12, pulsesPerRev=20
+	Speed setting=133, RPM=250000.00
+2490: RotationSensor::ReadCount[2]: count=27482, startTime=2488572, endTime=2488584, interval=12, pulsesPerRev=20
+	Speed setting=134, RPM=250000.00
+2507: RotationSensor::ReadCount[2]: count=27484, startTime=2493320, endTime=2493332, interval=12, pulsesPerRev=20
+	Speed setting=135, RPM=250000.00
+2526: RotationSensor::ReadCount[2]: count=27488, startTime=2513708, endTime=2513720, interval=12, pulsesPerRev=20
+	Speed setting=136, RPM=250000.00
+2544: RotationSensor::ReadCount[2]: count=27491, startTime=2534044, endTime=2534056, interval=12, pulsesPerRev=20
+	Speed setting=137, RPM=250000.00
+2562: RotationSensor::ReadCount[2]: count=27495, startTime=2554920, endTime=2554932, interval=12, pulsesPerRev=20
+	Speed setting=138, RPM=250000.00
+2580: RotationSensor::ReadCount[2]: count=27498, startTime=2574696, endTime=2574708, interval=12, pulsesPerRev=20
+	Speed setting=139, RPM=250000.00
+2597: RotationSensor::ReadCount[2]: count=27502, startTime=2594064, endTime=2594076, interval=12, pulsesPerRev=20
+	Speed setting=140, RPM=250000.00
+2616: RotationSensor::ReadCount[2]: count=27506, startTime=2613056, endTime=2613068, interval=12, pulsesPerRev=20
+	Speed setting=141, RPM=250000.00
+2634: RotationSensor::ReadCount[2]: count=27510, startTime=2632008, endTime=2632020, interval=12, pulsesPerRev=20
+	Speed setting=142, RPM=250000.00
+2652: RotationSensor::ReadCount[2]: count=27513, startTime=2650884, endTime=2650892, interval=8, pulsesPerRev=20
+	Speed setting=143, RPM=375000.00
+2670: RotationSensor::ReadCount[2]: count=27517, startTime=2669460, endTime=2669472, interval=12, pulsesPerRev=20
+	Speed setting=144, RPM=250000.00
+2688: RotationSensor::ReadCount[2]: count=27521, startTime=2688056, endTime=2688068, interval=12, pulsesPerRev=20
+	Speed setting=145, RPM=250000.00
+2706: RotationSensor::ReadCount[2]: count=27525, startTime=2706172, endTime=2706184, interval=12, pulsesPerRev=20
+	Speed setting=146, RPM=250000.00
+2724: RotationSensor::ReadCount[2]: count=27529, startTime=2724048, endTime=2724060, interval=12, pulsesPerRev=20
+	Speed setting=147, RPM=250000.00
+2742: RotationSensor::ReadCount[2]: count=27533, startTime=2742464, endTime=2742476, interval=12, pulsesPerRev=20
+	Speed setting=148, RPM=250000.00
+2760: RotationSensor::ReadCount[2]: count=27537, startTime=2760496, endTime=2760508, interval=12, pulsesPerRev=20
+	Speed setting=149, RPM=250000.00
+2779: RotationSensor::ReadCount[2]: count=27541, startTime=2778548, endTime=2778560, interval=12, pulsesPerRev=20
+	Speed setting=150, RPM=250000.00
+2796: RotationSensor::ReadCount[2]: count=27545, startTime=2795632, endTime=2795644, interval=12, pulsesPerRev=20
+	Speed setting=151, RPM=250000.00
+2814: RotationSensor::ReadCount[2]: count=27548, startTime=2808824, endTime=2813016, interval=4192, pulsesPerRev=20
+	Speed setting=152, RPM=715.65
+2832: RotationSensor::ReadCount[2]: count=27552, startTime=2830664, endTime=2830676, interval=12, pulsesPerRev=20
+	Speed setting=153, RPM=250000.00
+2850: RotationSensor::ReadCount[2]: count=27556, startTime=2848844, endTime=2848856, interval=12, pulsesPerRev=20
+	Speed setting=154, RPM=250000.00
+2869: RotationSensor::ReadCount[2]: count=27560, startTime=2866040, endTime=2866052, interval=12, pulsesPerRev=20
+	Speed setting=155, RPM=250000.00
+2886: RotationSensor::ReadCount[2]: count=27563, startTime=2882984, endTime=2882996, interval=12, pulsesPerRev=20
+	Speed setting=156, RPM=250000.00
+2905: RotationSensor::ReadCount[2]: count=27565, startTime=2896536, endTime=2900424, interval=3888, pulsesPerRev=20
+	Speed setting=157, RPM=771.60
+2922: RotationSensor::ReadCount[2]: count=27569, startTime=2918352, endTime=2918364, interval=12, pulsesPerRev=20
+	Speed setting=158, RPM=250000.00
+2940: RotationSensor::ReadCount[2]: count=27573, startTime=2935772, endTime=2935784, interval=12, pulsesPerRev=20
+	Speed setting=159, RPM=250000.00
+2959: RotationSensor::ReadCount[2]: count=27576, startTime=2948136, endTime=2952424, interval=4288, pulsesPerRev=20
+	Speed setting=160, RPM=699.63
+2976: RotationSensor::ReadCount[2]: count=27580, startTime=2968732, endTime=2968744, interval=12, pulsesPerRev=20
+	Speed setting=161, RPM=250000.00
+2995: RotationSensor::ReadCount[2]: count=27584, startTime=2985344, endTime=2985356, interval=12, pulsesPerRev=20
+	Speed setting=162, RPM=250000.00
+3013: RotationSensor::ReadCount[2]: count=27588, startTime=3001736, endTime=3001748, interval=12, pulsesPerRev=20
+	Speed setting=163, RPM=250000.00
+3031: RotationSensor::ReadCount[2]: count=27594, startTime=3029976, endTime=3029988, interval=12, pulsesPerRev=20
+	Speed setting=164, RPM=250000.00
+3049: RotationSensor::ReadCount[2]: count=27598, startTime=3045800, endTime=3045812, interval=12, pulsesPerRev=20
+	Speed setting=165, RPM=250000.00
+3066: RotationSensor::ReadCount[2]: count=27603, startTime=3065832, endTime=3065844, interval=12, pulsesPerRev=20
+	Speed setting=166, RPM=250000.00
+3085: RotationSensor::ReadCount[2]: count=27607, startTime=3081892, endTime=3081904, interval=12, pulsesPerRev=20
+	Speed setting=167, RPM=250000.00
+3103: RotationSensor::ReadCount[2]: count=27611, startTime=3097872, endTime=3097884, interval=12, pulsesPerRev=20
+	Speed setting=168, RPM=250000.00
+3121: RotationSensor::ReadCount[2]: count=27615, startTime=3113968, endTime=3113980, interval=12, pulsesPerRev=20
+	Speed setting=169, RPM=250000.00
+3139: RotationSensor::ReadCount[2]: count=27619, startTime=3129156, endTime=3129168, interval=12, pulsesPerRev=20
+	Speed setting=170, RPM=250000.00
+3158: RotationSensor::ReadCount[2]: count=27625, startTime=3156560, endTime=3156572, interval=12, pulsesPerRev=20
+	Speed setting=171, RPM=250000.00
+3175: RotationSensor::ReadCount[2]: count=27629, startTime=3172320, endTime=3172332, interval=12, pulsesPerRev=20
+	Speed setting=172, RPM=250000.00
+3193: RotationSensor::ReadCount[2]: count=27634, startTime=3191700, endTime=3191712, interval=12, pulsesPerRev=20
+	Speed setting=173, RPM=250000.00
+3211: RotationSensor::ReadCount[2]: count=27638, startTime=3206820, endTime=3206832, interval=12, pulsesPerRev=20
+	Speed setting=174, RPM=250000.00
+3229: RotationSensor::ReadCount[2]: count=27641, startTime=3218756, endTime=3222112, interval=3356, pulsesPerRev=20
+	Speed setting=175, RPM=893.92
+3248: RotationSensor::ReadCount[2]: count=27645, startTime=3237864, endTime=3237876, interval=12, pulsesPerRev=20
+	Speed setting=176, RPM=250000.00
+3265: RotationSensor::ReadCount[2]: count=27651, startTime=3264652, endTime=3264664, interval=12, pulsesPerRev=20
+	Speed setting=177, RPM=250000.00
+3283: RotationSensor::ReadCount[2]: count=27657, startTime=3283168, endTime=3283180, interval=12, pulsesPerRev=20
+	Speed setting=178, RPM=250000.00
+3302: RotationSensor::ReadCount[2]: count=27661, startTime=3298128, endTime=3298140, interval=12, pulsesPerRev=20
+	Speed setting=179, RPM=250000.00
+3319: RotationSensor::ReadCount[2]: count=27665, startTime=3312760, endTime=3312772, interval=12, pulsesPerRev=20
+	Speed setting=180, RPM=250000.00
+3338: RotationSensor::ReadCount[2]: count=27671, startTime=3337968, endTime=3337980, interval=12, pulsesPerRev=20
+	Speed setting=181, RPM=250000.00
+3355: RotationSensor::ReadCount[2]: count=27677, startTime=3356260, endTime=3356272, interval=12, pulsesPerRev=20
+	Speed setting=182, RPM=250000.00
+3374: RotationSensor::ReadCount[2]: count=27680, startTime=3366608, endTime=3370448, interval=3840, pulsesPerRev=20
+	Speed setting=183, RPM=781.25
+3392: RotationSensor::ReadCount[2]: count=27684, startTime=3384896, endTime=3384908, interval=12, pulsesPerRev=20
+	Speed setting=184, RPM=250000.00
+3409: RotationSensor::ReadCount[2]: count=27690, startTime=3410192, endTime=3410204, interval=12, pulsesPerRev=20
+	Speed setting=185, RPM=250000.00
+3428: RotationSensor::ReadCount[2]: count=27696, startTime=3427876, endTime=3427888, interval=12, pulsesPerRev=20
+	Speed setting=186, RPM=250000.00
+3445: RotationSensor::ReadCount[2]: count=27700, startTime=3441476, endTime=3441488, interval=12, pulsesPerRev=20
+	Speed setting=187, RPM=250000.00
+3464: RotationSensor::ReadCount[2]: count=27704, startTime=3455652, endTime=3455664, interval=12, pulsesPerRev=20
+	Speed setting=188, RPM=250000.00
+3482: RotationSensor::ReadCount[2]: count=27709, startTime=3481172, endTime=3481184, interval=12, pulsesPerRev=20
+	Speed setting=189, RPM=250000.00
+3500: RotationSensor::ReadCount[2]: count=27713, startTime=3494836, endTime=3498272, interval=3436, pulsesPerRev=20
+	Speed setting=190, RPM=873.11
+3518: RotationSensor::ReadCount[2]: count=27717, startTime=3512192, endTime=3512204, interval=12, pulsesPerRev=20
+	Speed setting=191, RPM=250000.00
+3536: RotationSensor::ReadCount[2]: count=27721, startTime=3526544, endTime=3526556, interval=12, pulsesPerRev=20
+	Speed setting=192, RPM=250000.00
+3554: RotationSensor::ReadCount[2]: count=27728, startTime=3554612, endTime=3554624, interval=12, pulsesPerRev=20
+	Speed setting=193, RPM=250000.00
+3572: RotationSensor::ReadCount[2]: count=27732, startTime=3567924, endTime=3567936, interval=12, pulsesPerRev=20
+	Speed setting=194, RPM=250000.00
+3590: RotationSensor::ReadCount[2]: count=27735, startTime=3581684, endTime=3581696, interval=12, pulsesPerRev=20
+	Speed setting=195, RPM=250000.00
+3608: RotationSensor::ReadCount[2]: count=27741, startTime=3608456, endTime=3608468, interval=12, pulsesPerRev=20
+	Speed setting=196, RPM=250000.00
+3627: RotationSensor::ReadCount[2]: count=27745, startTime=3621852, endTime=3621864, interval=12, pulsesPerRev=20
+	Speed setting=197, RPM=250000.00
+3644: RotationSensor::ReadCount[2]: count=27751, startTime=3644752, endTime=3644764, interval=12, pulsesPerRev=20
+	Speed setting=198, RPM=250000.00
+3662: RotationSensor::ReadCount[2]: count=27757, startTime=3661760, endTime=3661772, interval=12, pulsesPerRev=20
+	Speed setting=199, RPM=250000.00
+3681: RotationSensor::ReadCount[2]: count=27761, startTime=3675084, endTime=3675096, interval=12, pulsesPerRev=20
+	Speed setting=200, RPM=250000.00
+3698: RotationSensor::ReadCount[2]: count=27767, startTime=3697988, endTime=3698000, interval=12, pulsesPerRev=20
+	Speed setting=201, RPM=250000.00
+3717: RotationSensor::ReadCount[2]: count=27772, startTime=3710696, endTime=3713684, interval=2988, pulsesPerRev=20
+	Speed setting=202, RPM=1004.02
+3734: RotationSensor::ReadCount[2]: count=27775, startTime=3723936, endTime=3726724, interval=2788, pulsesPerRev=20
+	Speed setting=203, RPM=1076.04
+3752: RotationSensor::ReadCount[2]: count=27782, startTime=3752932, endTime=3752944, interval=12, pulsesPerRev=20
+	Speed setting=204, RPM=250000.00
+3771: RotationSensor::ReadCount[2]: count=27785, startTime=3762812, endTime=3765856, interval=3044, pulsesPerRev=20
+	Speed setting=205, RPM=985.55
+3788: RotationSensor::ReadCount[2]: count=27790, startTime=3778632, endTime=3788748, interval=10116, pulsesPerRev=20
+	Speed setting=206, RPM=296.56
+3807: RotationSensor::ReadCount[2]: count=27795, startTime=3805136, endTime=3805148, interval=12, pulsesPerRev=20
+	Speed setting=207, RPM=250000.00
+3825: RotationSensor::ReadCount[2]: count=27798, startTime=3814588, endTime=3817920, interval=3332, pulsesPerRev=20
+	Speed setting=208, RPM=900.36
+3843: RotationSensor::ReadCount[2]: count=27806, startTime=3842796, endTime=3842808, interval=12, pulsesPerRev=20
+	Speed setting=209, RPM=250000.00
+3861: RotationSensor::ReadCount[2]: count=27810, startTime=3855376, endTime=3855388, interval=12, pulsesPerRev=20
+	Speed setting=210, RPM=250000.00
+3878: RotationSensor::ReadCount[2]: count=27816, startTime=3876896, endTime=3876908, interval=12, pulsesPerRev=20
+	Speed setting=211, RPM=250000.00
+3897: RotationSensor::ReadCount[2]: count=27822, startTime=3892608, endTime=3892620, interval=12, pulsesPerRev=20
+	Speed setting=212, RPM=250000.00
+3915: RotationSensor::ReadCount[2]: count=27828, startTime=3914144, endTime=3914156, interval=12, pulsesPerRev=20
+	Speed setting=213, RPM=250000.00
+3933: RotationSensor::ReadCount[2]: count=27834, startTime=3930020, endTime=3930032, interval=12, pulsesPerRev=20
+	Speed setting=214, RPM=250000.00
+3951: RotationSensor::ReadCount[2]: count=27839, startTime=3951124, endTime=3951136, interval=12, pulsesPerRev=20
+	Speed setting=215, RPM=250000.00
+3969: RotationSensor::ReadCount[2]: count=27845, startTime=3965912, endTime=3965924, interval=12, pulsesPerRev=20
+	Speed setting=216, RPM=250000.00
+3987: RotationSensor::ReadCount[2]: count=27850, startTime=3987604, endTime=3987612, interval=8, pulsesPerRev=20
+	Speed setting=217, RPM=375000.00
+4005: RotationSensor::ReadCount[2]: count=27854, startTime=3999804, endTime=4002384, interval=2580, pulsesPerRev=20
+	Speed setting=218, RPM=1162.79
+4023: RotationSensor::ReadCount[2]: count=27859, startTime=4023784, endTime=4023796, interval=12, pulsesPerRev=20
+	Speed setting=219, RPM=250000.00
+4041: RotationSensor::ReadCount[2]: count=27864, startTime=4039100, endTime=4039112, interval=12, pulsesPerRev=20
+	Speed setting=220, RPM=250000.00
+4060: RotationSensor::ReadCount[2]: count=27868, startTime=4051412, endTime=4051424, interval=12, pulsesPerRev=20
+	Speed setting=221, RPM=250000.00
+4077: RotationSensor::ReadCount[2]: count=27876, startTime=4074732, endTime=4074744, interval=12, pulsesPerRev=20
+	Speed setting=222, RPM=250000.00
+4096: RotationSensor::ReadCount[2]: count=27882, startTime=4095564, endTime=4095576, interval=12, pulsesPerRev=20
+	Speed setting=223, RPM=250000.00
+4113: RotationSensor::ReadCount[2]: count=27887, startTime=4109868, endTime=4109880, interval=12, pulsesPerRev=20
+	Speed setting=224, RPM=250000.00
+4131: RotationSensor::ReadCount[2]: count=27893, startTime=4129980, endTime=4129992, interval=12, pulsesPerRev=20
+	Speed setting=225, RPM=250000.00
+4150: RotationSensor::ReadCount[2]: count=27898, startTime=4141420, endTime=4144576, interval=3156, pulsesPerRev=20
+	Speed setting=226, RPM=950.57
+4167: RotationSensor::ReadCount[2]: count=27906, startTime=4168092, endTime=4168104, interval=12, pulsesPerRev=20
+	Speed setting=227, RPM=250000.00
+4186: RotationSensor::ReadCount[2]: count=27910, startTime=4179524, endTime=4179536, interval=12, pulsesPerRev=20
+	Speed setting=228, RPM=250000.00
+4203: RotationSensor::ReadCount[2]: count=27918, startTime=4201816, endTime=4201828, interval=12, pulsesPerRev=20
+	Speed setting=229, RPM=250000.00
+4221: RotationSensor::ReadCount[2]: count=27923, startTime=4222320, endTime=4222332, interval=12, pulsesPerRev=20
+	Speed setting=230, RPM=250000.00
+4240: RotationSensor::ReadCount[2]: count=27929, startTime=4236632, endTime=4236644, interval=12, pulsesPerRev=20
+	Speed setting=231, RPM=250000.00
+4257: RotationSensor::ReadCount[2]: count=27934, startTime=4247900, endTime=4256664, interval=8764, pulsesPerRev=20
+	Speed setting=232, RPM=342.31
+4276: RotationSensor::ReadCount[2]: count=27940, startTime=4271012, endTime=4271020, interval=8, pulsesPerRev=20
+	Speed setting=233, RPM=375000.00
+4293: RotationSensor::ReadCount[2]: count=27948, startTime=4293792, endTime=4293804, interval=12, pulsesPerRev=20
+	Speed setting=234, RPM=250000.00
+4312: RotationSensor::ReadCount[2]: count=27952, startTime=4304540, endTime=4304552, interval=12, pulsesPerRev=20
+	Speed setting=235, RPM=250000.00
+4330: RotationSensor::ReadCount[2]: count=27959, startTime=4326556, endTime=4326564, interval=8, pulsesPerRev=20
+	Speed setting=236, RPM=375000.00
+4347: RotationSensor::ReadCount[2]: count=27964, startTime=4345764, endTime=4345776, interval=12, pulsesPerRev=20
+	Speed setting=237, RPM=250000.00
+4366: RotationSensor::ReadCount[2]: count=27970, startTime=4359928, endTime=4359936, interval=8, pulsesPerRev=20
+	Speed setting=238, RPM=375000.00
+4383: RotationSensor::ReadCount[2]: count=27978, startTime=4381660, endTime=4381672, interval=12, pulsesPerRev=20
+	Speed setting=239, RPM=250000.00
+4402: RotationSensor::ReadCount[2]: count=27982, startTime=4400904, endTime=4400916, interval=12, pulsesPerRev=20
+	Speed setting=240, RPM=250000.00
+4420: RotationSensor::ReadCount[2]: count=27988, startTime=4414556, endTime=4414568, interval=12, pulsesPerRev=20
+	Speed setting=241, RPM=250000.00
+4438: RotationSensor::ReadCount[2]: count=27996, startTime=4435652, endTime=4435664, interval=12, pulsesPerRev=20
+	Speed setting=242, RPM=250000.00
+4456: RotationSensor::ReadCount[2]: count=28001, startTime=4455216, endTime=4455228, interval=12, pulsesPerRev=20
+	Speed setting=243, RPM=250000.00
+4474: RotationSensor::ReadCount[2]: count=28006, startTime=4465732, endTime=4468424, interval=2692, pulsesPerRev=20
+	Speed setting=244, RPM=1114.41
+4492: RotationSensor::ReadCount[2]: count=28012, startTime=4487456, endTime=4490236, interval=2780, pulsesPerRev=20
+	Speed setting=245, RPM=1079.14
+4510: RotationSensor::ReadCount[2]: count=28018, startTime=4509052, endTime=4509064, interval=12, pulsesPerRev=20
+	Speed setting=246, RPM=250000.00
+4529: RotationSensor::ReadCount[2]: count=28024, startTime=4522056, endTime=4522068, interval=12, pulsesPerRev=20
+	Speed setting=247, RPM=250000.00
+4546: RotationSensor::ReadCount[2]: count=28032, startTime=4543280, endTime=4543292, interval=12, pulsesPerRev=20
+	Speed setting=248, RPM=250000.00
+4564: RotationSensor::ReadCount[2]: count=28040, startTime=4564344, endTime=4564356, interval=12, pulsesPerRev=20
+	Speed setting=249, RPM=250000.00
+4582: RotationSensor::ReadCount[2]: count=28045, startTime=4582152, endTime=4582160, interval=8, pulsesPerRev=20
+	Speed setting=250, RPM=375000.00
+4600: RotationSensor::ReadCount[2]: count=28049, startTime=4592584, endTime=4595492, interval=2908, pulsesPerRev=20
+	Speed setting=251, RPM=1031.64
+4619: RotationSensor::ReadCount[2]: count=28057, startTime=4616276, endTime=4616288, interval=12, pulsesPerRev=20
+	Speed setting=252, RPM=250000.00
+4636: RotationSensor::ReadCount[2]: count=28065, startTime=4636516, endTime=4636528, interval=12, pulsesPerRev=20
+	Speed setting=253, RPM=250000.00
+4655: RotationSensor::ReadCount[2]: count=28070, startTime=4654912, endTime=4654924, interval=12, pulsesPerRev=20
+	Speed setting=254, RPM=250000.00
+4672: RotationSensor::ReadCount[2]: count=28076, startTime=4667568, endTime=4667580, interval=12, pulsesPerRev=20
+	Speed setting=255, RPM=250000.00
+4690: RotationSensor::ReadCount[2]: count=28084, startTime=4688112, endTime=4688124, interval=12, pulsesPerRev=20
+	Speed setting=254, RPM=250000.00
+4709: RotationSensor::ReadCount[2]: count=28092, startTime=4709144, endTime=4709156, interval=12, pulsesPerRev=20
+	Speed setting=253, RPM=250000.00
+4726: RotationSensor::ReadCount[2]: count=28098, startTime=4726988, endTime=4727000, interval=12, pulsesPerRev=20
+	Speed setting=252, RPM=250000.00
+4745: RotationSensor::ReadCount[2]: count=28102, startTime=4737324, endTime=4739620, interval=2296, pulsesPerRev=20
+	Speed setting=251, RPM=1306.62
+4763: RotationSensor::ReadCount[2]: count=28109, startTime=4760252, endTime=4760264, interval=12, pulsesPerRev=20
+	Speed setting=250, RPM=250000.00
+4781: RotationSensor::ReadCount[2]: count=28117, startTime=4780592, endTime=4780604, interval=12, pulsesPerRev=20
+	Speed setting=249, RPM=250000.00
+4799: RotationSensor::ReadCount[2]: count=28122, startTime=4798556, endTime=4798568, interval=12, pulsesPerRev=20
+	Speed setting=248, RPM=250000.00
+4816: RotationSensor::ReadCount[2]: count=28127, startTime=4811864, endTime=4811876, interval=12, pulsesPerRev=20
+	Speed setting=247, RPM=250000.00
+4835: RotationSensor::ReadCount[2]: count=28135, startTime=4832508, endTime=4832520, interval=12, pulsesPerRev=20
+	Speed setting=246, RPM=250000.00
+4853: RotationSensor::ReadCount[2]: count=28142, startTime=4853236, endTime=4853248, interval=12, pulsesPerRev=20
+	Speed setting=245, RPM=250000.00
+4871: RotationSensor::ReadCount[2]: count=28146, startTime=4864060, endTime=4864072, interval=12, pulsesPerRev=20
+	Speed setting=244, RPM=250000.00
+4889: RotationSensor::ReadCount[2]: count=28154, startTime=4884980, endTime=4884992, interval=12, pulsesPerRev=20
+	Speed setting=243, RPM=250000.00
+4908: RotationSensor::ReadCount[2]: count=28162, startTime=4906652, endTime=4906664, interval=12, pulsesPerRev=20
+	Speed setting=242, RPM=250000.00
+4925: RotationSensor::ReadCount[2]: count=28167, startTime=4925480, endTime=4925492, interval=12, pulsesPerRev=20
+	Speed setting=241, RPM=250000.00
+4943: RotationSensor::ReadCount[2]: count=28172, startTime=4938676, endTime=4938688, interval=12, pulsesPerRev=20
+	Speed setting=240, RPM=250000.00
+4962: RotationSensor::ReadCount[2]: count=28180, startTime=4960076, endTime=4960088, interval=12, pulsesPerRev=20
+	Speed setting=239, RPM=250000.00
+4979: RotationSensor::ReadCount[2]: count=28186, startTime=4978664, endTime=4978676, interval=12, pulsesPerRev=20
+	Speed setting=238, RPM=250000.00
+4998: RotationSensor::ReadCount[2]: count=28192, startTime=4992172, endTime=4992184, interval=12, pulsesPerRev=20
+	Speed setting=237, RPM=250000.00
+5015: RotationSensor::ReadCount[2]: count=28198, startTime=5013836, endTime=5013848, interval=12, pulsesPerRev=20
+	Speed setting=236, RPM=250000.00
+5033: RotationSensor::ReadCount[2]: count=28204, startTime=5033104, endTime=5033116, interval=12, pulsesPerRev=20
+	Speed setting=235, RPM=250000.00
+5052: RotationSensor::ReadCount[2]: count=28210, startTime=5046660, endTime=5046672, interval=12, pulsesPerRev=20
+	Speed setting=234, RPM=250000.00
+5069: RotationSensor::ReadCount[2]: count=28217, startTime=5065964, endTime=5068344, interval=2380, pulsesPerRev=20
+	Speed setting=233, RPM=1260.50
+5088: RotationSensor::ReadCount[2]: count=28223, startTime=5088124, endTime=5088136, interval=12, pulsesPerRev=20
+	Speed setting=232, RPM=250000.00
+5106: RotationSensor::ReadCount[2]: count=28228, startTime=5098988, endTime=5101656, interval=2668, pulsesPerRev=20
+	Speed setting=231, RPM=1124.44
+5124: RotationSensor::ReadCount[2]: count=28235, startTime=5124428, endTime=5124440, interval=12, pulsesPerRev=20
+	Speed setting=230, RPM=250000.00
+5142: RotationSensor::ReadCount[2]: count=28238, startTime=5136028, endTime=5136040, interval=12, pulsesPerRev=20
+	Speed setting=229, RPM=250000.00
+5159: RotationSensor::ReadCount[2]: count=28246, startTime=5158252, endTime=5158264, interval=12, pulsesPerRev=20
+	Speed setting=228, RPM=250000.00
+5178: RotationSensor::ReadCount[2]: count=28252, startTime=5178272, endTime=5178284, interval=12, pulsesPerRev=20
+	Speed setting=227, RPM=250000.00
+5196: RotationSensor::ReadCount[2]: count=28257, startTime=5192192, endTime=5192204, interval=12, pulsesPerRev=20
+	Speed setting=226, RPM=250000.00
+5214: RotationSensor::ReadCount[2]: count=28265, startTime=5214748, endTime=5214756, interval=8, pulsesPerRev=20
+	Speed setting=225, RPM=375000.00
+5232: RotationSensor::ReadCount[2]: count=28268, startTime=5223032, endTime=5226016, interval=2984, pulsesPerRev=20
+	Speed setting=224, RPM=1005.36
+5251: RotationSensor::ReadCount[2]: count=28276, startTime=5249376, endTime=5249388, interval=12, pulsesPerRev=20
+	Speed setting=223, RPM=250000.00
+5268: RotationSensor::ReadCount[2]: count=28280, startTime=5261060, endTime=5261072, interval=12, pulsesPerRev=20
+	Speed setting=222, RPM=250000.00
+5286: RotationSensor::ReadCount[2]: count=28288, startTime=5283512, endTime=5283524, interval=12, pulsesPerRev=20
+	Speed setting=221, RPM=250000.00
+5304: RotationSensor::ReadCount[2]: count=28294, startTime=5304340, endTime=5304352, interval=12, pulsesPerRev=20
+	Speed setting=220, RPM=250000.00
+5322: RotationSensor::ReadCount[2]: count=28299, startTime=5316408, endTime=5319064, interval=2656, pulsesPerRev=20
+	Speed setting=219, RPM=1129.52
+5341: RotationSensor::ReadCount[2]: count=28305, startTime=5340012, endTime=5340024, interval=12, pulsesPerRev=20
+	Speed setting=218, RPM=250000.00
+5358: RotationSensor::ReadCount[2]: count=28310, startTime=5354988, endTime=5355000, interval=12, pulsesPerRev=20
+	Speed setting=217, RPM=250000.00
+5377: RotationSensor::ReadCount[2]: count=28315, startTime=5376144, endTime=5376156, interval=12, pulsesPerRev=20
+	Speed setting=216, RPM=250000.00
+5395: RotationSensor::ReadCount[2]: count=28321, startTime=5390832, endTime=5390844, interval=12, pulsesPerRev=20
+	Speed setting=215, RPM=250000.00
+5412: RotationSensor::ReadCount[2]: count=28327, startTime=5412088, endTime=5412100, interval=12, pulsesPerRev=20
+	Speed setting=214, RPM=250000.00
+5431: RotationSensor::ReadCount[2]: count=28333, startTime=5426664, endTime=5426676, interval=12, pulsesPerRev=20
+	Speed setting=213, RPM=250000.00
+5448: RotationSensor::ReadCount[2]: count=28339, startTime=5447496, endTime=5447508, interval=12, pulsesPerRev=20
+	Speed setting=212, RPM=250000.00
+5467: RotationSensor::ReadCount[2]: count=28345, startTime=5462968, endTime=5462980, interval=12, pulsesPerRev=20
+	Speed setting=211, RPM=250000.00
+5485: RotationSensor::ReadCount[2]: count=28351, startTime=5484508, endTime=5484520, interval=12, pulsesPerRev=20
+	Speed setting=210, RPM=250000.00
+5502: RotationSensor::ReadCount[2]: count=28357, startTime=5500148, endTime=5500160, interval=12, pulsesPerRev=20
+	Speed setting=209, RPM=250000.00
+5521: RotationSensor::ReadCount[2]: count=28363, startTime=5521128, endTime=5521140, interval=12, pulsesPerRev=20
+	Speed setting=208, RPM=250000.00
+5539: RotationSensor::ReadCount[2]: count=28369, startTime=5536456, endTime=5536468, interval=12, pulsesPerRev=20
+	Speed setting=207, RPM=250000.00
+5557: RotationSensor::ReadCount[2]: count=28373, startTime=5549312, endTime=5549324, interval=12, pulsesPerRev=20
+	Speed setting=206, RPM=250000.00
+5575: RotationSensor::ReadCount[2]: count=28380, startTime=5574324, endTime=5574336, interval=12, pulsesPerRev=20
+	Speed setting=205, RPM=250000.00
+5593: RotationSensor::ReadCount[2]: count=28383, startTime=5584236, endTime=5586928, interval=2692, pulsesPerRev=20
+	Speed setting=204, RPM=1114.41
+5611: RotationSensor::ReadCount[2]: count=28387, startTime=5610236, endTime=5610248, interval=12, pulsesPerRev=20
+	Speed setting=203, RPM=250000.00
+5629: RotationSensor::ReadCount[2]: count=28391, startTime=5622524, endTime=5625848, interval=3324, pulsesPerRev=20
+	Speed setting=202, RPM=902.53
+5647: RotationSensor::ReadCount[2]: count=28396, startTime=5638416, endTime=5648044, interval=9628, pulsesPerRev=20
+	Speed setting=201, RPM=311.59
+5665: RotationSensor::ReadCount[2]: count=28402, startTime=5663932, endTime=5663944, interval=12, pulsesPerRev=20
+	Speed setting=200, RPM=250000.00
+5683: RotationSensor::ReadCount[2]: count=28406, startTime=5676708, endTime=5676720, interval=12, pulsesPerRev=20
+	Speed setting=199, RPM=250000.00
+5701: RotationSensor::ReadCount[2]: count=28412, startTime=5698988, endTime=5699000, interval=12, pulsesPerRev=20
+	Speed setting=198, RPM=250000.00
+5720: RotationSensor::ReadCount[2]: count=28418, startTime=5715364, endTime=5715376, interval=12, pulsesPerRev=20
+	Speed setting=197, RPM=250000.00
+5737: RotationSensor::ReadCount[2]: count=28422, startTime=5728712, endTime=5728724, interval=12, pulsesPerRev=20
+	Speed setting=196, RPM=250000.00
+5755: RotationSensor::ReadCount[2]: count=28430, startTime=5755120, endTime=5755132, interval=12, pulsesPerRev=20
+	Speed setting=195, RPM=250000.00
+5774: RotationSensor::ReadCount[2]: count=28434, startTime=5767964, endTime=5767976, interval=12, pulsesPerRev=20
+	Speed setting=194, RPM=250000.00
+5791: RotationSensor::ReadCount[2]: count=28439, startTime=5791564, endTime=5791576, interval=12, pulsesPerRev=20
+	Speed setting=193, RPM=250000.00
+5810: RotationSensor::ReadCount[2]: count=28445, startTime=5808204, endTime=5808216, interval=12, pulsesPerRev=20
+	Speed setting=192, RPM=250000.00
+5828: RotationSensor::ReadCount[2]: count=28449, startTime=5821572, endTime=5821584, interval=12, pulsesPerRev=20
+	Speed setting=191, RPM=250000.00
+5846: RotationSensor::ReadCount[2]: count=28454, startTime=5845564, endTime=5845576, interval=12, pulsesPerRev=20
+	Speed setting=190, RPM=250000.00
+5864: RotationSensor::ReadCount[2]: count=28460, startTime=5862968, endTime=5862980, interval=12, pulsesPerRev=20
+	Speed setting=189, RPM=250000.00
+5881: RotationSensor::ReadCount[2]: count=28463, startTime=5873776, endTime=5877060, interval=3284, pulsesPerRev=20
+	Speed setting=188, RPM=913.52
+5900: RotationSensor::ReadCount[2]: count=28467, startTime=5890836, endTime=5890848, interval=12, pulsesPerRev=20
+	Speed setting=187, RPM=250000.00
+5918: RotationSensor::ReadCount[2]: count=28474, startTime=5917692, endTime=5917704, interval=12, pulsesPerRev=20
+	Speed setting=186, RPM=250000.00
+5936: RotationSensor::ReadCount[2]: count=28477, startTime=5931488, endTime=5931500, interval=12, pulsesPerRev=20
+	Speed setting=185, RPM=250000.00
+5954: RotationSensor::ReadCount[2]: count=28480, startTime=5942032, endTime=5945556, interval=3524, pulsesPerRev=20
+	Speed setting=184, RPM=851.31
+5971: RotationSensor::ReadCount[2]: count=28486, startTime=5969740, endTime=5969752, interval=12, pulsesPerRev=20
+	Speed setting=183, RPM=250000.00
+5990: RotationSensor::ReadCount[2]: count=28492, startTime=5987464, endTime=5987472, interval=8, pulsesPerRev=20
+	Speed setting=182, RPM=375000.00
+6008: RotationSensor::ReadCount[2]: count=28496, startTime=6001516, endTime=6001528, interval=12, pulsesPerRev=20
+	Speed setting=181, RPM=250000.00
+6026: RotationSensor::ReadCount[2]: count=28502, startTime=6026664, endTime=6026676, interval=12, pulsesPerRev=20
+	Speed setting=180, RPM=250000.00
+6044: RotationSensor::ReadCount[2]: count=28506, startTime=6040940, endTime=6044496, interval=3556, pulsesPerRev=20
+	Speed setting=179, RPM=843.64
+6062: RotationSensor::ReadCount[2]: count=28509, startTime=6058368, endTime=6058376, interval=8, pulsesPerRev=20
+	Speed setting=178, RPM=375000.00
+6080: RotationSensor::ReadCount[2]: count=28512, startTime=6070012, endTime=6073188, interval=3176, pulsesPerRev=20
+	Speed setting=177, RPM=944.58
+6097: RotationSensor::ReadCount[2]: count=28516, startTime=6088388, endTime=6088400, interval=12, pulsesPerRev=20
+	Speed setting=176, RPM=250000.00
+6116: RotationSensor::ReadCount[2]: count=28521, startTime=6114132, endTime=6114144, interval=12, pulsesPerRev=20
+	Speed setting=175, RPM=250000.00
+6134: RotationSensor::ReadCount[2]: count=28527, startTime=6132488, endTime=6132500, interval=12, pulsesPerRev=20
+	Speed setting=174, RPM=250000.00
+6152: RotationSensor::ReadCount[2]: count=28531, startTime=6147896, endTime=6147908, interval=12, pulsesPerRev=20
+	Speed setting=173, RPM=250000.00
+6170: RotationSensor::ReadCount[2]: count=28534, startTime=6159776, endTime=6163348, interval=3572, pulsesPerRev=20
+	Speed setting=172, RPM=839.87
+6189: RotationSensor::ReadCount[2]: count=28538, startTime=6178604, endTime=6178616, interval=12, pulsesPerRev=20
+	Speed setting=171, RPM=250000.00
+6206: RotationSensor::ReadCount[2]: count=28544, startTime=6204656, endTime=6204668, interval=12, pulsesPerRev=20
+	Speed setting=170, RPM=250000.00
+6224: RotationSensor::ReadCount[2]: count=28549, startTime=6223244, endTime=6223256, interval=12, pulsesPerRev=20
+	Speed setting=169, RPM=250000.00
+6242: RotationSensor::ReadCount[2]: count=28553, startTime=6238800, endTime=6238812, interval=12, pulsesPerRev=20
+	Speed setting=168, RPM=250000.00
+6260: RotationSensor::ReadCount[2]: count=28557, startTime=6254344, endTime=6254356, interval=12, pulsesPerRev=20
+	Speed setting=167, RPM=250000.00
+6279: RotationSensor::ReadCount[2]: count=28561, startTime=6269588, endTime=6269600, interval=12, pulsesPerRev=20
+	Speed setting=166, RPM=250000.00
+6296: RotationSensor::ReadCount[2]: count=28567, startTime=6296220, endTime=6296232, interval=12, pulsesPerRev=20
+	Speed setting=165, RPM=250000.00
+6315: RotationSensor::ReadCount[2]: count=28571, startTime=6312040, endTime=6312052, interval=12, pulsesPerRev=20
+	Speed setting=164, RPM=250000.00
+6333: RotationSensor::ReadCount[2]: count=28576, startTime=6328124, endTime=6332280, interval=4156, pulsesPerRev=20
+	Speed setting=163, RPM=721.85
+6350: RotationSensor::ReadCount[2]: count=28580, startTime=6347888, endTime=6347900, interval=12, pulsesPerRev=20
+	Speed setting=162, RPM=250000.00
+6369: RotationSensor::ReadCount[2]: count=28583, startTime=6363092, endTime=6363104, interval=12, pulsesPerRev=20
+	Speed setting=161, RPM=250000.00
+6386: RotationSensor::ReadCount[2]: count=28587, startTime=6379252, endTime=6379264, interval=12, pulsesPerRev=20
+	Speed setting=160, RPM=250000.00
+6405: RotationSensor::ReadCount[2]: count=28591, startTime=6396128, endTime=6396136, interval=8, pulsesPerRev=20
+	Speed setting=159, RPM=375000.00
+6423: RotationSensor::ReadCount[2]: count=28595, startTime=6412644, endTime=6412656, interval=12, pulsesPerRev=20
+	Speed setting=158, RPM=250000.00
+6440: RotationSensor::ReadCount[2]: count=28599, startTime=6429064, endTime=6429076, interval=12, pulsesPerRev=20
+	Speed setting=157, RPM=250000.00
+6459: RotationSensor::ReadCount[2]: count=28604, startTime=6458420, endTime=6458432, interval=12, pulsesPerRev=20
+	Speed setting=156, RPM=250000.00
+6476: RotationSensor::ReadCount[2]: count=28607, startTime=6462848, endTime=6475912, interval=13064, pulsesPerRev=20
+	Speed setting=155, RPM=229.64
+6495: RotationSensor::ReadCount[2]: count=28611, startTime=6492692, endTime=6492704, interval=12, pulsesPerRev=20
+	Speed setting=154, RPM=250000.00
+6513: RotationSensor::ReadCount[2]: count=28617, startTime=6513500, endTime=6513512, interval=12, pulsesPerRev=20
+	Speed setting=153, RPM=250000.00
+6531: RotationSensor::ReadCount[2]: count=28620, startTime=6526776, endTime=6530836, interval=4060, pulsesPerRev=20
+	Speed setting=152, RPM=738.92
+6549: RotationSensor::ReadCount[2]: count=28624, startTime=6547688, endTime=6547700, interval=12, pulsesPerRev=20
+	Speed setting=151, RPM=250000.00
+6567: RotationSensor::ReadCount[2]: count=28627, startTime=6564736, endTime=6564748, interval=12, pulsesPerRev=20
+	Speed setting=150, RPM=250000.00
+6585: RotationSensor::ReadCount[2]: count=28631, startTime=6581932, endTime=6581944, interval=12, pulsesPerRev=20
+	Speed setting=149, RPM=250000.00
+6603: RotationSensor::ReadCount[2]: count=28635, startTime=6599108, endTime=6599120, interval=12, pulsesPerRev=20
+	Speed setting=148, RPM=250000.00
+6621: RotationSensor::ReadCount[2]: count=28639, startTime=6616448, endTime=6616460, interval=12, pulsesPerRev=20
+	Speed setting=147, RPM=250000.00
+6639: RotationSensor::ReadCount[2]: count=28643, startTime=6634100, endTime=6634112, interval=12, pulsesPerRev=20
+	Speed setting=146, RPM=250000.00
+6658: RotationSensor::ReadCount[2]: count=28646, startTime=6647244, endTime=6651912, interval=4668, pulsesPerRev=20
+	Speed setting=145, RPM=642.67
+6675: RotationSensor::ReadCount[2]: count=28650, startTime=6670088, endTime=6670100, interval=12, pulsesPerRev=20
+	Speed setting=144, RPM=250000.00
+6693: RotationSensor::ReadCount[2]: count=28653, startTime=6683156, endTime=6687752, interval=4596, pulsesPerRev=20
+	Speed setting=143, RPM=652.74
+6711: RotationSensor::ReadCount[2]: count=28657, startTime=6705324, endTime=6705336, interval=12, pulsesPerRev=20
+	Speed setting=142, RPM=250000.00
+6729: RotationSensor::ReadCount[2]: count=28661, startTime=6723656, endTime=6723668, interval=12, pulsesPerRev=20
+	Speed setting=141, RPM=250000.00
+6748: RotationSensor::ReadCount[2]: count=28665, startTime=6742732, endTime=6742744, interval=12, pulsesPerRev=20
+	Speed setting=140, RPM=250000.00
+6765: RotationSensor::ReadCount[2]: count=28669, startTime=6761340, endTime=6761352, interval=12, pulsesPerRev=20
+	Speed setting=139, RPM=250000.00
+6784: RotationSensor::ReadCount[2]: count=28673, startTime=6780316, endTime=6780328, interval=12, pulsesPerRev=20
+	Speed setting=138, RPM=250000.00
+6802: RotationSensor::ReadCount[2]: count=28677, startTime=6799568, endTime=6799580, interval=12, pulsesPerRev=20
+	Speed setting=137, RPM=250000.00
+6819: RotationSensor::ReadCount[2]: count=28681, startTime=6819576, endTime=6819588, interval=12, pulsesPerRev=20
+	Speed setting=136, RPM=250000.00
+6838: RotationSensor::ReadCount[2]: count=28682, startTime=6819588, endTime=6834528, interval=14940, pulsesPerRev=20
+	Speed setting=135, RPM=200.80
+6855: RotationSensor::ReadCount[2]: count=28686, startTime=6853468, endTime=6853480, interval=12, pulsesPerRev=20
+	Speed setting=134, RPM=250000.00
+6874: RotationSensor::ReadCount[2]: count=28690, startTime=6873376, endTime=6873388, interval=12, pulsesPerRev=20
+	Speed setting=133, RPM=250000.00
+6892: RotationSensor::ReadCount[2]: count=28691, startTime=6873388, endTime=6877932, interval=4544, pulsesPerRev=20
+	Speed setting=132, RPM=660.21
+6909: RotationSensor::ReadCount[2]: count=28694, startTime=6892916, endTime=6897788, interval=4872, pulsesPerRev=20
+	Speed setting=131, RPM=615.76
+6928: RotationSensor::ReadCount[2]: count=28698, startTime=6917700, endTime=6917712, interval=12, pulsesPerRev=20
+	Speed setting=130, RPM=250000.00
+6945: RotationSensor::ReadCount[2]: count=28702, startTime=6937356, endTime=6937368, interval=12, pulsesPerRev=20
+	Speed setting=129, RPM=250000.00
+6964: RotationSensor::ReadCount[2]: count=28706, startTime=6957448, endTime=6957460, interval=12, pulsesPerRev=20
+	Speed setting=128, RPM=250000.00
+6982: RotationSensor::ReadCount[2]: count=28710, startTime=6977296, endTime=6977308, interval=12, pulsesPerRev=20
+	Speed setting=127, RPM=250000.00
+7000: RotationSensor::ReadCount[2]: count=28714, startTime=6997424, endTime=6997436, interval=12, pulsesPerRev=20
+	Speed setting=126, RPM=250000.00
+7018: RotationSensor::ReadCount[2]: count=28718, startTime=7018648, endTime=7018660, interval=12, pulsesPerRev=20
+	Speed setting=125, RPM=250000.00
+7036: RotationSensor::ReadCount[2]: count=28720, startTime=7034352, endTime=7034364, interval=12, pulsesPerRev=20
+	Speed setting=124, RPM=250000.00
+7054: RotationSensor::ReadCount[2]: count=28722, startTime=7039760, endTime=7039772, interval=12, pulsesPerRev=20
+	Speed setting=123, RPM=250000.00
+7072: RotationSensor::ReadCount[2]: count=28726, startTime=7060936, endTime=7060948, interval=12, pulsesPerRev=20
+	Speed setting=122, RPM=250000.00
+7090: RotationSensor::ReadCount[2]: count=28730, startTime=7081928, endTime=7081940, interval=12, pulsesPerRev=20
+	Speed setting=121, RPM=250000.00
+7108: RotationSensor::ReadCount[2]: count=28734, startTime=7103176, endTime=7103188, interval=12, pulsesPerRev=20
+	Speed setting=120, RPM=250000.00
+7127: RotationSensor::ReadCount[2]: count=28738, startTime=7125192, endTime=7125204, interval=12, pulsesPerRev=20
+	Speed setting=119, RPM=250000.00
+7144: RotationSensor::ReadCount[2]: count=28740, startTime=7142644, endTime=7142652, interval=8, pulsesPerRev=20
+	Speed setting=118, RPM=375000.00
+7162: RotationSensor::ReadCount[2]: count=28742, startTime=7148148, endTime=7148160, interval=12, pulsesPerRev=20
+	Speed setting=117, RPM=250000.00
+7181: RotationSensor::ReadCount[2]: count=28745, startTime=7170352, endTime=7170360, interval=8, pulsesPerRev=20
+	Speed setting=116, RPM=375000.00
+7198: RotationSensor::ReadCount[2]: count=28748, startTime=7192664, endTime=7192676, interval=12, pulsesPerRev=20
+	Speed setting=115, RPM=250000.00
+7217: RotationSensor::ReadCount[2]: count=28751, startTime=7211032, endTime=7216224, interval=5192, pulsesPerRev=20
+	Speed setting=114, RPM=577.81
+7234: RotationSensor::ReadCount[2]: count=28753, startTime=7234440, endTime=7234452, interval=12, pulsesPerRev=20
+	Speed setting=113, RPM=250000.00
+7252: RotationSensor::ReadCount[2]: count=28755, startTime=7240804, endTime=7240816, interval=12, pulsesPerRev=20
+	Speed setting=112, RPM=250000.00
+7271: RotationSensor::ReadCount[2]: count=28759, startTime=7265148, endTime=7265160, interval=12, pulsesPerRev=20
+	Speed setting=111, RPM=250000.00
+7288: RotationSensor::ReadCount[2]: count=28763, startTime=7289108, endTime=7289120, interval=12, pulsesPerRev=20
+	Speed setting=110, RPM=250000.00
+7307: RotationSensor::ReadCount[2]: count=28765, startTime=7306932, endTime=7306944, interval=12, pulsesPerRev=20
+	Speed setting=109, RPM=250000.00
+7324: RotationSensor::ReadCount[2]: count=28767, startTime=7312308, endTime=7312320, interval=12, pulsesPerRev=20
+	Speed setting=108, RPM=250000.00
+7343: RotationSensor::ReadCount[2]: count=28770, startTime=7330652, endTime=7336496, interval=5844, pulsesPerRev=20
+	Speed setting=107, RPM=513.35
+7361: RotationSensor::ReadCount[2]: count=28774, startTime=7360996, endTime=7361008, interval=12, pulsesPerRev=20
+	Speed setting=106, RPM=250000.00
+7378: RotationSensor::ReadCount[2]: count=28776, startTime=7379608, endTime=7379620, interval=12, pulsesPerRev=20
+	Speed setting=105, RPM=250000.00
+7397: RotationSensor::ReadCount[2]: count=28778, startTime=7385860, endTime=7385872, interval=12, pulsesPerRev=20
+	Speed setting=104, RPM=250000.00
+7414: RotationSensor::ReadCount[2]: count=28782, startTime=7410724, endTime=7410736, interval=12, pulsesPerRev=20
+	Speed setting=103, RPM=250000.00
+7433: RotationSensor::ReadCount[2]: count=28784, startTime=7428848, endTime=7428860, interval=12, pulsesPerRev=20
+	Speed setting=102, RPM=250000.00
+7451: RotationSensor::ReadCount[2]: count=28786, startTime=7435688, endTime=7435700, interval=12, pulsesPerRev=20
+	Speed setting=101, RPM=250000.00
+7469: RotationSensor::ReadCount[2]: count=28790, startTime=7461004, endTime=7461016, interval=12, pulsesPerRev=20
+	Speed setting=100, RPM=250000.00
+7487: RotationSensor::ReadCount[2]: count=28794, startTime=7487956, endTime=7487968, interval=12, pulsesPerRev=20
+	Speed setting=99, RPM=250000.00
+7505: RotationSensor::ReadCount[2]: count=28794, startTime=7487956, endTime=7487968, interval=12, pulsesPerRev=20
+	Speed setting=98, RPM=250000.00
+7523: RotationSensor::ReadCount[2]: count=28798, startTime=7515048, endTime=7515060, interval=12, pulsesPerRev=20
+	Speed setting=97, RPM=250000.00
+7541: RotationSensor::ReadCount[2]: count=28799, startTime=7515060, endTime=7535408, interval=20348, pulsesPerRev=20
+	Speed setting=96, RPM=147.43
+7559: RotationSensor::ReadCount[2]: count=28801, startTime=7542552, endTime=7542564, interval=12, pulsesPerRev=20
+	Speed setting=95, RPM=250000.00
+7577: RotationSensor::ReadCount[2]: count=28805, startTime=7569620, endTime=7569632, interval=12, pulsesPerRev=20
+	Speed setting=94, RPM=250000.00
+7595: RotationSensor::ReadCount[2]: count=28807, startTime=7590040, endTime=7590052, interval=12, pulsesPerRev=20
+	Speed setting=93, RPM=250000.00
+7613: RotationSensor::ReadCount[2]: count=28809, startTime=7596484, endTime=7596496, interval=12, pulsesPerRev=20
+	Speed setting=92, RPM=250000.00
+7630: RotationSensor::ReadCount[2]: count=28812, startTime=7625936, endTime=7625948, interval=12, pulsesPerRev=20
+	Speed setting=91, RPM=250000.00
+7649: RotationSensor::ReadCount[2]: count=28812, startTime=7625936, endTime=7625948, interval=12, pulsesPerRev=20
+	Speed setting=90, RPM=250000.00
+7666: RotationSensor::ReadCount[2]: count=28815, startTime=7649868, endTime=7657384, interval=7516, pulsesPerRev=20
+	Speed setting=89, RPM=399.15
+7685: RotationSensor::ReadCount[2]: count=28817, startTime=7680344, endTime=7680356, interval=12, pulsesPerRev=20
+	Speed setting=88, RPM=250000.00
+7703: RotationSensor::ReadCount[2]: count=28819, startTime=7687652, endTime=7687664, interval=12, pulsesPerRev=20
+	Speed setting=87, RPM=250000.00
+7720: RotationSensor::ReadCount[2]: count=28823, startTime=7717376, endTime=7717388, interval=12, pulsesPerRev=20
+	Speed setting=86, RPM=250000.00
+7739: RotationSensor::ReadCount[2]: count=28823, startTime=7717376, endTime=7717388, interval=12, pulsesPerRev=20
+	Speed setting=85, RPM=250000.00
+7756: RotationSensor::ReadCount[2]: count=28827, startTime=7748440, endTime=7748452, interval=12, pulsesPerRev=20
+	Speed setting=84, RPM=250000.00
+7775: RotationSensor::ReadCount[2]: count=28829, startTime=7773312, endTime=7773324, interval=12, pulsesPerRev=20
+	Speed setting=83, RPM=250000.00
+7792: RotationSensor::ReadCount[2]: count=28831, startTime=7782088, endTime=7782100, interval=12, pulsesPerRev=20
+	Speed setting=82, RPM=250000.00
+7811: RotationSensor::ReadCount[2]: count=28833, startTime=7809252, endTime=7809264, interval=12, pulsesPerRev=20
+	Speed setting=81, RPM=250000.00
+7828: RotationSensor::ReadCount[2]: count=28835, startTime=7817520, endTime=7817532, interval=12, pulsesPerRev=20
+	Speed setting=80, RPM=250000.00
+7846: RotationSensor::ReadCount[2]: count=28837, startTime=7843136, endTime=7843148, interval=12, pulsesPerRev=20
+	Speed setting=79, RPM=250000.00
+7864: RotationSensor::ReadCount[2]: count=28839, startTime=7852472, endTime=7852484, interval=12, pulsesPerRev=20
+	Speed setting=78, RPM=250000.00
+7882: RotationSensor::ReadCount[2]: count=28841, startTime=7878036, endTime=7878048, interval=12, pulsesPerRev=20
+	Speed setting=77, RPM=250000.00
+7900: RotationSensor::ReadCount[2]: count=28843, startTime=7885432, endTime=7885444, interval=12, pulsesPerRev=20
+	Speed setting=76, RPM=250000.00
+7918: RotationSensor::ReadCount[2]: count=28845, startTime=7911968, endTime=7911980, interval=12, pulsesPerRev=20
+	Speed setting=75, RPM=250000.00
+7937: RotationSensor::ReadCount[2]: count=28847, startTime=7920316, endTime=7920328, interval=12, pulsesPerRev=20
+	Speed setting=74, RPM=250000.00
+7954: RotationSensor::ReadCount[2]: count=28849, startTime=7947452, endTime=7947460, interval=8, pulsesPerRev=20
+	Speed setting=73, RPM=375000.00
+7972: RotationSensor::ReadCount[2]: count=28851, startTime=7955296, endTime=7955308, interval=12, pulsesPerRev=20
+	Speed setting=72, RPM=250000.00
+7990: RotationSensor::ReadCount[2]: count=28853, startTime=7983128, endTime=7983140, interval=12, pulsesPerRev=20
+	Speed setting=71, RPM=250000.00
+8008: RotationSensor::ReadCount[2]: count=28855, startTime=7992588, endTime=7992600, interval=12, pulsesPerRev=20
+	Speed setting=70, RPM=250000.00
+8026: RotationSensor::ReadCount[2]: count=28857, startTime=8020220, endTime=8020232, interval=12, pulsesPerRev=20
+	Speed setting=69, RPM=250000.00
+8044: RotationSensor::ReadCount[2]: count=28859, startTime=8030844, endTime=8030856, interval=12, pulsesPerRev=20
+	Speed setting=68, RPM=250000.00
+8061: RotationSensor::ReadCount[2]: count=28861, startTime=8059416, endTime=8059428, interval=12, pulsesPerRev=20
+	Speed setting=67, RPM=250000.00
+8080: RotationSensor::ReadCount[2]: count=28863, startTime=8070384, endTime=8070396, interval=12, pulsesPerRev=20
+	Speed setting=66, RPM=250000.00
+8097: RotationSensor::ReadCount[2]: count=28863, startTime=8070384, endTime=8070396, interval=12, pulsesPerRev=20
+	Speed setting=65, RPM=250000.00
+8116: RotationSensor::ReadCount[2]: count=28867, startTime=8110356, endTime=8110368, interval=12, pulsesPerRev=20
+	Speed setting=64, RPM=250000.00
+8134: RotationSensor::ReadCount[2]: count=28867, startTime=8110356, endTime=8110368, interval=12, pulsesPerRev=20
+	Speed setting=63, RPM=250000.00
+8152: RotationSensor::ReadCount[2]: count=28869, startTime=8141068, endTime=8141080, interval=12, pulsesPerRev=20
+	Speed setting=62, RPM=250000.00
+8170: RotationSensor::ReadCount[2]: count=28871, startTime=8152996, endTime=8153008, interval=12, pulsesPerRev=20
+	Speed setting=61, RPM=250000.00
+8187: RotationSensor::ReadCount[2]: count=28873, startTime=8186840, endTime=8186852, interval=12, pulsesPerRev=20
+	Speed setting=60, RPM=250000.00
+8206: RotationSensor::ReadCount[2]: count=28875, startTime=8198744, endTime=8198756, interval=12, pulsesPerRev=20
+	Speed setting=59, RPM=250000.00
+8223: RotationSensor::ReadCount[2]: count=28875, startTime=8198744, endTime=8198756, interval=12, pulsesPerRev=20
+	Speed setting=58, RPM=250000.00
+8242: RotationSensor::ReadCount[2]: count=28877, startTime=8233256, endTime=8233268, interval=12, pulsesPerRev=20
+	Speed setting=57, RPM=250000.00
+8259: RotationSensor::ReadCount[2]: count=28879, startTime=8245496, endTime=8245508, interval=12, pulsesPerRev=20
+	Speed setting=56, RPM=250000.00
+8278: RotationSensor::ReadCount[2]: count=28879, startTime=8245496, endTime=8245508, interval=12, pulsesPerRev=20
+	Speed setting=55, RPM=250000.00
+8295: RotationSensor::ReadCount[2]: count=28883, startTime=8293816, endTime=8293828, interval=12, pulsesPerRev=20
+	Speed setting=54, RPM=250000.00
+8313: RotationSensor::ReadCount[2]: count=28883, startTime=8293816, endTime=8293828, interval=12, pulsesPerRev=20
+	Speed setting=53, RPM=250000.00
+8332: RotationSensor::ReadCount[2]: count=28885, startTime=8330828, endTime=8330840, interval=12, pulsesPerRev=20
+	Speed setting=52, RPM=250000.00
+8349: RotationSensor::ReadCount[2]: count=28886, startTime=8330840, endTime=8342884, interval=12044, pulsesPerRev=20
+	Speed setting=51, RPM=249.09
+8368: RotationSensor::ReadCount[2]: count=28886, startTime=8330840, endTime=8342884, interval=12044, pulsesPerRev=20
+	Speed setting=50, RPM=249.09
+8385: RotationSensor::ReadCount[2]: count=28886, startTime=8330840, endTime=8342884, interval=12044, pulsesPerRev=20
+	Speed setting=49, RPM=249.09
+8403: RotationSensor::ReadCount[2]: count=28890, startTime=8398012, endTime=8398024, interval=12, pulsesPerRev=20
+	Speed setting=48, RPM=250000.00
+8421: RotationSensor::ReadCount[2]: count=28890, startTime=8398012, endTime=8398024, interval=12, pulsesPerRev=20
+	Speed setting=47, RPM=250000.00
+8439: RotationSensor::ReadCount[2]: count=28890, startTime=8398012, endTime=8398024, interval=12, pulsesPerRev=20
+	Speed setting=46, RPM=250000.00
+8457: RotationSensor::ReadCount[2]: count=28892, startTime=8446040, endTime=8446052, interval=12, pulsesPerRev=20
+	Speed setting=45, RPM=250000.00
+8475: RotationSensor::ReadCount[2]: count=28894, startTime=8462964, endTime=8462976, interval=12, pulsesPerRev=20
+	Speed setting=44, RPM=250000.00
+8493: RotationSensor::ReadCount[2]: count=28894, startTime=8462964, endTime=8462976, interval=12, pulsesPerRev=20
+	Speed setting=43, RPM=250000.00
+8511: RotationSensor::ReadCount[2]: count=28894, startTime=8462964, endTime=8462976, interval=12, pulsesPerRev=20
+	Speed setting=42, RPM=250000.00
+8529: RotationSensor::ReadCount[2]: count=28895, startTime=8462976, endTime=8522076, interval=59100, pulsesPerRev=20
+	Speed setting=41, RPM=50.76
+8547: RotationSensor::ReadCount[2]: count=28897, startTime=8540416, endTime=8540428, interval=12, pulsesPerRev=20
+	Speed setting=40, RPM=250000.00
+8565: RotationSensor::ReadCount[2]: count=28897, startTime=8540416, endTime=8540428, interval=12, pulsesPerRev=20
+	Speed setting=39, RPM=250000.00
+8583: RotationSensor::ReadCount[2]: count=28897, startTime=8540416, endTime=8540428, interval=12, pulsesPerRev=20
+	Speed setting=38, RPM=250000.00
+8601: RotationSensor::ReadCount[2]: count=28899, startTime=8596564, endTime=8596572, interval=8, pulsesPerRev=20
+	Speed setting=37, RPM=375000.00
+8619: RotationSensor::ReadCount[2]: count=28901, startTime=8615520, endTime=8615532, interval=12, pulsesPerRev=20
+	Speed setting=36, RPM=250000.00
+8637: RotationSensor::ReadCount[2]: count=28901, startTime=8615520, endTime=8615532, interval=12, pulsesPerRev=20
+	Speed setting=35, RPM=250000.00
+8654: RotationSensor::ReadCount[2]: count=28901, startTime=8615520, endTime=8615532, interval=12, pulsesPerRev=20
+	Speed setting=34, RPM=250000.00
+8673: RotationSensor::ReadCount[2]: count=28901, startTime=8615520, endTime=8615532, interval=12, pulsesPerRev=20
+	Speed setting=33, RPM=250000.00
+8690: RotationSensor::ReadCount[2]: count=28903, startTime=8680880, endTime=8680892, interval=12, pulsesPerRev=20
+	Speed setting=32, RPM=250000.00
+8709: RotationSensor::ReadCount[2]: count=28905, startTime=8699896, endTime=8699908, interval=12, pulsesPerRev=20
+	Speed setting=31, RPM=250000.00
+8726: RotationSensor::ReadCount[2]: count=28905, startTime=8699896, endTime=8699908, interval=12, pulsesPerRev=20
+	Speed setting=30, RPM=250000.00
+8744: RotationSensor::ReadCount[2]: count=28905, startTime=8699896, endTime=8699908, interval=12, pulsesPerRev=20
+	Speed setting=29, RPM=250000.00
+8763: RotationSensor::ReadCount[2]: count=28905, startTime=8699896, endTime=8699908, interval=12, pulsesPerRev=20
+	Speed setting=28, RPM=250000.00
+8780: RotationSensor::ReadCount[2]: count=28907, startTime=8778804, endTime=8778816, interval=12, pulsesPerRev=20
+	Speed setting=27, RPM=250000.00
+8799: RotationSensor::ReadCount[2]: count=28907, startTime=8778804, endTime=8778816, interval=12, pulsesPerRev=20
+	Speed setting=26, RPM=250000.00
+8816: RotationSensor::ReadCount[2]: count=28909, startTime=8810156, endTime=8810168, interval=12, pulsesPerRev=20
+	Speed setting=25, RPM=250000.00
+8835: RotationSensor::ReadCount[2]: count=28909, startTime=8810156, endTime=8810168, interval=12, pulsesPerRev=20
+	Speed setting=24, RPM=250000.00
+8852: RotationSensor::ReadCount[2]: count=28909, startTime=8810156, endTime=8810168, interval=12, pulsesPerRev=20
+	Speed setting=23, RPM=250000.00
+8870: RotationSensor::ReadCount[2]: count=28909, startTime=8810156, endTime=8810168, interval=12, pulsesPerRev=20
+	Speed setting=22, RPM=250000.00
+8888: RotationSensor::ReadCount[2]: count=28909, startTime=8810156, endTime=8810168, interval=12, pulsesPerRev=20
+	Speed setting=21, RPM=250000.00
+8906: RotationSensor::ReadCount[2]: count=28909, startTime=8810156, endTime=8810168, interval=12, pulsesPerRev=20
+	Speed setting=20, RPM=250000.00
+8924: RotationSensor::ReadCount[2]: count=28909, startTime=8810156, endTime=8810168, interval=12, pulsesPerRev=20
+	Speed setting=19, RPM=250000.00
+8942: RotationSensor::ReadCount[2]: count=28911, startTime=8938192, endTime=8938204, interval=12, pulsesPerRev=20
+	Speed setting=18, RPM=250000.00
+8961: RotationSensor::ReadCount[2]: count=28911, startTime=8938192, endTime=8938204, interval=12, pulsesPerRev=20
+	Speed setting=17, RPM=250000.00
+8978: RotationSensor::ReadCount[2]: count=28911, startTime=8938192, endTime=8938204, interval=12, pulsesPerRev=20
+	Speed setting=16, RPM=250000.00
+8996: RotationSensor::ReadCount[2]: count=28911, startTime=8938192, endTime=8938204, interval=12, pulsesPerRev=20
+	Speed setting=15, RPM=250000.00
+9014: RotationSensor::ReadCount[2]: count=28914, startTime=9007704, endTime=9007712, interval=8, pulsesPerRev=20
+	Speed setting=14, RPM=375000.00
+9032: RotationSensor::ReadCount[2]: count=28914, startTime=9007704, endTime=9007712, interval=8, pulsesPerRev=20
+	Speed setting=13, RPM=375000.00
+9050: RotationSensor::ReadCount[2]: count=28914, startTime=9007704, endTime=9007712, interval=8, pulsesPerRev=20
+	Speed setting=12, RPM=375000.00
+9068: RotationSensor::ReadCount[2]: count=28914, startTime=9007704, endTime=9007712, interval=8, pulsesPerRev=20
+	Speed setting=11, RPM=375000.00
+9085: RotationSensor::ReadCount[2]: count=28914, startTime=9007704, endTime=9007712, interval=8, pulsesPerRev=20
+	Speed setting=10, RPM=375000.00
+9103: RotationSensor::ReadCount[2]: count=28914, startTime=9007704, endTime=9007712, interval=8, pulsesPerRev=20
+	Speed setting=9, RPM=375000.00
+9121: RotationSensor::ReadCount[2]: count=28914, startTime=9007704, endTime=9007712, interval=8, pulsesPerRev=20
+	Speed setting=8, RPM=375000.00
+9139: RotationSensor::ReadCount[2]: count=28914, startTime=9007704, endTime=9007712, interval=8, pulsesPerRev=20
+	Speed setting=7, RPM=375000.00
+9157: RotationSensor::ReadCount[2]: count=28914, startTime=9007704, endTime=9007712, interval=8, pulsesPerRev=20
+	Speed setting=6, RPM=375000.00
+9175: RotationSensor::ReadCount[2]: count=28914, startTime=9007704, endTime=9007712, interval=8, pulsesPerRev=20
+	Speed setting=5, RPM=375000.00
+9192: RotationSensor::ReadCount[2]: count=28914, startTime=9007704, endTime=9007712, interval=8, pulsesPerRev=20
+	Speed setting=4, RPM=375000.00
+9210: RotationSensor::ReadCount[2]: count=28914, startTime=9007704, endTime=9007712, interval=8, pulsesPerRev=20
+	Speed setting=3, RPM=375000.00
+9228: RotationSensor::ReadCount[2]: count=28914, startTime=9007704, endTime=9007712, interval=8, pulsesPerRev=20
+	Speed setting=2, RPM=375000.00
+9246: RotationSensor::ReadCount[2]: count=28914, startTime=9007704, endTime=9007712, interval=8, pulsesPerRev=20
+	Speed setting=1, RPM=375000.00
+	Running motor backward from 0 to 255 to 0, in 50ms increments
+9270: RotationSensor::ReadCount[2]: count=28914, startTime=9007704, endTime=9007712, interval=8, pulsesPerRev=20
+	Speed setting=0, RPM=375000.00
+9288: RotationSensor::ReadCount[2]: count=28914, startTime=9007704, endTime=9007712, interval=8, pulsesPerRev=20
+	Speed setting=1, RPM=375000.00
+9306: RotationSensor::ReadCount[2]: count=28914, startTime=9007704, endTime=9007712, interval=8, pulsesPerRev=20
+	Speed setting=2, RPM=375000.00
+9324: RotationSensor::ReadCount[2]: count=28914, startTime=9007704, endTime=9007712, interval=8, pulsesPerRev=20
+	Speed setting=3, RPM=375000.00
+9341: RotationSensor::ReadCount[2]: count=28914, startTime=9007704, endTime=9007712, interval=8, pulsesPerRev=20
+	Speed setting=4, RPM=375000.00
+9359: RotationSensor::ReadCount[2]: count=28914, startTime=9007704, endTime=9007712, interval=8, pulsesPerRev=20
+	Speed setting=5, RPM=375000.00
+9377: RotationSensor::ReadCount[2]: count=28914, startTime=9007704, endTime=9007712, interval=8, pulsesPerRev=20
+	Speed setting=6, RPM=375000.00
+9395: RotationSensor::ReadCount[2]: count=28914, startTime=9007704, endTime=9007712, interval=8, pulsesPerRev=20
+	Speed setting=7, RPM=375000.00
+9413: RotationSensor::ReadCount[2]: count=28914, startTime=9007704, endTime=9007712, interval=8, pulsesPerRev=20
+	Speed setting=8, RPM=375000.00
+9431: RotationSensor::ReadCount[2]: count=28914, startTime=9007704, endTime=9007712, interval=8, pulsesPerRev=20
+	Speed setting=9, RPM=375000.00
+9448: RotationSensor::ReadCount[2]: count=28914, startTime=9007704, endTime=9007712, interval=8, pulsesPerRev=20
+	Speed setting=10, RPM=375000.00
+9466: RotationSensor::ReadCount[2]: count=28914, startTime=9007704, endTime=9007712, interval=8, pulsesPerRev=20
+	Speed setting=11, RPM=375000.00
+9484: RotationSensor::ReadCount[2]: count=28914, startTime=9007704, endTime=9007712, interval=8, pulsesPerRev=20
+	Speed setting=12, RPM=375000.00
+9502: RotationSensor::ReadCount[2]: count=28914, startTime=9007704, endTime=9007712, interval=8, pulsesPerRev=20
+	Speed setting=13, RPM=375000.00
+9520: RotationSensor::ReadCount[2]: count=28914, startTime=9007704, endTime=9007712, interval=8, pulsesPerRev=20
+	Speed setting=14, RPM=375000.00
+9538: RotationSensor::ReadCount[2]: count=28914, startTime=9007704, endTime=9007712, interval=8, pulsesPerRev=20
+	Speed setting=15, RPM=375000.00
+9555: RotationSensor::ReadCount[2]: count=28914, startTime=9007704, endTime=9007712, interval=8, pulsesPerRev=20
+	Speed setting=16, RPM=375000.00
+9574: RotationSensor::ReadCount[2]: count=28914, startTime=9007704, endTime=9007712, interval=8, pulsesPerRev=20
+	Speed setting=17, RPM=375000.00
+9591: RotationSensor::ReadCount[2]: count=28914, startTime=9007704, endTime=9007712, interval=8, pulsesPerRev=20
+	Speed setting=18, RPM=375000.00
+9609: RotationSensor::ReadCount[2]: count=28914, startTime=9007704, endTime=9007712, interval=8, pulsesPerRev=20
+	Speed setting=19, RPM=375000.00
+9627: RotationSensor::ReadCount[2]: count=28914, startTime=9007704, endTime=9007712, interval=8, pulsesPerRev=20
+	Speed setting=20, RPM=375000.00
+9645: RotationSensor::ReadCount[2]: count=28914, startTime=9007704, endTime=9007712, interval=8, pulsesPerRev=20
+	Speed setting=21, RPM=375000.00
+9663: RotationSensor::ReadCount[2]: count=28914, startTime=9007704, endTime=9007712, interval=8, pulsesPerRev=20
+	Speed setting=22, RPM=375000.00
+9680: RotationSensor::ReadCount[2]: count=28914, startTime=9007704, endTime=9007712, interval=8, pulsesPerRev=20
+	Speed setting=23, RPM=375000.00
+9699: RotationSensor::ReadCount[2]: count=28914, startTime=9007704, endTime=9007712, interval=8, pulsesPerRev=20
+	Speed setting=24, RPM=375000.00
+9716: RotationSensor::ReadCount[2]: count=28914, startTime=9007704, endTime=9007712, interval=8, pulsesPerRev=20
+	Speed setting=25, RPM=375000.00
+9735: RotationSensor::ReadCount[2]: count=28914, startTime=9007704, endTime=9007712, interval=8, pulsesPerRev=20
+	Speed setting=26, RPM=375000.00
+9752: RotationSensor::ReadCount[2]: count=28914, startTime=9007704, endTime=9007712, interval=8, pulsesPerRev=20
+	Speed setting=27, RPM=375000.00
+9771: RotationSensor::ReadCount[2]: count=28914, startTime=9007704, endTime=9007712, interval=8, pulsesPerRev=20
+	Speed setting=28, RPM=375000.00
+9788: RotationSensor::ReadCount[2]: count=28914, startTime=9007704, endTime=9007712, interval=8, pulsesPerRev=20
+	Speed setting=29, RPM=375000.00
+9806: RotationSensor::ReadCount[2]: count=28914, startTime=9007704, endTime=9007712, interval=8, pulsesPerRev=20
+	Speed setting=30, RPM=375000.00
+9824: RotationSensor::ReadCount[2]: count=28914, startTime=9007704, endTime=9007712, interval=8, pulsesPerRev=20
+	Speed setting=31, RPM=375000.00
+9841: RotationSensor::ReadCount[2]: count=28914, startTime=9007704, endTime=9007712, interval=8, pulsesPerRev=20
+	Speed setting=32, RPM=375000.00
+9860: RotationSensor::ReadCount[2]: count=28917, startTime=9849448, endTime=9849460, interval=12, pulsesPerRev=20
+	Speed setting=33, RPM=250000.00
+9877: RotationSensor::ReadCount[2]: count=28917, startTime=9849448, endTime=9849460, interval=12, pulsesPerRev=20
+	Speed setting=34, RPM=250000.00
+9895: RotationSensor::ReadCount[2]: count=28919, startTime=9881772, endTime=9881784, interval=12, pulsesPerRev=20
+	Speed setting=35, RPM=250000.00
+9914: RotationSensor::ReadCount[2]: count=28919, startTime=9881772, endTime=9881784, interval=12, pulsesPerRev=20
+	Speed setting=36, RPM=250000.00
+9931: RotationSensor::ReadCount[2]: count=28919, startTime=9881772, endTime=9881784, interval=12, pulsesPerRev=20
+	Speed setting=37, RPM=250000.00
+9950: RotationSensor::ReadCount[2]: count=28919, startTime=9881772, endTime=9881784, interval=12, pulsesPerRev=20
+	Speed setting=38, RPM=250000.00
+9967: RotationSensor::ReadCount[2]: count=28921, startTime=9957836, endTime=9957848, interval=12, pulsesPerRev=20
+	Speed setting=39, RPM=250000.00
+9986: RotationSensor::ReadCount[2]: count=28923, startTime=9979896, endTime=9979908, interval=12, pulsesPerRev=20
+	Speed setting=40, RPM=250000.00
+10003: RotationSensor::ReadCount[2]: count=28923, startTime=9979896, endTime=9979908, interval=12, pulsesPerRev=20
+	Speed setting=41, RPM=250000.00
+10021: RotationSensor::ReadCount[2]: count=28923, startTime=9979896, endTime=9979908, interval=12, pulsesPerRev=20
+	Speed setting=42, RPM=250000.00
+10040: RotationSensor::ReadCount[2]: count=28925, startTime=10038708, endTime=10038720, interval=12, pulsesPerRev=20
+	Speed setting=43, RPM=250000.00
+10058: RotationSensor::ReadCount[2]: count=28927, startTime=10054516, endTime=10054528, interval=12, pulsesPerRev=20
+	Speed setting=44, RPM=250000.00
+10076: RotationSensor::ReadCount[2]: count=28927, startTime=10054516, endTime=10054528, interval=12, pulsesPerRev=20
+	Speed setting=45, RPM=250000.00
+10094: RotationSensor::ReadCount[2]: count=28927, startTime=10054516, endTime=10054528, interval=12, pulsesPerRev=20
+	Speed setting=46, RPM=250000.00
+10113: RotationSensor::ReadCount[2]: count=28929, startTime=10106036, endTime=10106048, interval=12, pulsesPerRev=20
+	Speed setting=47, RPM=250000.00
+10131: RotationSensor::ReadCount[2]: count=28930, startTime=10106048, endTime=10121660, interval=15612, pulsesPerRev=20
+	Speed setting=48, RPM=192.16
+10149: RotationSensor::ReadCount[2]: count=28930, startTime=10106048, endTime=10121660, interval=15612, pulsesPerRev=20
+	Speed setting=49, RPM=192.16
+10168: RotationSensor::ReadCount[2]: count=28930, startTime=10106048, endTime=10121660, interval=15612, pulsesPerRev=20
+	Speed setting=50, RPM=192.16
+10185: RotationSensor::ReadCount[2]: count=28934, startTime=10183028, endTime=10183040, interval=12, pulsesPerRev=20
+	Speed setting=51, RPM=250000.00
+10204: RotationSensor::ReadCount[2]: count=28934, startTime=10183028, endTime=10183040, interval=12, pulsesPerRev=20
+	Speed setting=52, RPM=250000.00
+10222: RotationSensor::ReadCount[2]: count=28934, startTime=10183028, endTime=10183040, interval=12, pulsesPerRev=20
+	Speed setting=53, RPM=250000.00
+10241: RotationSensor::ReadCount[2]: count=28936, startTime=10231188, endTime=10231200, interval=12, pulsesPerRev=20
+	Speed setting=54, RPM=250000.00
+10259: RotationSensor::ReadCount[2]: count=28938, startTime=10246712, endTime=10246724, interval=12, pulsesPerRev=20
+	Speed setting=55, RPM=250000.00
+10277: RotationSensor::ReadCount[2]: count=28938, startTime=10246712, endTime=10246724, interval=12, pulsesPerRev=20
+	Speed setting=56, RPM=250000.00
+10295: RotationSensor::ReadCount[2]: count=28940, startTime=10291240, endTime=10291252, interval=12, pulsesPerRev=20
+	Speed setting=57, RPM=250000.00
+10313: RotationSensor::ReadCount[2]: count=28942, startTime=10303120, endTime=10303132, interval=12, pulsesPerRev=20
+	Speed setting=58, RPM=250000.00
+10332: RotationSensor::ReadCount[2]: count=28942, startTime=10303120, endTime=10303132, interval=12, pulsesPerRev=20
+	Speed setting=59, RPM=250000.00
+10350: RotationSensor::ReadCount[2]: count=28944, startTime=10342432, endTime=10342444, interval=12, pulsesPerRev=20
+	Speed setting=60, RPM=250000.00
+10369: RotationSensor::ReadCount[2]: count=28946, startTime=10354000, endTime=10354012, interval=12, pulsesPerRev=20
+	Speed setting=61, RPM=250000.00
+10387: RotationSensor::ReadCount[2]: count=28946, startTime=10354000, endTime=10354012, interval=12, pulsesPerRev=20
+	Speed setting=62, RPM=250000.00
+10404: RotationSensor::ReadCount[2]: count=28950, startTime=10400156, endTime=10400168, interval=12, pulsesPerRev=20
+	Speed setting=63, RPM=250000.00
+10423: RotationSensor::ReadCount[2]: count=28950, startTime=10400156, endTime=10400168, interval=12, pulsesPerRev=20
+	Speed setting=64, RPM=250000.00
+10441: RotationSensor::ReadCount[2]: count=28952, startTime=10432612, endTime=10432624, interval=12, pulsesPerRev=20
+	Speed setting=65, RPM=250000.00
+10460: RotationSensor::ReadCount[2]: count=28954, startTime=10444328, endTime=10444340, interval=12, pulsesPerRev=20
+	Speed setting=66, RPM=250000.00
+10478: RotationSensor::ReadCount[2]: count=28956, startTime=10474652, endTime=10474664, interval=12, pulsesPerRev=20
+	Speed setting=67, RPM=250000.00
+10496: RotationSensor::ReadCount[2]: count=28958, startTime=10485284, endTime=10485296, interval=12, pulsesPerRev=20
+	Speed setting=68, RPM=250000.00
+10514: RotationSensor::ReadCount[2]: count=28958, startTime=10485284, endTime=10485296, interval=12, pulsesPerRev=20
+	Speed setting=69, RPM=250000.00
+10532: RotationSensor::ReadCount[2]: count=28962, startTime=10527364, endTime=10527376, interval=12, pulsesPerRev=20
+	Speed setting=70, RPM=250000.00
+10551: RotationSensor::ReadCount[2]: count=28962, startTime=10527364, endTime=10527376, interval=12, pulsesPerRev=20
+	Speed setting=71, RPM=250000.00
+10569: RotationSensor::ReadCount[2]: count=28966, startTime=10567324, endTime=10567336, interval=12, pulsesPerRev=20
+	Speed setting=72, RPM=250000.00
+10588: RotationSensor::ReadCount[2]: count=28966, startTime=10567324, endTime=10567336, interval=12, pulsesPerRev=20
+	Speed setting=73, RPM=250000.00
+10605: RotationSensor::ReadCount[2]: count=28970, startTime=10605432, endTime=10605444, interval=12, pulsesPerRev=20
+	Speed setting=74, RPM=250000.00
+10624: RotationSensor::ReadCount[2]: count=28970, startTime=10605432, endTime=10605444, interval=12, pulsesPerRev=20
+	Speed setting=75, RPM=250000.00
+10642: RotationSensor::ReadCount[2]: count=28974, startTime=10642220, endTime=10642232, interval=12, pulsesPerRev=20
+	Speed setting=76, RPM=250000.00
+10660: RotationSensor::ReadCount[2]: count=28974, startTime=10642220, endTime=10642232, interval=12, pulsesPerRev=20
+	Speed setting=77, RPM=250000.00
+10679: RotationSensor::ReadCount[2]: count=28978, startTime=10676288, endTime=10676300, interval=12, pulsesPerRev=20
+	Speed setting=78, RPM=250000.00
+10697: RotationSensor::ReadCount[2]: count=28978, startTime=10676288, endTime=10676300, interval=12, pulsesPerRev=20
+	Speed setting=79, RPM=250000.00
+10715: RotationSensor::ReadCount[2]: count=28981, startTime=10702384, endTime=10710316, interval=7932, pulsesPerRev=20
+	Speed setting=80, RPM=378.21
+10733: RotationSensor::ReadCount[2]: count=28981, startTime=10702384, endTime=10710316, interval=7932, pulsesPerRev=20
+	Speed setting=81, RPM=378.21
+10752: RotationSensor::ReadCount[2]: count=28984, startTime=10736296, endTime=10744628, interval=8332, pulsesPerRev=20
+	Speed setting=82, RPM=360.06
+10770: RotationSensor::ReadCount[2]: count=28986, startTime=10769508, endTime=10769520, interval=12, pulsesPerRev=20
+	Speed setting=83, RPM=250000.00
+10788: RotationSensor::ReadCount[2]: count=28988, startTime=10776692, endTime=10776704, interval=12, pulsesPerRev=20
+	Speed setting=84, RPM=250000.00
+10806: RotationSensor::ReadCount[2]: count=28990, startTime=10801464, endTime=10801476, interval=12, pulsesPerRev=20
+	Speed setting=85, RPM=250000.00
+10824: RotationSensor::ReadCount[2]: count=28992, startTime=10809876, endTime=10809888, interval=12, pulsesPerRev=20
+	Speed setting=86, RPM=250000.00
+10843: RotationSensor::ReadCount[2]: count=28996, startTime=10841664, endTime=10841676, interval=12, pulsesPerRev=20
+	Speed setting=87, RPM=250000.00
+10861: RotationSensor::ReadCount[2]: count=28996, startTime=10841664, endTime=10841676, interval=12, pulsesPerRev=20
+	Speed setting=88, RPM=250000.00
+10880: RotationSensor::ReadCount[2]: count=29000, startTime=10875948, endTime=10875960, interval=12, pulsesPerRev=20
+	Speed setting=89, RPM=250000.00
+10898: RotationSensor::ReadCount[2]: count=29000, startTime=10875948, endTime=10875960, interval=12, pulsesPerRev=20
+	Speed setting=90, RPM=250000.00
+10915: RotationSensor::ReadCount[2]: count=29004, startTime=10908520, endTime=10908532, interval=12, pulsesPerRev=20
+	Speed setting=91, RPM=250000.00
+10934: RotationSensor::ReadCount[2]: count=29006, startTime=10932468, endTime=10932480, interval=12, pulsesPerRev=20
+	Speed setting=92, RPM=250000.00
+10952: RotationSensor::ReadCount[2]: count=29008, startTime=10939560, endTime=10939572, interval=12, pulsesPerRev=20
+	Speed setting=93, RPM=250000.00
+10971: RotationSensor::ReadCount[2]: count=29012, startTime=10968576, endTime=10968588, interval=12, pulsesPerRev=20
+	Speed setting=94, RPM=250000.00
+10989: RotationSensor::ReadCount[2]: count=29012, startTime=10968576, endTime=10968588, interval=12, pulsesPerRev=20
+	Speed setting=95, RPM=250000.00
+11008: RotationSensor::ReadCount[2]: count=29016, startTime=10997464, endTime=10997476, interval=12, pulsesPerRev=20
+	Speed setting=96, RPM=250000.00
+11025: RotationSensor::ReadCount[2]: count=29018, startTime=11020276, endTime=11020288, interval=12, pulsesPerRev=20
+	Speed setting=97, RPM=250000.00
+11043: RotationSensor::ReadCount[2]: count=29020, startTime=11026728, endTime=11026740, interval=12, pulsesPerRev=20
+	Speed setting=98, RPM=250000.00
+11062: RotationSensor::ReadCount[2]: count=29024, startTime=11056172, endTime=11056184, interval=12, pulsesPerRev=20
+	Speed setting=99, RPM=250000.00
+11080: RotationSensor::ReadCount[2]: count=29026, startTime=11076808, endTime=11076820, interval=12, pulsesPerRev=20
+	Speed setting=100, RPM=250000.00
+11099: RotationSensor::ReadCount[2]: count=29028, startTime=11084040, endTime=11084052, interval=12, pulsesPerRev=20
+	Speed setting=101, RPM=250000.00
+11117: RotationSensor::ReadCount[2]: count=29032, startTime=11111216, endTime=11111228, interval=12, pulsesPerRev=20
+	Speed setting=102, RPM=250000.00
+11136: RotationSensor::ReadCount[2]: count=29034, startTime=11130756, endTime=11130768, interval=12, pulsesPerRev=20
+	Speed setting=103, RPM=250000.00
+11154: RotationSensor::ReadCount[2]: count=29035, startTime=11130768, endTime=11137516, interval=6748, pulsesPerRev=20
+	Speed setting=104, RPM=444.58
+11171: RotationSensor::ReadCount[2]: count=29038, startTime=11157528, endTime=11164532, interval=7004, pulsesPerRev=20
+	Speed setting=105, RPM=428.33
+11190: RotationSensor::ReadCount[2]: count=29042, startTime=11189828, endTime=11189840, interval=12, pulsesPerRev=20
+	Speed setting=106, RPM=250000.00
+11208: RotationSensor::ReadCount[2]: count=29044, startTime=11208220, endTime=11208228, interval=8, pulsesPerRev=20
+	Speed setting=107, RPM=375000.00
+11227: RotationSensor::ReadCount[2]: count=29046, startTime=11215028, endTime=11215036, interval=8, pulsesPerRev=20
+	Speed setting=108, RPM=375000.00
+11245: RotationSensor::ReadCount[2]: count=29049, startTime=11233000, endTime=11239860, interval=6860, pulsesPerRev=20
+	Speed setting=109, RPM=437.32
+11264: RotationSensor::ReadCount[2]: count=29053, startTime=11263432, endTime=11263444, interval=12, pulsesPerRev=20
+	Speed setting=110, RPM=250000.00
+11282: RotationSensor::ReadCount[2]: count=29055, startTime=11281660, endTime=11281672, interval=12, pulsesPerRev=20
+	Speed setting=111, RPM=250000.00
+11299: RotationSensor::ReadCount[2]: count=29057, startTime=11287092, endTime=11287100, interval=8, pulsesPerRev=20
+	Speed setting=112, RPM=375000.00
+11318: RotationSensor::ReadCount[2]: count=29061, startTime=11310992, endTime=11311004, interval=12, pulsesPerRev=20
+	Speed setting=113, RPM=250000.00
+11336: RotationSensor::ReadCount[2]: count=29065, startTime=11334128, endTime=11334140, interval=12, pulsesPerRev=20
+	Speed setting=114, RPM=250000.00
+11355: RotationSensor::ReadCount[2]: count=29067, startTime=11351920, endTime=11351932, interval=12, pulsesPerRev=20
+	Speed setting=115, RPM=250000.00
+11373: RotationSensor::ReadCount[2]: count=29069, startTime=11358008, endTime=11358020, interval=12, pulsesPerRev=20
+	Speed setting=116, RPM=250000.00
+11392: RotationSensor::ReadCount[2]: count=29073, startTime=11380924, endTime=11380936, interval=12, pulsesPerRev=20
+	Speed setting=117, RPM=250000.00
+11410: RotationSensor::ReadCount[2]: count=29077, startTime=11404824, endTime=11404836, interval=12, pulsesPerRev=20
+	Speed setting=118, RPM=250000.00
+11428: RotationSensor::ReadCount[2]: count=29081, startTime=11427768, endTime=11427780, interval=12, pulsesPerRev=20
+	Speed setting=119, RPM=250000.00
+11447: RotationSensor::ReadCount[2]: count=29083, startTime=11445948, endTime=11445960, interval=12, pulsesPerRev=20
+	Speed setting=120, RPM=250000.00
+11465: RotationSensor::ReadCount[2]: count=29085, startTime=11451428, endTime=11451440, interval=12, pulsesPerRev=20
+	Speed setting=121, RPM=250000.00
+11483: RotationSensor::ReadCount[2]: count=29089, startTime=11474080, endTime=11474092, interval=12, pulsesPerRev=20
+	Speed setting=122, RPM=250000.00
+11501: RotationSensor::ReadCount[2]: count=29092, startTime=11490876, endTime=11496456, interval=5580, pulsesPerRev=20
+	Speed setting=123, RPM=537.63
+11520: RotationSensor::ReadCount[2]: count=29096, startTime=11518292, endTime=11518304, interval=12, pulsesPerRev=20
+	Speed setting=124, RPM=250000.00
+11538: RotationSensor::ReadCount[2]: count=29098, startTime=11535288, endTime=11535300, interval=12, pulsesPerRev=20
+	Speed setting=125, RPM=250000.00
+11556: RotationSensor::ReadCount[2]: count=29102, startTime=11556532, endTime=11556544, interval=12, pulsesPerRev=20
+	Speed setting=126, RPM=250000.00
+11575: RotationSensor::ReadCount[2]: count=29104, startTime=11561656, endTime=11561668, interval=12, pulsesPerRev=20
+	Speed setting=127, RPM=250000.00
+11593: RotationSensor::ReadCount[2]: count=29107, startTime=11577620, endTime=11583236, interval=5616, pulsesPerRev=20
+	Speed setting=128, RPM=534.19
+11612: RotationSensor::ReadCount[2]: count=29111, startTime=11604288, endTime=11604300, interval=12, pulsesPerRev=20
+	Speed setting=129, RPM=250000.00
+11630: RotationSensor::ReadCount[2]: count=29115, startTime=11625600, endTime=11625612, interval=12, pulsesPerRev=20
+	Speed setting=130, RPM=250000.00
+11649: RotationSensor::ReadCount[2]: count=29118, startTime=11645968, endTime=11645980, interval=12, pulsesPerRev=20
+	Speed setting=131, RPM=250000.00
+11667: RotationSensor::ReadCount[2]: count=29122, startTime=11665980, endTime=11665992, interval=12, pulsesPerRev=20
+	Speed setting=132, RPM=250000.00
+11684: RotationSensor::ReadCount[2]: count=29124, startTime=11680220, endTime=11680232, interval=12, pulsesPerRev=20
+	Speed setting=133, RPM=250000.00
+11703: RotationSensor::ReadCount[2]: count=29128, startTime=11700488, endTime=11700500, interval=12, pulsesPerRev=20
+	Speed setting=134, RPM=250000.00
+11721: RotationSensor::ReadCount[2]: count=29132, startTime=11719992, endTime=11720004, interval=12, pulsesPerRev=20
+	Speed setting=135, RPM=250000.00
+11740: RotationSensor::ReadCount[2]: count=29136, startTime=11739392, endTime=11739404, interval=12, pulsesPerRev=20
+	Speed setting=136, RPM=250000.00
+11758: RotationSensor::ReadCount[2]: count=29140, startTime=11758760, endTime=11758772, interval=12, pulsesPerRev=20
+	Speed setting=137, RPM=250000.00
+11777: RotationSensor::ReadCount[2]: count=29142, startTime=11763000, endTime=11763012, interval=12, pulsesPerRev=20
+	Speed setting=138, RPM=250000.00
+11795: RotationSensor::ReadCount[2]: count=29145, startTime=11777700, endTime=11782740, interval=5040, pulsesPerRev=20
+	Speed setting=139, RPM=595.24
+11813: RotationSensor::ReadCount[2]: count=29149, startTime=11801864, endTime=11801876, interval=12, pulsesPerRev=20
+	Speed setting=140, RPM=250000.00
+11832: RotationSensor::ReadCount[2]: count=29152, startTime=11816620, endTime=11821724, interval=5104, pulsesPerRev=20
+	Speed setting=141, RPM=587.77
+11850: RotationSensor::ReadCount[2]: count=29156, startTime=11840304, endTime=11840316, interval=12, pulsesPerRev=20
+	Speed setting=142, RPM=250000.00
+11868: RotationSensor::ReadCount[2]: count=29160, startTime=11859468, endTime=11859480, interval=12, pulsesPerRev=20
+	Speed setting=143, RPM=250000.00
+11886: RotationSensor::ReadCount[2]: count=29164, startTime=11878476, endTime=11878488, interval=12, pulsesPerRev=20
+	Speed setting=144, RPM=250000.00
+11905: RotationSensor::ReadCount[2]: count=29168, startTime=11897760, endTime=11897772, interval=12, pulsesPerRev=20
+	Speed setting=145, RPM=250000.00
+11923: RotationSensor::ReadCount[2]: count=29172, startTime=11916380, endTime=11916392, interval=12, pulsesPerRev=20
+	Speed setting=146, RPM=250000.00
+11941: RotationSensor::ReadCount[2]: count=29176, startTime=11935224, endTime=11935236, interval=12, pulsesPerRev=20
+	Speed setting=147, RPM=250000.00
+11960: RotationSensor::ReadCount[2]: count=29180, startTime=11953112, endTime=11953124, interval=12, pulsesPerRev=20
+	Speed setting=148, RPM=250000.00
+11978: RotationSensor::ReadCount[2]: count=29184, startTime=11971264, endTime=11971276, interval=12, pulsesPerRev=20
+	Speed setting=149, RPM=250000.00
+11997: RotationSensor::ReadCount[2]: count=29188, startTime=11988928, endTime=11988940, interval=12, pulsesPerRev=20
+	Speed setting=150, RPM=250000.00
+12015: RotationSensor::ReadCount[2]: count=29192, startTime=12007248, endTime=12007260, interval=12, pulsesPerRev=20
+	Speed setting=151, RPM=250000.00
+12034: RotationSensor::ReadCount[2]: count=29196, startTime=12024624, endTime=12024636, interval=12, pulsesPerRev=20
+	Speed setting=152, RPM=250000.00
+12052: RotationSensor::ReadCount[2]: count=29200, startTime=12042060, endTime=12042072, interval=12, pulsesPerRev=20
+	Speed setting=153, RPM=250000.00
+12070: RotationSensor::ReadCount[2]: count=29203, startTime=12059124, endTime=12059136, interval=12, pulsesPerRev=20
+	Speed setting=154, RPM=250000.00
+12088: RotationSensor::ReadCount[2]: count=29209, startTime=12088372, endTime=12088384, interval=12, pulsesPerRev=20
+	Speed setting=155, RPM=250000.00
+12106: RotationSensor::ReadCount[2]: count=29213, startTime=12105092, endTime=12105100, interval=8, pulsesPerRev=20
+	Speed setting=156, RPM=375000.00
+12125: RotationSensor::ReadCount[2]: count=29219, startTime=12125484, endTime=12125496, interval=12, pulsesPerRev=20
+	Speed setting=157, RPM=250000.00
+12143: RotationSensor::ReadCount[2]: count=29222, startTime=12138012, endTime=12142548, interval=4536, pulsesPerRev=20
+	Speed setting=158, RPM=661.38
+12162: RotationSensor::ReadCount[2]: count=29226, startTime=12159032, endTime=12159044, interval=12, pulsesPerRev=20
+	Speed setting=159, RPM=250000.00
+12180: RotationSensor::ReadCount[2]: count=29229, startTime=12176516, endTime=12176528, interval=12, pulsesPerRev=20
+	Speed setting=160, RPM=250000.00
+12198: RotationSensor::ReadCount[2]: count=29233, startTime=12192840, endTime=12192852, interval=12, pulsesPerRev=20
+	Speed setting=161, RPM=250000.00
+12217: RotationSensor::ReadCount[2]: count=29237, startTime=12209656, endTime=12209668, interval=12, pulsesPerRev=20
+	Speed setting=162, RPM=250000.00
+12235: RotationSensor::ReadCount[2]: count=29241, startTime=12225824, endTime=12225832, interval=8, pulsesPerRev=20
+	Speed setting=163, RPM=375000.00
+12253: RotationSensor::ReadCount[2]: count=29244, startTime=12238400, endTime=12242648, interval=4248, pulsesPerRev=20
+	Speed setting=164, RPM=706.21
+12271: RotationSensor::ReadCount[2]: count=29249, startTime=12259212, endTime=12272160, interval=12948, pulsesPerRev=20
+	Speed setting=165, RPM=231.70
+12290: RotationSensor::ReadCount[2]: count=29253, startTime=12288056, endTime=12288068, interval=12, pulsesPerRev=20
+	Speed setting=166, RPM=250000.00
+12308: RotationSensor::ReadCount[2]: count=29259, startTime=12308112, endTime=12308124, interval=12, pulsesPerRev=20
+	Speed setting=167, RPM=250000.00
+12326: RotationSensor::ReadCount[2]: count=29263, startTime=12323400, endTime=12323412, interval=12, pulsesPerRev=20
+	Speed setting=168, RPM=250000.00
+12345: RotationSensor::ReadCount[2]: count=29267, startTime=12339608, endTime=12339616, interval=8, pulsesPerRev=20
+	Speed setting=169, RPM=375000.00
+12363: RotationSensor::ReadCount[2]: count=29271, startTime=12355216, endTime=12355228, interval=12, pulsesPerRev=20
+	Speed setting=170, RPM=250000.00
+12382: RotationSensor::ReadCount[2]: count=29277, startTime=12381676, endTime=12381684, interval=8, pulsesPerRev=20
+	Speed setting=171, RPM=375000.00
+12400: RotationSensor::ReadCount[2]: count=29281, startTime=12397048, endTime=12397060, interval=12, pulsesPerRev=20
+	Speed setting=172, RPM=250000.00
+12418: RotationSensor::ReadCount[2]: count=29287, startTime=12415556, endTime=12415568, interval=12, pulsesPerRev=20
+	Speed setting=173, RPM=250000.00
+12436: RotationSensor::ReadCount[2]: count=29290, startTime=12430744, endTime=12430756, interval=12, pulsesPerRev=20
+	Speed setting=174, RPM=250000.00
+12454: RotationSensor::ReadCount[2]: count=29293, startTime=12445456, endTime=12445468, interval=12, pulsesPerRev=20
+	Speed setting=175, RPM=250000.00
+12473: RotationSensor::ReadCount[2]: count=29299, startTime=12471512, endTime=12471520, interval=8, pulsesPerRev=20
+	Speed setting=176, RPM=375000.00
+12491: RotationSensor::ReadCount[2]: count=29303, startTime=12486668, endTime=12490656, interval=3988, pulsesPerRev=20
+	Speed setting=177, RPM=752.26
+12510: RotationSensor::ReadCount[2]: count=29306, startTime=12505556, endTime=12505568, interval=12, pulsesPerRev=20
+	Speed setting=178, RPM=250000.00
+12528: RotationSensor::ReadCount[2]: count=29310, startTime=12520732, endTime=12520744, interval=12, pulsesPerRev=20
+	Speed setting=179, RPM=250000.00
+12547: RotationSensor::ReadCount[2]: count=29316, startTime=12546624, endTime=12546636, interval=12, pulsesPerRev=20
+	Speed setting=180, RPM=250000.00
+12565: RotationSensor::ReadCount[2]: count=29322, startTime=12565000, endTime=12565012, interval=12, pulsesPerRev=20
+	Speed setting=181, RPM=250000.00
+12583: RotationSensor::ReadCount[2]: count=29325, startTime=12579904, endTime=12579916, interval=12, pulsesPerRev=20
+	Speed setting=182, RPM=250000.00
+12601: RotationSensor::ReadCount[2]: count=29329, startTime=12594568, endTime=12594580, interval=12, pulsesPerRev=20
+	Speed setting=183, RPM=250000.00
+12619: RotationSensor::ReadCount[2]: count=29335, startTime=12619704, endTime=12619716, interval=12, pulsesPerRev=20
+	Speed setting=184, RPM=250000.00
+12638: RotationSensor::ReadCount[2]: count=29340, startTime=12634140, endTime=12637804, interval=3664, pulsesPerRev=20
+	Speed setting=185, RPM=818.78
+12656: RotationSensor::ReadCount[2]: count=29343, startTime=12648212, endTime=12651744, interval=3532, pulsesPerRev=20
+	Speed setting=186, RPM=849.38
+12675: RotationSensor::ReadCount[2]: count=29347, startTime=12665820, endTime=12665832, interval=12, pulsesPerRev=20
+	Speed setting=187, RPM=250000.00
+12693: RotationSensor::ReadCount[2]: count=29355, startTime=12693156, endTime=12693168, interval=12, pulsesPerRev=20
+	Speed setting=188, RPM=250000.00
+12711: RotationSensor::ReadCount[2]: count=29359, startTime=12706708, endTime=12706720, interval=12, pulsesPerRev=20
+	Speed setting=189, RPM=250000.00
+12730: RotationSensor::ReadCount[2]: count=29363, startTime=12720484, endTime=12720496, interval=12, pulsesPerRev=20
+	Speed setting=190, RPM=250000.00
+12748: RotationSensor::ReadCount[2]: count=29371, startTime=12747564, endTime=12747576, interval=12, pulsesPerRev=20
+	Speed setting=191, RPM=250000.00
+12767: RotationSensor::ReadCount[2]: count=29374, startTime=12760944, endTime=12760956, interval=12, pulsesPerRev=20
+	Speed setting=192, RPM=250000.00
+12785: RotationSensor::ReadCount[2]: count=29380, startTime=12785524, endTime=12785536, interval=12, pulsesPerRev=20
+	Speed setting=193, RPM=250000.00
+12803: RotationSensor::ReadCount[2]: count=29386, startTime=12802592, endTime=12802604, interval=12, pulsesPerRev=20
+	Speed setting=194, RPM=250000.00
+12821: RotationSensor::ReadCount[2]: count=29389, startTime=12812904, endTime=12816240, interval=3336, pulsesPerRev=20
+	Speed setting=195, RPM=899.28
+12839: RotationSensor::ReadCount[2]: count=29395, startTime=12840444, endTime=12840456, interval=12, pulsesPerRev=20
+	Speed setting=196, RPM=250000.00
+12858: RotationSensor::ReadCount[2]: count=29400, startTime=12853896, endTime=12856876, interval=2980, pulsesPerRev=20
+	Speed setting=197, RPM=1006.71
+12876: RotationSensor::ReadCount[2]: count=29403, startTime=12870272, endTime=12870284, interval=12, pulsesPerRev=20
+	Speed setting=198, RPM=250000.00
+12895: RotationSensor::ReadCount[2]: count=29409, startTime=12893452, endTime=12893464, interval=12, pulsesPerRev=20
+	Speed setting=199, RPM=250000.00
+12913: RotationSensor::ReadCount[2]: count=29413, startTime=12906800, endTime=12910316, interval=3516, pulsesPerRev=20
+	Speed setting=200, RPM=853.24
+12932: RotationSensor::ReadCount[2]: count=29416, startTime=12919816, endTime=12923088, interval=3272, pulsesPerRev=20
+	Speed setting=201, RPM=916.87
+12950: RotationSensor::ReadCount[2]: count=29424, startTime=12948748, endTime=12948760, interval=12, pulsesPerRev=20
+	Speed setting=202, RPM=250000.00
+12967: RotationSensor::ReadCount[2]: count=29428, startTime=12961240, endTime=12961252, interval=12, pulsesPerRev=20
+	Speed setting=203, RPM=250000.00
+12986: RotationSensor::ReadCount[2]: count=29436, startTime=12986784, endTime=12986796, interval=12, pulsesPerRev=20
+	Speed setting=204, RPM=250000.00
+13004: RotationSensor::ReadCount[2]: count=29440, startTime=12999216, endTime=12999224, interval=8, pulsesPerRev=20
+	Speed setting=205, RPM=375000.00
+13023: RotationSensor::ReadCount[2]: count=29446, startTime=13021632, endTime=13021644, interval=12, pulsesPerRev=20
+	Speed setting=206, RPM=250000.00
+13041: RotationSensor::ReadCount[2]: count=29451, startTime=13034548, endTime=13037912, interval=3364, pulsesPerRev=20
+	Speed setting=207, RPM=891.80
+13060: RotationSensor::ReadCount[2]: count=29456, startTime=13060404, endTime=13060416, interval=12, pulsesPerRev=20
+	Speed setting=208, RPM=250000.00
+13078: RotationSensor::ReadCount[2]: count=29461, startTime=13076372, endTime=13076384, interval=12, pulsesPerRev=20
+	Speed setting=209, RPM=250000.00
+13096: RotationSensor::ReadCount[2]: count=29465, startTime=13089036, endTime=13089044, interval=8, pulsesPerRev=20
+	Speed setting=210, RPM=375000.00
+13115: RotationSensor::ReadCount[2]: count=29473, startTime=13114452, endTime=13114464, interval=12, pulsesPerRev=20
+	Speed setting=211, RPM=250000.00
+13132: RotationSensor::ReadCount[2]: count=29477, startTime=13126676, endTime=13126684, interval=8, pulsesPerRev=20
+	Speed setting=212, RPM=375000.00
+13151: RotationSensor::ReadCount[2]: count=29484, startTime=13151208, endTime=13151220, interval=12, pulsesPerRev=20
+	Speed setting=213, RPM=250000.00
+13169: RotationSensor::ReadCount[2]: count=29487, startTime=13160560, endTime=13163848, interval=3288, pulsesPerRev=20
+	Speed setting=214, RPM=912.41
+13188: RotationSensor::ReadCount[2]: count=29494, startTime=13185000, endTime=13188100, interval=3100, pulsesPerRev=20
+	Speed setting=215, RPM=967.74
+13206: RotationSensor::ReadCount[2]: count=29498, startTime=13200176, endTime=13200188, interval=12, pulsesPerRev=20
+	Speed setting=216, RPM=250000.00
+13224: RotationSensor::ReadCount[2]: count=29506, startTime=13223584, endTime=13223596, interval=12, pulsesPerRev=20
+	Speed setting=217, RPM=250000.00
+13243: RotationSensor::ReadCount[2]: count=29510, startTime=13235688, endTime=13235700, interval=12, pulsesPerRev=20
+	Speed setting=218, RPM=250000.00
+13261: RotationSensor::ReadCount[2]: count=29518, startTime=13259140, endTime=13259152, interval=12, pulsesPerRev=20
+	Speed setting=219, RPM=250000.00
+13280: RotationSensor::ReadCount[2]: count=29524, startTime=13280284, endTime=13280296, interval=12, pulsesPerRev=20
+	Speed setting=220, RPM=250000.00
+13297: RotationSensor::ReadCount[2]: count=29528, startTime=13292788, endTime=13295372, interval=2584, pulsesPerRev=20
+	Speed setting=221, RPM=1160.99
+13316: RotationSensor::ReadCount[2]: count=29534, startTime=13316304, endTime=13316316, interval=12, pulsesPerRev=20
+	Speed setting=222, RPM=250000.00
+13334: RotationSensor::ReadCount[2]: count=29539, startTime=13328152, endTime=13331184, interval=3032, pulsesPerRev=20
+	Speed setting=223, RPM=989.45
+13352: RotationSensor::ReadCount[2]: count=29545, startTime=13352400, endTime=13352412, interval=12, pulsesPerRev=20
+	Speed setting=224, RPM=250000.00
+13371: RotationSensor::ReadCount[2]: count=29551, startTime=13366804, endTime=13366816, interval=12, pulsesPerRev=20
+	Speed setting=225, RPM=250000.00
+13389: RotationSensor::ReadCount[2]: count=29558, startTime=13386936, endTime=13389948, interval=3012, pulsesPerRev=20
+	Speed setting=226, RPM=996.02
+13408: RotationSensor::ReadCount[2]: count=29561, startTime=13398780, endTime=13401940, interval=3160, pulsesPerRev=20
+	Speed setting=227, RPM=949.37
+13426: RotationSensor::ReadCount[2]: count=29569, startTime=13425032, endTime=13425044, interval=12, pulsesPerRev=20
+	Speed setting=228, RPM=250000.00
+13445: RotationSensor::ReadCount[2]: count=29575, startTime=13444388, endTime=13444400, interval=12, pulsesPerRev=20
+	Speed setting=229, RPM=250000.00
+13462: RotationSensor::ReadCount[2]: count=29580, startTime=13458296, endTime=13458308, interval=12, pulsesPerRev=20
+	Speed setting=230, RPM=250000.00
+13480: RotationSensor::ReadCount[2]: count=29588, startTime=13480480, endTime=13480492, interval=12, pulsesPerRev=20
+	Speed setting=231, RPM=250000.00
+13499: RotationSensor::ReadCount[2]: count=29592, startTime=13491948, endTime=13491960, interval=12, pulsesPerRev=20
+	Speed setting=232, RPM=250000.00
+13517: RotationSensor::ReadCount[2]: count=29600, startTime=13514872, endTime=13514884, interval=12, pulsesPerRev=20
+	Speed setting=233, RPM=250000.00
+13536: RotationSensor::ReadCount[2]: count=29605, startTime=13534736, endTime=13534748, interval=12, pulsesPerRev=20
+	Speed setting=234, RPM=250000.00
+13554: RotationSensor::ReadCount[2]: count=29610, startTime=13548528, endTime=13548540, interval=12, pulsesPerRev=20
+	Speed setting=235, RPM=250000.00
+13573: RotationSensor::ReadCount[2]: count=29616, startTime=13568504, endTime=13570824, interval=2320, pulsesPerRev=20
+	Speed setting=236, RPM=1293.10
+13591: RotationSensor::ReadCount[2]: count=29622, startTime=13590652, endTime=13590660, interval=8, pulsesPerRev=20
+	Speed setting=237, RPM=375000.00
+13609: RotationSensor::ReadCount[2]: count=29628, startTime=13604700, endTime=13604708, interval=8, pulsesPerRev=20
+	Speed setting=238, RPM=375000.00
+13628: RotationSensor::ReadCount[2]: count=29636, startTime=13626928, endTime=13626940, interval=12, pulsesPerRev=20
+	Speed setting=239, RPM=250000.00
+13646: RotationSensor::ReadCount[2]: count=29642, startTime=13645668, endTime=13645680, interval=12, pulsesPerRev=20
+	Speed setting=240, RPM=250000.00
+13664: RotationSensor::ReadCount[2]: count=29648, startTime=13659376, endTime=13659388, interval=12, pulsesPerRev=20
+	Speed setting=241, RPM=250000.00
+13682: RotationSensor::ReadCount[2]: count=29656, startTime=13680344, endTime=13680356, interval=12, pulsesPerRev=20
+	Speed setting=242, RPM=250000.00
+13701: RotationSensor::ReadCount[2]: count=29663, startTime=13701556, endTime=13701568, interval=12, pulsesPerRev=20
+	Speed setting=243, RPM=250000.00
+13719: RotationSensor::ReadCount[2]: count=29666, startTime=13709624, endTime=13712404, interval=2780, pulsesPerRev=20
+	Speed setting=244, RPM=1079.14
+13737: RotationSensor::ReadCount[2]: count=29674, startTime=13733876, endTime=13733888, interval=12, pulsesPerRev=20
+	Speed setting=245, RPM=250000.00
+13756: RotationSensor::ReadCount[2]: count=29680, startTime=13752832, endTime=13755336, interval=2504, pulsesPerRev=20
+	Speed setting=246, RPM=1198.08
+13774: RotationSensor::ReadCount[2]: count=29686, startTime=13773980, endTime=13773992, interval=12, pulsesPerRev=20
+	Speed setting=247, RPM=250000.00
+13793: RotationSensor::ReadCount[2]: count=29691, startTime=13787248, endTime=13787260, interval=12, pulsesPerRev=20
+	Speed setting=248, RPM=250000.00
+13811: RotationSensor::ReadCount[2]: count=29699, startTime=13808628, endTime=13808640, interval=12, pulsesPerRev=20
+	Speed setting=249, RPM=250000.00
+13830: RotationSensor::ReadCount[2]: count=29707, startTime=13829780, endTime=13829792, interval=12, pulsesPerRev=20
+	Speed setting=250, RPM=250000.00
+13848: RotationSensor::ReadCount[2]: count=29712, startTime=13848180, endTime=13848192, interval=12, pulsesPerRev=20
+	Speed setting=251, RPM=250000.00
+13867: RotationSensor::ReadCount[2]: count=29718, startTime=13861064, endTime=13861076, interval=12, pulsesPerRev=20
+	Speed setting=252, RPM=250000.00
+13884: RotationSensor::ReadCount[2]: count=29725, startTime=13881416, endTime=13881428, interval=12, pulsesPerRev=20
+	Speed setting=253, RPM=250000.00
+13902: RotationSensor::ReadCount[2]: count=29733, startTime=13901812, endTime=13901824, interval=12, pulsesPerRev=20
+	Speed setting=254, RPM=250000.00
+13921: RotationSensor::ReadCount[2]: count=29739, startTime=13919576, endTime=13919588, interval=12, pulsesPerRev=20
+	Speed setting=255, RPM=250000.00
+13939: RotationSensor::ReadCount[2]: count=29746, startTime=13940136, endTime=13940148, interval=12, pulsesPerRev=20
+	Speed setting=254, RPM=250000.00
+13958: RotationSensor::ReadCount[2]: count=29751, startTime=13952896, endTime=13952908, interval=12, pulsesPerRev=20
+	Speed setting=253, RPM=250000.00
+13976: RotationSensor::ReadCount[2]: count=29758, startTime=13971156, endTime=13973636, interval=2480, pulsesPerRev=20
+	Speed setting=252, RPM=1209.68
+13995: RotationSensor::ReadCount[2]: count=29766, startTime=13994516, endTime=13994528, interval=12, pulsesPerRev=20
+	Speed setting=251, RPM=250000.00
+14013: RotationSensor::ReadCount[2]: count=29771, startTime=14012992, endTime=14013004, interval=12, pulsesPerRev=20
+	Speed setting=250, RPM=250000.00
+14031: RotationSensor::ReadCount[2]: count=29776, startTime=14026008, endTime=14026020, interval=12, pulsesPerRev=20
+	Speed setting=249, RPM=250000.00
+14050: RotationSensor::ReadCount[2]: count=29782, startTime=14047128, endTime=14047140, interval=12, pulsesPerRev=20
+	Speed setting=248, RPM=250000.00
+14068: RotationSensor::ReadCount[2]: count=29789, startTime=14067676, endTime=14067688, interval=12, pulsesPerRev=20
+	Speed setting=247, RPM=250000.00
+14087: RotationSensor::ReadCount[2]: count=29795, startTime=14085760, endTime=14085772, interval=12, pulsesPerRev=20
+	Speed setting=246, RPM=250000.00
+14104: RotationSensor::ReadCount[2]: count=29800, startTime=14098452, endTime=14098464, interval=12, pulsesPerRev=20
+	Speed setting=245, RPM=250000.00
+14123: RotationSensor::ReadCount[2]: count=29808, startTime=14119264, endTime=14119276, interval=12, pulsesPerRev=20
+	Speed setting=244, RPM=250000.00
+14141: RotationSensor::ReadCount[2]: count=29816, startTime=14140164, endTime=14140172, interval=8, pulsesPerRev=20
+	Speed setting=243, RPM=375000.00
+14159: RotationSensor::ReadCount[2]: count=29822, startTime=14159524, endTime=14159536, interval=12, pulsesPerRev=20
+	Speed setting=242, RPM=250000.00
+14178: RotationSensor::ReadCount[2]: count=29827, startTime=14172724, endTime=14172736, interval=12, pulsesPerRev=20
+	Speed setting=241, RPM=250000.00
+14196: RotationSensor::ReadCount[2]: count=29835, startTime=14194136, endTime=14194148, interval=12, pulsesPerRev=20
+	Speed setting=240, RPM=250000.00
+14215: RotationSensor::ReadCount[2]: count=29841, startTime=14213656, endTime=14213668, interval=12, pulsesPerRev=20
+	Speed setting=239, RPM=250000.00
+14233: RotationSensor::ReadCount[2]: count=29847, startTime=14227088, endTime=14227100, interval=12, pulsesPerRev=20
+	Speed setting=238, RPM=250000.00
+14252: RotationSensor::ReadCount[2]: count=29854, startTime=14248584, endTime=14248596, interval=12, pulsesPerRev=20
+	Speed setting=237, RPM=250000.00
+14270: RotationSensor::ReadCount[2]: count=29862, startTime=14270596, endTime=14270608, interval=12, pulsesPerRev=20
+	Speed setting=236, RPM=250000.00
+14288: RotationSensor::ReadCount[2]: count=29866, startTime=14281564, endTime=14281576, interval=12, pulsesPerRev=20
+	Speed setting=235, RPM=250000.00
+14307: RotationSensor::ReadCount[2]: count=29874, startTime=14302992, endTime=14303004, interval=12, pulsesPerRev=20
+	Speed setting=234, RPM=250000.00
+14324: RotationSensor::ReadCount[2]: count=29881, startTime=14322000, endTime=14324664, interval=2664, pulsesPerRev=20
+	Speed setting=233, RPM=1126.13
+14343: RotationSensor::ReadCount[2]: count=29887, startTime=14343592, endTime=14343604, interval=12, pulsesPerRev=20
+	Speed setting=232, RPM=250000.00
+14361: RotationSensor::ReadCount[2]: count=29892, startTime=14357196, endTime=14357208, interval=12, pulsesPerRev=20
+	Speed setting=231, RPM=250000.00
+14380: RotationSensor::ReadCount[2]: count=29899, startTime=14379908, endTime=14379920, interval=12, pulsesPerRev=20
+	Speed setting=230, RPM=250000.00
+14398: RotationSensor::ReadCount[2]: count=29903, startTime=14391480, endTime=14391492, interval=12, pulsesPerRev=20
+	Speed setting=229, RPM=250000.00
+14416: RotationSensor::ReadCount[2]: count=29911, startTime=14414048, endTime=14414060, interval=12, pulsesPerRev=20
+	Speed setting=228, RPM=250000.00
+14435: RotationSensor::ReadCount[2]: count=29917, startTime=14434500, endTime=14434512, interval=12, pulsesPerRev=20
+	Speed setting=227, RPM=250000.00
+14453: RotationSensor::ReadCount[2]: count=29921, startTime=14445660, endTime=14448520, interval=2860, pulsesPerRev=20
+	Speed setting=226, RPM=1048.95
+14472: RotationSensor::ReadCount[2]: count=29929, startTime=14471416, endTime=14471428, interval=12, pulsesPerRev=20
+	Speed setting=225, RPM=250000.00
+14490: RotationSensor::ReadCount[2]: count=29933, startTime=14483224, endTime=14483236, interval=12, pulsesPerRev=20
+	Speed setting=224, RPM=250000.00
+14509: RotationSensor::ReadCount[2]: count=29941, startTime=14505968, endTime=14505980, interval=12, pulsesPerRev=20
+	Speed setting=223, RPM=250000.00
+14527: RotationSensor::ReadCount[2]: count=29947, startTime=14525804, endTime=14525816, interval=12, pulsesPerRev=20
+	Speed setting=222, RPM=250000.00
+14544: RotationSensor::ReadCount[2]: count=29953, startTime=14539828, endTime=14539840, interval=12, pulsesPerRev=20
+	Speed setting=221, RPM=250000.00
+14563: RotationSensor::ReadCount[2]: count=29960, startTime=14562704, endTime=14562716, interval=12, pulsesPerRev=20
+	Speed setting=220, RPM=250000.00
+14581: RotationSensor::ReadCount[2]: count=29964, startTime=14574384, endTime=14574396, interval=12, pulsesPerRev=20
+	Speed setting=219, RPM=250000.00
+14600: RotationSensor::ReadCount[2]: count=29972, startTime=14598032, endTime=14598044, interval=12, pulsesPerRev=20
+	Speed setting=218, RPM=250000.00
+14618: RotationSensor::ReadCount[2]: count=29977, startTime=14619184, endTime=14619192, interval=8, pulsesPerRev=20
+	Speed setting=217, RPM=375000.00
+14637: RotationSensor::ReadCount[2]: count=29983, startTime=14634000, endTime=14634012, interval=12, pulsesPerRev=20
+	Speed setting=216, RPM=250000.00
+14655: RotationSensor::ReadCount[2]: count=29989, startTime=14655364, endTime=14655376, interval=12, pulsesPerRev=20
+	Speed setting=215, RPM=250000.00
+14673: RotationSensor::ReadCount[2]: count=29995, startTime=14670168, endTime=14670180, interval=12, pulsesPerRev=20
+	Speed setting=214, RPM=250000.00
+14692: RotationSensor::ReadCount[2]: count=30001, startTime=14691124, endTime=14691136, interval=12, pulsesPerRev=20
+	Speed setting=213, RPM=250000.00
+14710: RotationSensor::ReadCount[2]: count=30007, startTime=14706396, endTime=14706408, interval=12, pulsesPerRev=20
+	Speed setting=212, RPM=250000.00
+14729: RotationSensor::ReadCount[2]: count=30013, startTime=14727808, endTime=14727820, interval=12, pulsesPerRev=20
+	Speed setting=211, RPM=250000.00
+14746: RotationSensor::ReadCount[2]: count=30019, startTime=14743116, endTime=14743128, interval=12, pulsesPerRev=20
+	Speed setting=210, RPM=250000.00
+14765: RotationSensor::ReadCount[2]: count=30024, startTime=14764116, endTime=14764128, interval=12, pulsesPerRev=20
+	Speed setting=209, RPM=250000.00
+14783: RotationSensor::ReadCount[2]: count=30029, startTime=14776216, endTime=14778916, interval=2700, pulsesPerRev=20
+	Speed setting=208, RPM=1111.11
+14801: RotationSensor::ReadCount[2]: count=30035, startTime=14800348, endTime=14800360, interval=12, pulsesPerRev=20
+	Speed setting=207, RPM=250000.00
+14820: RotationSensor::ReadCount[2]: count=30041, startTime=14815556, endTime=14815568, interval=12, pulsesPerRev=20
+	Speed setting=206, RPM=250000.00
+14838: RotationSensor::ReadCount[2]: count=30047, startTime=14837560, endTime=14837572, interval=12, pulsesPerRev=20
+	Speed setting=205, RPM=250000.00
+14857: RotationSensor::ReadCount[2]: count=30052, startTime=14853472, endTime=14853484, interval=12, pulsesPerRev=20
+	Speed setting=204, RPM=250000.00
+14875: RotationSensor::ReadCount[2]: count=30057, startTime=14875932, endTime=14875944, interval=12, pulsesPerRev=20
+	Speed setting=203, RPM=250000.00
+14894: RotationSensor::ReadCount[2]: count=30062, startTime=14888632, endTime=14891812, interval=3180, pulsesPerRev=20
+	Speed setting=202, RPM=943.40
+14912: RotationSensor::ReadCount[2]: count=30065, startTime=14901772, endTime=14904396, interval=2624, pulsesPerRev=20
+	Speed setting=201, RPM=1143.29
+14930: RotationSensor::ReadCount[2]: count=30073, startTime=14930064, endTime=14930076, interval=12, pulsesPerRev=20
+	Speed setting=200, RPM=250000.00
+14948: RotationSensor::ReadCount[2]: count=30077, startTime=14942948, endTime=14942960, interval=12, pulsesPerRev=20
+	Speed setting=199, RPM=250000.00
+14966: RotationSensor::ReadCount[2]: count=30083, startTime=14965460, endTime=14965472, interval=12, pulsesPerRev=20
+	Speed setting=198, RPM=250000.00
+14985: RotationSensor::ReadCount[2]: count=30088, startTime=14978544, endTime=14981720, interval=3176, pulsesPerRev=20
+	Speed setting=197, RPM=944.58
+15003: RotationSensor::ReadCount[2]: count=30094, startTime=15004036, endTime=15004044, interval=8, pulsesPerRev=20
+	Speed setting=196, RPM=375000.00
+15022: RotationSensor::ReadCount[2]: count=30099, startTime=15020028, endTime=15020040, interval=12, pulsesPerRev=20
+	Speed setting=195, RPM=250000.00
+15040: RotationSensor::ReadCount[2]: count=30103, startTime=15032704, endTime=15032716, interval=12, pulsesPerRev=20
+	Speed setting=194, RPM=250000.00
+15058: RotationSensor::ReadCount[2]: count=30111, startTime=15058440, endTime=15058452, interval=12, pulsesPerRev=20
+	Speed setting=193, RPM=250000.00
+15077: RotationSensor::ReadCount[2]: count=30115, startTime=15071892, endTime=15071904, interval=12, pulsesPerRev=20
+	Speed setting=192, RPM=250000.00
+15095: RotationSensor::ReadCount[2]: count=30121, startTime=15095696, endTime=15095708, interval=12, pulsesPerRev=20
+	Speed setting=191, RPM=250000.00
+15114: RotationSensor::ReadCount[2]: count=30127, startTime=15112644, endTime=15112656, interval=12, pulsesPerRev=20
+	Speed setting=190, RPM=250000.00
+15131: RotationSensor::ReadCount[2]: count=30131, startTime=15126420, endTime=15126432, interval=12, pulsesPerRev=20
+	Speed setting=189, RPM=250000.00
+15150: RotationSensor::ReadCount[2]: count=30136, startTime=15150260, endTime=15150272, interval=12, pulsesPerRev=20
+	Speed setting=188, RPM=250000.00
+15168: RotationSensor::ReadCount[2]: count=30141, startTime=15164568, endTime=15167532, interval=2964, pulsesPerRev=20
+	Speed setting=187, RPM=1012.15
+15186: RotationSensor::ReadCount[2]: count=30145, startTime=15181872, endTime=15181884, interval=12, pulsesPerRev=20
+	Speed setting=186, RPM=250000.00
+15205: RotationSensor::ReadCount[2]: count=30149, startTime=15195632, endTime=15195644, interval=12, pulsesPerRev=20
+	Speed setting=185, RPM=250000.00
+15223: RotationSensor::ReadCount[2]: count=30157, startTime=15223472, endTime=15223484, interval=12, pulsesPerRev=20
+	Speed setting=184, RPM=250000.00
+15242: RotationSensor::ReadCount[2]: count=30161, startTime=15237956, endTime=15237968, interval=12, pulsesPerRev=20
+	Speed setting=183, RPM=250000.00
+15260: RotationSensor::ReadCount[2]: count=30165, startTime=15251896, endTime=15251908, interval=12, pulsesPerRev=20
+	Speed setting=182, RPM=250000.00
+15279: RotationSensor::ReadCount[2]: count=30171, startTime=15275972, endTime=15275980, interval=8, pulsesPerRev=20
+	Speed setting=181, RPM=375000.00
+15297: RotationSensor::ReadCount[2]: count=30177, startTime=15293484, endTime=15293496, interval=12, pulsesPerRev=20
+	Speed setting=180, RPM=250000.00
+15315: RotationSensor::ReadCount[2]: count=30181, startTime=15307328, endTime=15307336, interval=8, pulsesPerRev=20
+	Speed setting=179, RPM=375000.00
+15333: RotationSensor::ReadCount[2]: count=30187, startTime=15332352, endTime=15332364, interval=12, pulsesPerRev=20
+	Speed setting=178, RPM=250000.00
+15351: RotationSensor::ReadCount[2]: count=30192, startTime=15346388, endTime=15350180, interval=3792, pulsesPerRev=20
+	Speed setting=177, RPM=791.14
+15370: RotationSensor::ReadCount[2]: count=30196, startTime=15364436, endTime=15364448, interval=12, pulsesPerRev=20
+	Speed setting=176, RPM=250000.00
+15388: RotationSensor::ReadCount[2]: count=30199, startTime=15375768, endTime=15379656, interval=3888, pulsesPerRev=20
+	Speed setting=175, RPM=771.60
+15407: RotationSensor::ReadCount[2]: count=30205, startTime=15405940, endTime=15405952, interval=12, pulsesPerRev=20
+	Speed setting=174, RPM=250000.00
+15425: RotationSensor::ReadCount[2]: count=30211, startTime=15424300, endTime=15424312, interval=12, pulsesPerRev=20
+	Speed setting=173, RPM=250000.00
+15443: RotationSensor::ReadCount[2]: count=30215, startTime=15439236, endTime=15439248, interval=12, pulsesPerRev=20
+	Speed setting=172, RPM=250000.00
+15462: RotationSensor::ReadCount[2]: count=30219, startTime=15454332, endTime=15454344, interval=12, pulsesPerRev=20
+	Speed setting=171, RPM=250000.00
+15479: RotationSensor::ReadCount[2]: count=30223, startTime=15469876, endTime=15469888, interval=12, pulsesPerRev=20
+	Speed setting=170, RPM=250000.00
+15498: RotationSensor::ReadCount[2]: count=30229, startTime=15496596, endTime=15496608, interval=12, pulsesPerRev=20
+	Speed setting=169, RPM=250000.00
+15516: RotationSensor::ReadCount[2]: count=30235, startTime=15515788, endTime=15515800, interval=12, pulsesPerRev=20
+	Speed setting=168, RPM=250000.00
+15535: RotationSensor::ReadCount[2]: count=30239, startTime=15531512, endTime=15531524, interval=12, pulsesPerRev=20
+	Speed setting=167, RPM=250000.00
+15553: RotationSensor::ReadCount[2]: count=30243, startTime=15546748, endTime=15546760, interval=12, pulsesPerRev=20
+	Speed setting=166, RPM=250000.00
+15571: RotationSensor::ReadCount[2]: count=30247, startTime=15562212, endTime=15562220, interval=8, pulsesPerRev=20
+	Speed setting=165, RPM=375000.00
+15590: RotationSensor::ReadCount[2]: count=30253, startTime=15588816, endTime=15588828, interval=12, pulsesPerRev=20
+	Speed setting=164, RPM=250000.00
+15608: RotationSensor::ReadCount[2]: count=30259, startTime=15608012, endTime=15608024, interval=12, pulsesPerRev=20
+	Speed setting=163, RPM=250000.00
+15627: RotationSensor::ReadCount[2]: count=30262, startTime=15619948, endTime=15623776, interval=3828, pulsesPerRev=20
+	Speed setting=162, RPM=783.70
+15645: RotationSensor::ReadCount[2]: count=30266, startTime=15639124, endTime=15639136, interval=12, pulsesPerRev=20
+	Speed setting=161, RPM=250000.00
+15664: RotationSensor::ReadCount[2]: count=30270, startTime=15655284, endTime=15655296, interval=12, pulsesPerRev=20
+	Speed setting=160, RPM=250000.00
+15681: RotationSensor::ReadCount[2]: count=30274, startTime=15670928, endTime=15670940, interval=12, pulsesPerRev=20
+	Speed setting=159, RPM=250000.00
+15699: RotationSensor::ReadCount[2]: count=30280, startTime=15700048, endTime=15700060, interval=12, pulsesPerRev=20
+	Speed setting=158, RPM=250000.00
+15718: RotationSensor::ReadCount[2]: count=30284, startTime=15716740, endTime=15716752, interval=12, pulsesPerRev=20
+	Speed setting=157, RPM=250000.00
+15736: RotationSensor::ReadCount[2]: count=30289, startTime=15733204, endTime=15737352, interval=4148, pulsesPerRev=20
+	Speed setting=156, RPM=723.24
+15755: RotationSensor::ReadCount[2]: count=30293, startTime=15754260, endTime=15754272, interval=12, pulsesPerRev=20
+	Speed setting=155, RPM=250000.00
+15773: RotationSensor::ReadCount[2]: count=30296, startTime=15771032, endTime=15771044, interval=12, pulsesPerRev=20
+	Speed setting=154, RPM=250000.00
+15792: RotationSensor::ReadCount[2]: count=30300, startTime=15788116, endTime=15788128, interval=12, pulsesPerRev=20
+	Speed setting=153, RPM=250000.00
+15810: RotationSensor::ReadCount[2]: count=30304, startTime=15805040, endTime=15805052, interval=12, pulsesPerRev=20
+	Speed setting=152, RPM=250000.00
+15828: RotationSensor::ReadCount[2]: count=30308, startTime=15822392, endTime=15822404, interval=12, pulsesPerRev=20
+	Speed setting=151, RPM=250000.00
+15847: RotationSensor::ReadCount[2]: count=30312, startTime=15839372, endTime=15839384, interval=12, pulsesPerRev=20
+	Speed setting=150, RPM=250000.00
+15865: RotationSensor::ReadCount[2]: count=30315, startTime=15852580, endTime=15857160, interval=4580, pulsesPerRev=20
+	Speed setting=149, RPM=655.02
+15883: RotationSensor::ReadCount[2]: count=30319, startTime=15874140, endTime=15874152, interval=12, pulsesPerRev=20
+	Speed setting=148, RPM=250000.00
+15901: RotationSensor::ReadCount[2]: count=30323, startTime=15891360, endTime=15891372, interval=12, pulsesPerRev=20
+	Speed setting=147, RPM=250000.00
+15920: RotationSensor::ReadCount[2]: count=30327, startTime=15908612, endTime=15908624, interval=12, pulsesPerRev=20
+	Speed setting=146, RPM=250000.00
+15938: RotationSensor::ReadCount[2]: count=30333, startTime=15939136, endTime=15939148, interval=12, pulsesPerRev=20
+	Speed setting=145, RPM=250000.00
+15956: RotationSensor::ReadCount[2]: count=30337, startTime=15956660, endTime=15956672, interval=12, pulsesPerRev=20
+	Speed setting=144, RPM=250000.00
+15975: RotationSensor::ReadCount[2]: count=30340, startTime=15960872, endTime=15974408, interval=13536, pulsesPerRev=20
+	Speed setting=143, RPM=221.63
+15993: RotationSensor::ReadCount[2]: count=30344, startTime=15991808, endTime=15991820, interval=12, pulsesPerRev=20
+	Speed setting=142, RPM=250000.00
+16012: RotationSensor::ReadCount[2]: count=30347, startTime=16010184, endTime=16010196, interval=12, pulsesPerRev=20
+	Speed setting=141, RPM=250000.00
+16030: RotationSensor::ReadCount[2]: count=30350, startTime=16014504, endTime=16028680, interval=14176, pulsesPerRev=20
+	Speed setting=140, RPM=211.63
+16049: RotationSensor::ReadCount[2]: count=30354, startTime=16047928, endTime=16047936, interval=8, pulsesPerRev=20
+	Speed setting=139, RPM=375000.00
+16066: RotationSensor::ReadCount[2]: count=30358, startTime=16066544, endTime=16066556, interval=12, pulsesPerRev=20
+	Speed setting=138, RPM=250000.00
+16084: RotationSensor::ReadCount[2]: count=30362, startTime=16085812, endTime=16085824, interval=12, pulsesPerRev=20
+	Speed setting=137, RPM=250000.00
+16103: RotationSensor::ReadCount[2]: count=30364, startTime=16090444, endTime=16090452, interval=8, pulsesPerRev=20
+	Speed setting=136, RPM=375000.00
+16121: RotationSensor::ReadCount[2]: count=30367, startTime=16110240, endTime=16110252, interval=12, pulsesPerRev=20
+	Speed setting=135, RPM=250000.00
+16140: RotationSensor::ReadCount[2]: count=30369, startTime=16125568, endTime=16129816, interval=4248, pulsesPerRev=20
+	Speed setting=134, RPM=706.21
+16158: RotationSensor::ReadCount[2]: count=30373, startTime=16149664, endTime=16149676, interval=12, pulsesPerRev=20
+	Speed setting=133, RPM=250000.00
+16177: RotationSensor::ReadCount[2]: count=30377, startTime=16168812, endTime=16168824, interval=12, pulsesPerRev=20
+	Speed setting=132, RPM=250000.00
+16195: RotationSensor::ReadCount[2]: count=30381, startTime=16188548, endTime=16188560, interval=12, pulsesPerRev=20
+	Speed setting=131, RPM=250000.00
+16214: RotationSensor::ReadCount[2]: count=30385, startTime=16208164, endTime=16208176, interval=12, pulsesPerRev=20
+	Speed setting=130, RPM=250000.00
+16231: RotationSensor::ReadCount[2]: count=30389, startTime=16228956, endTime=16228968, interval=12, pulsesPerRev=20
+	Speed setting=129, RPM=250000.00
+16249: RotationSensor::ReadCount[2]: count=30393, startTime=16248796, endTime=16248808, interval=12, pulsesPerRev=20
+	Speed setting=128, RPM=250000.00
+16268: RotationSensor::ReadCount[2]: count=30395, startTime=16263496, endTime=16268992, interval=5496, pulsesPerRev=20
+	Speed setting=127, RPM=545.85
+16286: RotationSensor::ReadCount[2]: count=30397, startTime=16283428, endTime=16283440, interval=12, pulsesPerRev=20
+	Speed setting=126, RPM=250000.00
+16305: RotationSensor::ReadCount[2]: count=30401, startTime=16304196, endTime=16304208, interval=12, pulsesPerRev=20
+	Speed setting=125, RPM=250000.00
+16323: RotationSensor::ReadCount[2]: count=30403, startTime=16309084, endTime=16309096, interval=12, pulsesPerRev=20
+	Speed setting=124, RPM=250000.00
+16342: RotationSensor::ReadCount[2]: count=30407, startTime=16329500, endTime=16329512, interval=12, pulsesPerRev=20
+	Speed setting=123, RPM=250000.00
+16360: RotationSensor::ReadCount[2]: count=30410, startTime=16345436, endTime=16350660, interval=5224, pulsesPerRev=20
+	Speed setting=122, RPM=574.27
+16378: RotationSensor::ReadCount[2]: count=30414, startTime=16370992, endTime=16371004, interval=12, pulsesPerRev=20
+	Speed setting=121, RPM=250000.00
+16397: RotationSensor::ReadCount[2]: count=30418, startTime=16392692, endTime=16392704, interval=12, pulsesPerRev=20
+	Speed setting=120, RPM=250000.00
+16414: RotationSensor::ReadCount[2]: count=30421, startTime=16409116, endTime=16414288, interval=5172, pulsesPerRev=20
+	Speed setting=119, RPM=580.05
+16433: RotationSensor::ReadCount[2]: count=30423, startTime=16431592, endTime=16431604, interval=12, pulsesPerRev=20
+	Speed setting=118, RPM=250000.00
+16451: RotationSensor::ReadCount[2]: count=30425, startTime=16437632, endTime=16437640, interval=8, pulsesPerRev=20
+	Speed setting=117, RPM=375000.00
+16470: RotationSensor::ReadCount[2]: count=30429, startTime=16459916, endTime=16459928, interval=12, pulsesPerRev=20
+	Speed setting=116, RPM=250000.00
+16488: RotationSensor::ReadCount[2]: count=30433, startTime=16483000, endTime=16483012, interval=12, pulsesPerRev=20
+	Speed setting=115, RPM=250000.00
+16506: RotationSensor::ReadCount[2]: count=30437, startTime=16505616, endTime=16505628, interval=12, pulsesPerRev=20
+	Speed setting=114, RPM=250000.00
+16525: RotationSensor::ReadCount[2]: count=30439, startTime=16523644, endTime=16523656, interval=12, pulsesPerRev=20
+	Speed setting=113, RPM=250000.00
+16543: RotationSensor::ReadCount[2]: count=30441, startTime=16529720, endTime=16529732, interval=12, pulsesPerRev=20
+	Speed setting=112, RPM=250000.00
+16562: RotationSensor::ReadCount[2]: count=30444, startTime=16548240, endTime=16553540, interval=5300, pulsesPerRev=20
+	Speed setting=111, RPM=566.04
+16579: RotationSensor::ReadCount[2]: count=30448, startTime=16578036, endTime=16578048, interval=12, pulsesPerRev=20
+	Speed setting=110, RPM=250000.00
+16598: RotationSensor::ReadCount[2]: count=30450, startTime=16595464, endTime=16595476, interval=12, pulsesPerRev=20
+	Speed setting=109, RPM=250000.00
+16616: RotationSensor::ReadCount[2]: count=30452, startTime=16601976, endTime=16601988, interval=12, pulsesPerRev=20
+	Speed setting=108, RPM=250000.00
+16634: RotationSensor::ReadCount[2]: count=30456, startTime=16625900, endTime=16625912, interval=12, pulsesPerRev=20
+	Speed setting=107, RPM=250000.00
+16653: RotationSensor::ReadCount[2]: count=30460, startTime=16649400, endTime=16649412, interval=12, pulsesPerRev=20
+	Speed setting=106, RPM=250000.00
+16671: RotationSensor::ReadCount[2]: count=30462, startTime=16668176, endTime=16668188, interval=12, pulsesPerRev=20
+	Speed setting=105, RPM=250000.00
+16690: RotationSensor::ReadCount[2]: count=30464, startTime=16674896, endTime=16674908, interval=12, pulsesPerRev=20
+	Speed setting=104, RPM=250000.00
+16708: RotationSensor::ReadCount[2]: count=30467, startTime=16693472, endTime=16699796, interval=6324, pulsesPerRev=20
+	Speed setting=103, RPM=474.38
+16727: RotationSensor::ReadCount[2]: count=30471, startTime=16725224, endTime=16725236, interval=12, pulsesPerRev=20
+	Speed setting=102, RPM=250000.00
+16745: RotationSensor::ReadCount[2]: count=30473, startTime=16743512, endTime=16743524, interval=12, pulsesPerRev=20
+	Speed setting=101, RPM=250000.00
+16763: RotationSensor::ReadCount[2]: count=30475, startTime=16750900, endTime=16750912, interval=12, pulsesPerRev=20
+	Speed setting=100, RPM=250000.00
+16781: RotationSensor::ReadCount[2]: count=30479, startTime=16775836, endTime=16775848, interval=12, pulsesPerRev=20
+	Speed setting=99, RPM=250000.00
+16799: RotationSensor::ReadCount[2]: count=30481, startTime=16795372, endTime=16795384, interval=12, pulsesPerRev=20
+	Speed setting=98, RPM=250000.00
+16818: RotationSensor::ReadCount[2]: count=30483, startTime=16801496, endTime=16801508, interval=12, pulsesPerRev=20
+	Speed setting=97, RPM=250000.00
+16836: RotationSensor::ReadCount[2]: count=30487, startTime=16828516, endTime=16828528, interval=12, pulsesPerRev=20
+	Speed setting=96, RPM=250000.00
+16855: RotationSensor::ReadCount[2]: count=30491, startTime=16854592, endTime=16854604, interval=12, pulsesPerRev=20
+	Speed setting=95, RPM=250000.00
+16873: RotationSensor::ReadCount[2]: count=30491, startTime=16854592, endTime=16854604, interval=12, pulsesPerRev=20
+	Speed setting=94, RPM=250000.00
+16890: RotationSensor::ReadCount[2]: count=30495, startTime=16882756, endTime=16882768, interval=12, pulsesPerRev=20
+	Speed setting=93, RPM=250000.00
+16909: RotationSensor::ReadCount[2]: count=30497, startTime=16903728, endTime=16903740, interval=12, pulsesPerRev=20
+	Speed setting=92, RPM=250000.00
+16927: RotationSensor::ReadCount[2]: count=30499, startTime=16910468, endTime=16910480, interval=12, pulsesPerRev=20
+	Speed setting=91, RPM=250000.00
+16946: RotationSensor::ReadCount[2]: count=30503, startTime=16941676, endTime=16941688, interval=12, pulsesPerRev=20
+	Speed setting=90, RPM=250000.00
+16964: RotationSensor::ReadCount[2]: count=30503, startTime=16941676, endTime=16941688, interval=12, pulsesPerRev=20
+	Speed setting=89, RPM=250000.00
+16983: RotationSensor::ReadCount[2]: count=30507, startTime=16972908, endTime=16972916, interval=8, pulsesPerRev=20
+	Speed setting=88, RPM=375000.00
+17000: RotationSensor::ReadCount[2]: count=30509, startTime=16996808, endTime=16996820, interval=12, pulsesPerRev=20
+	Speed setting=87, RPM=250000.00
+17018: RotationSensor::ReadCount[2]: count=30511, startTime=17004372, endTime=17004384, interval=12, pulsesPerRev=20
+	Speed setting=86, RPM=250000.00
+17037: RotationSensor::ReadCount[2]: count=30514, startTime=17035076, endTime=17035088, interval=12, pulsesPerRev=20
+	Speed setting=85, RPM=250000.00
+17055: RotationSensor::ReadCount[2]: count=30514, startTime=17035076, endTime=17035088, interval=12, pulsesPerRev=20
+	Speed setting=84, RPM=250000.00
+17074: RotationSensor::ReadCount[2]: count=30517, startTime=17066008, endTime=17066020, interval=12, pulsesPerRev=20
+	Speed setting=83, RPM=250000.00
+17092: RotationSensor::ReadCount[2]: count=30519, startTime=17091456, endTime=17091468, interval=12, pulsesPerRev=20
+	Speed setting=82, RPM=250000.00
+17110: RotationSensor::ReadCount[2]: count=30521, startTime=17098724, endTime=17098732, interval=8, pulsesPerRev=20
+	Speed setting=81, RPM=375000.00
+17128: RotationSensor::ReadCount[2]: count=30523, startTime=17125448, endTime=17125460, interval=12, pulsesPerRev=20
+	Speed setting=80, RPM=250000.00
+17146: RotationSensor::ReadCount[2]: count=30525, startTime=17133376, endTime=17133388, interval=12, pulsesPerRev=20
+	Speed setting=79, RPM=250000.00
+17165: RotationSensor::ReadCount[2]: count=30527, startTime=17158388, endTime=17158400, interval=12, pulsesPerRev=20
+	Speed setting=78, RPM=250000.00
+17183: RotationSensor::ReadCount[2]: count=30529, startTime=17167432, endTime=17167444, interval=12, pulsesPerRev=20
+	Speed setting=77, RPM=250000.00
+17201: RotationSensor::ReadCount[2]: count=30532, startTime=17192276, endTime=17201548, interval=9272, pulsesPerRev=20
+	Speed setting=76, RPM=323.55
+17219: RotationSensor::ReadCount[2]: count=30532, startTime=17192276, endTime=17201548, interval=9272, pulsesPerRev=20
+	Speed setting=75, RPM=323.55
+17238: RotationSensor::ReadCount[2]: count=30536, startTime=17236144, endTime=17236156, interval=12, pulsesPerRev=20
+	Speed setting=74, RPM=250000.00
+17256: RotationSensor::ReadCount[2]: count=30536, startTime=17236144, endTime=17236156, interval=12, pulsesPerRev=20
+	Speed setting=73, RPM=250000.00
+17274: RotationSensor::ReadCount[2]: count=30540, startTime=17273748, endTime=17273760, interval=12, pulsesPerRev=20
+	Speed setting=72, RPM=250000.00
+17292: RotationSensor::ReadCount[2]: count=30540, startTime=17273748, endTime=17273760, interval=12, pulsesPerRev=20
+	Speed setting=71, RPM=250000.00
+17310: RotationSensor::ReadCount[2]: count=30544, startTime=17310704, endTime=17310716, interval=12, pulsesPerRev=20
+	Speed setting=70, RPM=250000.00
+17329: RotationSensor::ReadCount[2]: count=30544, startTime=17310704, endTime=17310716, interval=12, pulsesPerRev=20
+	Speed setting=69, RPM=250000.00
+17347: RotationSensor::ReadCount[2]: count=30546, startTime=17338616, endTime=17338628, interval=12, pulsesPerRev=20
+	Speed setting=68, RPM=250000.00
+17366: RotationSensor::ReadCount[2]: count=30548, startTime=17349228, endTime=17349236, interval=8, pulsesPerRev=20
+	Speed setting=67, RPM=375000.00
+17384: RotationSensor::ReadCount[2]: count=30550, startTime=17377100, endTime=17377112, interval=12, pulsesPerRev=20
+	Speed setting=66, RPM=250000.00
+17401: RotationSensor::ReadCount[2]: count=30552, startTime=17388876, endTime=17388888, interval=12, pulsesPerRev=20
+	Speed setting=65, RPM=250000.00
+17420: RotationSensor::ReadCount[2]: count=30554, startTime=17418276, endTime=17418288, interval=12, pulsesPerRev=20
+	Speed setting=64, RPM=250000.00
+17438: RotationSensor::ReadCount[2]: count=30556, startTime=17428292, endTime=17428304, interval=12, pulsesPerRev=20
+	Speed setting=63, RPM=250000.00
+17457: RotationSensor::ReadCount[2]: count=30556, startTime=17428292, endTime=17428304, interval=12, pulsesPerRev=20
+	Speed setting=62, RPM=250000.00
+17475: RotationSensor::ReadCount[2]: count=30560, startTime=17469644, endTime=17469656, interval=12, pulsesPerRev=20
+	Speed setting=61, RPM=250000.00
+17494: RotationSensor::ReadCount[2]: count=30560, startTime=17469644, endTime=17469656, interval=12, pulsesPerRev=20
+	Speed setting=60, RPM=250000.00
+17511: RotationSensor::ReadCount[2]: count=30562, startTime=17503540, endTime=17503552, interval=12, pulsesPerRev=20
+	Speed setting=59, RPM=250000.00
+17529: RotationSensor::ReadCount[2]: count=30564, startTime=17514440, endTime=17514452, interval=12, pulsesPerRev=20
+	Speed setting=58, RPM=250000.00
+17548: RotationSensor::ReadCount[2]: count=30564, startTime=17514440, endTime=17514452, interval=12, pulsesPerRev=20
+	Speed setting=57, RPM=250000.00
+17566: RotationSensor::ReadCount[2]: count=30568, startTime=17559708, endTime=17559720, interval=12, pulsesPerRev=20
+	Speed setting=56, RPM=250000.00
+17585: RotationSensor::ReadCount[2]: count=30568, startTime=17559708, endTime=17559720, interval=12, pulsesPerRev=20
+	Speed setting=55, RPM=250000.00
+17603: RotationSensor::ReadCount[2]: count=30570, startTime=17596664, endTime=17596676, interval=12, pulsesPerRev=20
+	Speed setting=54, RPM=250000.00
+17620: RotationSensor::ReadCount[2]: count=30572, startTime=17609708, endTime=17609720, interval=12, pulsesPerRev=20
+	Speed setting=53, RPM=250000.00
+17639: RotationSensor::ReadCount[2]: count=30572, startTime=17609708, endTime=17609720, interval=12, pulsesPerRev=20
+	Speed setting=52, RPM=250000.00
+17657: RotationSensor::ReadCount[2]: count=30574, startTime=17648700, endTime=17648712, interval=12, pulsesPerRev=20
+	Speed setting=51, RPM=250000.00
+17676: RotationSensor::ReadCount[2]: count=30576, startTime=17661344, endTime=17661356, interval=12, pulsesPerRev=20
+	Speed setting=50, RPM=250000.00
+17694: RotationSensor::ReadCount[2]: count=30576, startTime=17661344, endTime=17661356, interval=12, pulsesPerRev=20
+	Speed setting=49, RPM=250000.00
+17713: RotationSensor::ReadCount[2]: count=30578, startTime=17704040, endTime=17704052, interval=12, pulsesPerRev=20
+	Speed setting=48, RPM=250000.00
+17730: RotationSensor::ReadCount[2]: count=30580, startTime=17719324, endTime=17719336, interval=12, pulsesPerRev=20
+	Speed setting=47, RPM=250000.00
+17748: RotationSensor::ReadCount[2]: count=30580, startTime=17719324, endTime=17719336, interval=12, pulsesPerRev=20
+	Speed setting=46, RPM=250000.00
+17767: RotationSensor::ReadCount[2]: count=30580, startTime=17719324, endTime=17719336, interval=12, pulsesPerRev=20
+	Speed setting=45, RPM=250000.00
+17785: RotationSensor::ReadCount[2]: count=30584, startTime=17784036, endTime=17784048, interval=12, pulsesPerRev=20
+	Speed setting=44, RPM=250000.00
+17804: RotationSensor::ReadCount[2]: count=30584, startTime=17784036, endTime=17784048, interval=12, pulsesPerRev=20
+	Speed setting=43, RPM=250000.00
+17822: RotationSensor::ReadCount[2]: count=30584, startTime=17784036, endTime=17784048, interval=12, pulsesPerRev=20
+	Speed setting=42, RPM=250000.00
+17840: RotationSensor::ReadCount[2]: count=30584, startTime=17784036, endTime=17784048, interval=12, pulsesPerRev=20
+	Speed setting=41, RPM=250000.00
+17858: RotationSensor::ReadCount[2]: count=30586, startTime=17841932, endTime=17841944, interval=12, pulsesPerRev=20
+	Speed setting=40, RPM=250000.00
+17876: RotationSensor::ReadCount[2]: count=30588, startTime=17859884, endTime=17859896, interval=12, pulsesPerRev=20
+	Speed setting=39, RPM=250000.00
+17895: RotationSensor::ReadCount[2]: count=30588, startTime=17859884, endTime=17859896, interval=12, pulsesPerRev=20
+	Speed setting=38, RPM=250000.00
+17913: RotationSensor::ReadCount[2]: count=30588, startTime=17859884, endTime=17859896, interval=12, pulsesPerRev=20
+	Speed setting=37, RPM=250000.00
+17932: RotationSensor::ReadCount[2]: count=30590, startTime=17916840, endTime=17916852, interval=12, pulsesPerRev=20
+	Speed setting=36, RPM=250000.00
+17949: RotationSensor::ReadCount[2]: count=30592, startTime=17935444, endTime=17935456, interval=12, pulsesPerRev=20
+	Speed setting=35, RPM=250000.00
+17968: RotationSensor::ReadCount[2]: count=30592, startTime=17935444, endTime=17935456, interval=12, pulsesPerRev=20
+	Speed setting=34, RPM=250000.00
+17986: RotationSensor::ReadCount[2]: count=30592, startTime=17935444, endTime=17935456, interval=12, pulsesPerRev=20
+	Speed setting=33, RPM=250000.00
+18004: RotationSensor::ReadCount[2]: count=30594, startTime=17998656, endTime=17998668, interval=12, pulsesPerRev=20
+	Speed setting=32, RPM=250000.00
+18023: RotationSensor::ReadCount[2]: count=30596, startTime=18021572, endTime=18021584, interval=12, pulsesPerRev=20
+	Speed setting=31, RPM=250000.00
+18041: RotationSensor::ReadCount[2]: count=30596, startTime=18021572, endTime=18021584, interval=12, pulsesPerRev=20
+	Speed setting=30, RPM=250000.00
+18059: RotationSensor::ReadCount[2]: count=30596, startTime=18021572, endTime=18021584, interval=12, pulsesPerRev=20
+	Speed setting=29, RPM=250000.00
+18077: RotationSensor::ReadCount[2]: count=30596, startTime=18021572, endTime=18021584, interval=12, pulsesPerRev=20
+	Speed setting=28, RPM=250000.00
+18096: RotationSensor::ReadCount[2]: count=30596, startTime=18021572, endTime=18021584, interval=12, pulsesPerRev=20
+	Speed setting=27, RPM=250000.00
+18114: RotationSensor::ReadCount[2]: count=30598, startTime=18100572, endTime=18100584, interval=12, pulsesPerRev=20
+	Speed setting=26, RPM=250000.00
+18132: RotationSensor::ReadCount[2]: count=30599, startTime=18100584, endTime=18126080, interval=25496, pulsesPerRev=20
+	Speed setting=25, RPM=117.67
+18151: RotationSensor::ReadCount[2]: count=30599, startTime=18100584, endTime=18126080, interval=25496, pulsesPerRev=20
+	Speed setting=24, RPM=117.67
+18168: RotationSensor::ReadCount[2]: count=30599, startTime=18100584, endTime=18126080, interval=25496, pulsesPerRev=20
+	Speed setting=23, RPM=117.67
+18187: RotationSensor::ReadCount[2]: count=30599, startTime=18100584, endTime=18126080, interval=25496, pulsesPerRev=20
+	Speed setting=22, RPM=117.67
+18205: RotationSensor::ReadCount[2]: count=30599, startTime=18100584, endTime=18126080, interval=25496, pulsesPerRev=20
+	Speed setting=21, RPM=117.67
+18224: RotationSensor::ReadCount[2]: count=30599, startTime=18100584, endTime=18126080, interval=25496, pulsesPerRev=20
+	Speed setting=20, RPM=117.67
+18242: RotationSensor::ReadCount[2]: count=30602, startTime=18238060, endTime=18238072, interval=12, pulsesPerRev=20
+	Speed setting=19, RPM=250000.00
+18260: RotationSensor::ReadCount[2]: count=30602, startTime=18238060, endTime=18238072, interval=12, pulsesPerRev=20
+	Speed setting=18, RPM=250000.00
+18278: RotationSensor::ReadCount[2]: count=30602, startTime=18238060, endTime=18238072, interval=12, pulsesPerRev=20
+	Speed setting=17, RPM=250000.00
+18296: RotationSensor::ReadCount[2]: count=30605, startTime=18289620, endTime=18289632, interval=12, pulsesPerRev=20
+	Speed setting=16, RPM=250000.00
+18315: RotationSensor::ReadCount[2]: count=30605, startTime=18289620, endTime=18289632, interval=12, pulsesPerRev=20
+	Speed setting=15, RPM=250000.00
+18333: RotationSensor::ReadCount[2]: count=30605, startTime=18289620, endTime=18289632, interval=12, pulsesPerRev=20
+	Speed setting=14, RPM=250000.00
+18352: RotationSensor::ReadCount[2]: count=30605, startTime=18289620, endTime=18289632, interval=12, pulsesPerRev=20
+	Speed setting=13, RPM=250000.00
+18370: RotationSensor::ReadCount[2]: count=30605, startTime=18289620, endTime=18289632, interval=12, pulsesPerRev=20
+	Speed setting=12, RPM=250000.00
+18387: RotationSensor::ReadCount[2]: count=30605, startTime=18289620, endTime=18289632, interval=12, pulsesPerRev=20
+	Speed setting=11, RPM=250000.00
+18406: RotationSensor::ReadCount[2]: count=30605, startTime=18289620, endTime=18289632, interval=12, pulsesPerRev=20
+	Speed setting=10, RPM=250000.00
+18424: RotationSensor::ReadCount[2]: count=30605, startTime=18289620, endTime=18289632, interval=12, pulsesPerRev=20
+	Speed setting=9, RPM=250000.00
+18443: RotationSensor::ReadCount[2]: count=30605, startTime=18289620, endTime=18289632, interval=12, pulsesPerRev=20
+	Speed setting=8, RPM=250000.00
+18461: RotationSensor::ReadCount[2]: count=30605, startTime=18289620, endTime=18289632, interval=12, pulsesPerRev=20
+	Speed setting=7, RPM=250000.00
+18479: RotationSensor::ReadCount[2]: count=30605, startTime=18289620, endTime=18289632, interval=12, pulsesPerRev=20
+	Speed setting=6, RPM=250000.00
+18497: RotationSensor::ReadCount[2]: count=30605, startTime=18289620, endTime=18289632, interval=12, pulsesPerRev=20
+	Speed setting=5, RPM=250000.00
+18515: RotationSensor::ReadCount[2]: count=30605, startTime=18289620, endTime=18289632, interval=12, pulsesPerRev=20
+	Speed setting=4, RPM=250000.00
+18534: RotationSensor::ReadCount[2]: count=30605, startTime=18289620, endTime=18289632, interval=12, pulsesPerRev=20
+	Speed setting=3, RPM=250000.00
+18551: RotationSensor::ReadCount[2]: count=30605, startTime=18289620, endTime=18289632, interval=12, pulsesPerRev=20
+	Speed setting=2, RPM=250000.00
+18570: RotationSensor::ReadCount[2]: count=30605, startTime=18289620, endTime=18289632, interval=12, pulsesPerRev=20
+	Speed setting=1, RPM=250000.00
+
+Test iteration complete
+
+Test iteration begin
+
+	Running motor forward from 0 to 255 to 0
+19594: RotationSensor::ReadCount[2]: count=30605, startTime=18289620, endTime=18289632, interval=12, pulsesPerRev=20
+	Speed setting=0, RPM=250000.00
+19612: RotationSensor::ReadCount[2]: count=30605, startTime=18289620, endTime=18289632, interval=12, pulsesPerRev=20
+	Speed setting=1, RPM=250000.00
+19631: RotationSensor::ReadCount[2]: count=30605, startTime=18289620, endTime=18289632, interval=12, pulsesPerRev=20
+	Speed setting=2, RPM=250000.00
+19649: RotationSensor::ReadCount[2]: count=30605, startTime=18289620, endTime=18289632, interval=12, pulsesPerRev=20
+	Speed setting=3, RPM=250000.00
+19666: RotationSensor::ReadCount[2]: count=30605, startTime=18289620, endTime=18289632, interval=12, pulsesPerRev=20
+	Speed setting=4, RPM=250000.00
+19685: RotationSensor::ReadCount[2]: count=30605, startTime=18289620, endTime=18289632, interval=12, pulsesPerRev=20
+	Speed setting=5, RPM=250000.00
+19703: RotationSensor::ReadCount[2]: count=30605, startTime=18289620, endTime=18289632, interval=12, pulsesPerRev=20
+	Speed setting=6, RPM=250000.00
+19722: RotationSensor::ReadCount[2]: count=30605, startTime=18289620, endTime=18289632, interval=12, pulsesPerRev=20
+	Speed setting=7, RPM=250000.00
+19739: RotationSensor::ReadCount[2]: count=30605, startTime=18289620, endTime=18289632, interval=12, pulsesPerRev=20
+	Speed setting=8, RPM=250000.00
+19758: RotationSensor::ReadCount[2]: count=30605, startTime=18289620, endTime=18289632, interval=12, pulsesPerRev=20
+	Speed setting=9, RPM=250000.00
+19776: RotationSensor::ReadCount[2]: count=30605, startTime=18289620, endTime=18289632, interval=12, pulsesPerRev=20
+	Speed setting=10, RPM=250000.00
+19794: RotationSensor::ReadCount[2]: count=30605, startTime=18289620, endTime=18289632, interval=12, pulsesPerRev=20
+	Speed setting=11, RPM=250000.00
+19812: RotationSensor::ReadCount[2]: count=30605, startTime=18289620, endTime=18289632, interval=12, pulsesPerRev=20
+	Speed setting=12, RPM=250000.00
+19830: RotationSensor::ReadCount[2]: count=30605, startTime=18289620, endTime=18289632, interval=12, pulsesPerRev=20
+	Speed setting=13, RPM=250000.00
+19849: RotationSensor::ReadCount[2]: count=30605, startTime=18289620, endTime=18289632, interval=12, pulsesPerRev=20
+	Speed setting=14, RPM=250000.00
+19867: RotationSensor::ReadCount[2]: count=30605, startTime=18289620, endTime=18289632, interval=12, pulsesPerRev=20
+	Speed setting=15, RPM=250000.00
+19886: RotationSensor::ReadCount[2]: count=30605, startTime=18289620, endTime=18289632, interval=12, pulsesPerRev=20
+	Speed setting=16, RPM=250000.00
+19904: RotationSensor::ReadCount[2]: count=30605, startTime=18289620, endTime=18289632, interval=12, pulsesPerRev=20
+	Speed setting=17, RPM=250000.00
+19921: RotationSensor::ReadCount[2]: count=30605, startTime=18289620, endTime=18289632, interval=12, pulsesPerRev=20
+	Speed setting=18, RPM=250000.00
+19940: RotationSensor::ReadCount[2]: count=30605, startTime=18289620, endTime=18289632, interval=12, pulsesPerRev=20
+	Speed setting=19, RPM=250000.00
+19958: RotationSensor::ReadCount[2]: count=30605, startTime=18289620, endTime=18289632, interval=12, pulsesPerRev=20
+	Speed setting=20, RPM=250000.00
+19977: RotationSensor::ReadCount[2]: count=30605, startTime=18289620, endTime=18289632, interval=12, pulsesPerRev=20
+	Speed setting=21, RPM=250000.00
+19995: RotationSensor::ReadCount[2]: count=30605, startTime=18289620, endTime=18289632, interval=12, pulsesPerRev=20
+	Speed setting=22, RPM=250000.00
+20014: RotationSensor::ReadCount[2]: count=30605, startTime=18289620, endTime=18289632, interval=12, pulsesPerRev=20
+	Speed setting=23, RPM=250000.00
+20031: RotationSensor::ReadCount[2]: count=30605, startTime=18289620, endTime=18289632, interval=12, pulsesPerRev=20
+	Speed setting=24, RPM=250000.00
+20049: RotationSensor::ReadCount[2]: count=30605, startTime=18289620, endTime=18289632, interval=12, pulsesPerRev=20
+	Speed setting=25, RPM=250000.00
+20068: RotationSensor::ReadCount[2]: count=30605, startTime=18289620, endTime=18289632, interval=12, pulsesPerRev=20
+	Speed setting=26, RPM=250000.00
+20086: RotationSensor::ReadCount[2]: count=30605, startTime=18289620, endTime=18289632, interval=12, pulsesPerRev=20
+	Speed setting=27, RPM=250000.00
+20105: RotationSensor::ReadCount[2]: count=30605, startTime=18289620, endTime=18289632, interval=12, pulsesPerRev=20
+	Speed setting=28, RPM=250000.00
+20123: RotationSensor::ReadCount[2]: count=30605, startTime=18289620, endTime=18289632, interval=12, pulsesPerRev=20
+	Speed setting=29, RPM=250000.00
+20141: RotationSensor::ReadCount[2]: count=30605, startTime=18289620, endTime=18289632, interval=12, pulsesPerRev=20
+	Speed setting=30, RPM=250000.00
+20159: RotationSensor::ReadCount[2]: count=30605, startTime=18289620, endTime=18289632, interval=12, pulsesPerRev=20
+	Speed setting=31, RPM=250000.00
+20177: RotationSensor::ReadCount[2]: count=30605, startTime=18289620, endTime=18289632, interval=12, pulsesPerRev=20
+	Speed setting=32, RPM=250000.00
+20196: RotationSensor::ReadCount[2]: count=30605, startTime=18289620, endTime=18289632, interval=12, pulsesPerRev=20
+	Speed setting=33, RPM=250000.00
+20214: RotationSensor::ReadCount[2]: count=30607, startTime=20214308, endTime=20214320, interval=12, pulsesPerRev=20
+	Speed setting=34, RPM=250000.00
+20233: RotationSensor::ReadCount[2]: count=30607, startTime=20214308, endTime=20214320, interval=12, pulsesPerRev=20
+	Speed setting=35, RPM=250000.00
+20250: RotationSensor::ReadCount[2]: count=30609, startTime=20239772, endTime=20239784, interval=12, pulsesPerRev=20
+	Speed setting=36, RPM=250000.00
+20269: RotationSensor::ReadCount[2]: count=30609, startTime=20239772, endTime=20239784, interval=12, pulsesPerRev=20
+	Speed setting=37, RPM=250000.00
+20287: RotationSensor::ReadCount[2]: count=30609, startTime=20239772, endTime=20239784, interval=12, pulsesPerRev=20
+	Speed setting=38, RPM=250000.00
+20305: RotationSensor::ReadCount[2]: count=30609, startTime=20239772, endTime=20239784, interval=12, pulsesPerRev=20
+	Speed setting=39, RPM=250000.00
+20324: RotationSensor::ReadCount[2]: count=30611, startTime=20310876, endTime=20310888, interval=12, pulsesPerRev=20
+	Speed setting=40, RPM=250000.00
+20342: RotationSensor::ReadCount[2]: count=30613, startTime=20326912, endTime=20326924, interval=12, pulsesPerRev=20
+	Speed setting=41, RPM=250000.00
+20360: RotationSensor::ReadCount[2]: count=30613, startTime=20326912, endTime=20326924, interval=12, pulsesPerRev=20
+	Speed setting=42, RPM=250000.00
+20378: RotationSensor::ReadCount[2]: count=30613, startTime=20326912, endTime=20326924, interval=12, pulsesPerRev=20
+	Speed setting=43, RPM=250000.00
+20397: RotationSensor::ReadCount[2]: count=30615, startTime=20385016, endTime=20385028, interval=12, pulsesPerRev=20
+	Speed setting=44, RPM=250000.00
+20415: RotationSensor::ReadCount[2]: count=30617, startTime=20401932, endTime=20401944, interval=12, pulsesPerRev=20
+	Speed setting=45, RPM=250000.00
+20433: RotationSensor::ReadCount[2]: count=30617, startTime=20401932, endTime=20401944, interval=12, pulsesPerRev=20
+	Speed setting=46, RPM=250000.00
+20452: RotationSensor::ReadCount[2]: count=30619, startTime=20451264, endTime=20451276, interval=12, pulsesPerRev=20
+	Speed setting=47, RPM=250000.00
+20469: RotationSensor::ReadCount[2]: count=30621, startTime=20465844, endTime=20465856, interval=12, pulsesPerRev=20
+	Speed setting=48, RPM=250000.00
+20488: RotationSensor::ReadCount[2]: count=30621, startTime=20465844, endTime=20465856, interval=12, pulsesPerRev=20
+	Speed setting=49, RPM=250000.00
+20506: RotationSensor::ReadCount[2]: count=30621, startTime=20465844, endTime=20465856, interval=12, pulsesPerRev=20
+	Speed setting=50, RPM=250000.00
+20525: RotationSensor::ReadCount[2]: count=30623, startTime=20511248, endTime=20511260, interval=12, pulsesPerRev=20
+	Speed setting=51, RPM=250000.00
+20543: RotationSensor::ReadCount[2]: count=30625, startTime=20525772, endTime=20525784, interval=12, pulsesPerRev=20
+	Speed setting=52, RPM=250000.00
+20561: RotationSensor::ReadCount[2]: count=30625, startTime=20525772, endTime=20525784, interval=12, pulsesPerRev=20
+	Speed setting=53, RPM=250000.00
+20579: RotationSensor::ReadCount[2]: count=30627, startTime=20572792, endTime=20572804, interval=12, pulsesPerRev=20
+	Speed setting=54, RPM=250000.00
+20597: RotationSensor::ReadCount[2]: count=30629, startTime=20585660, endTime=20585672, interval=12, pulsesPerRev=20
+	Speed setting=55, RPM=250000.00
+20616: RotationSensor::ReadCount[2]: count=30629, startTime=20585660, endTime=20585672, interval=12, pulsesPerRev=20
+	Speed setting=56, RPM=250000.00
+20634: RotationSensor::ReadCount[2]: count=30631, startTime=20630704, endTime=20630716, interval=12, pulsesPerRev=20
+	Speed setting=57, RPM=250000.00
+20653: RotationSensor::ReadCount[2]: count=30633, startTime=20644764, endTime=20644776, interval=12, pulsesPerRev=20
+	Speed setting=58, RPM=250000.00
+20671: RotationSensor::ReadCount[2]: count=30633, startTime=20644764, endTime=20644776, interval=12, pulsesPerRev=20
+	Speed setting=59, RPM=250000.00
+20688: RotationSensor::ReadCount[2]: count=30635, startTime=20683964, endTime=20683976, interval=12, pulsesPerRev=20
+	Speed setting=60, RPM=250000.00
+20707: RotationSensor::ReadCount[2]: count=30637, startTime=20695148, endTime=20695160, interval=12, pulsesPerRev=20
+	Speed setting=61, RPM=250000.00
+20725: RotationSensor::ReadCount[2]: count=30637, startTime=20695148, endTime=20695160, interval=12, pulsesPerRev=20
+	Speed setting=62, RPM=250000.00
+20744: RotationSensor::ReadCount[2]: count=30641, startTime=20741976, endTime=20741988, interval=12, pulsesPerRev=20
+	Speed setting=63, RPM=250000.00
+20762: RotationSensor::ReadCount[2]: count=30641, startTime=20741976, endTime=20741988, interval=12, pulsesPerRev=20
+	Speed setting=64, RPM=250000.00
+20781: RotationSensor::ReadCount[2]: count=30643, startTime=20775348, endTime=20775360, interval=12, pulsesPerRev=20
+	Speed setting=65, RPM=250000.00
+20798: RotationSensor::ReadCount[2]: count=30645, startTime=20784804, endTime=20784816, interval=12, pulsesPerRev=20
+	Speed setting=66, RPM=250000.00
+20816: RotationSensor::ReadCount[2]: count=30647, startTime=20817388, endTime=20817400, interval=12, pulsesPerRev=20
+	Speed setting=67, RPM=250000.00
+20835: RotationSensor::ReadCount[2]: count=30649, startTime=20827376, endTime=20827392, interval=16, pulsesPerRev=20
+	Speed setting=68, RPM=187500.00
+20853: RotationSensor::ReadCount[2]: count=30649, startTime=20827376, endTime=20827392, interval=16, pulsesPerRev=20
+	Speed setting=69, RPM=187500.00
+20872: RotationSensor::ReadCount[2]: count=30653, startTime=20868128, endTime=20868140, interval=12, pulsesPerRev=20
+	Speed setting=70, RPM=250000.00
+20890: RotationSensor::ReadCount[2]: count=30653, startTime=20868128, endTime=20868140, interval=12, pulsesPerRev=20
+	Speed setting=71, RPM=250000.00
+20908: RotationSensor::ReadCount[2]: count=30657, startTime=20907448, endTime=20907460, interval=12, pulsesPerRev=20
+	Speed setting=72, RPM=250000.00
+20926: RotationSensor::ReadCount[2]: count=30657, startTime=20907448, endTime=20907460, interval=12, pulsesPerRev=20
+	Speed setting=73, RPM=250000.00
+20944: RotationSensor::ReadCount[2]: count=30661, startTime=20945080, endTime=20945088, interval=8, pulsesPerRev=20
+	Speed setting=74, RPM=375000.00
+20963: RotationSensor::ReadCount[2]: count=30661, startTime=20945080, endTime=20945088, interval=8, pulsesPerRev=20
+	Speed setting=75, RPM=375000.00
+20981: RotationSensor::ReadCount[2]: count=30664, startTime=20971632, endTime=20981464, interval=9832, pulsesPerRev=20
+	Speed setting=76, RPM=305.13
+20999: RotationSensor::ReadCount[2]: count=30664, startTime=20971632, endTime=20981464, interval=9832, pulsesPerRev=20
+	Speed setting=77, RPM=3

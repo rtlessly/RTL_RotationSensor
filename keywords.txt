@@ -1,0 +1,40 @@
+#######################################
+# Syntax Coloring Map For RTL_Motors
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+RotationSensor	KEYWORD1
+CountData	KEYWORD1
+CountData_struct	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+RPM	KEYWORD2
+Revs	KEYWORD2
+Reset	KEYWORD2
+Enable	KEYWORD2
+Disable	KEYWORD2
+Enabled	KEYWORD2
+Resolution	KEYWORD2
+Read	KEYWORD2
+ReadRPM	KEYWORD2
+ReadRevs	KEYWORD2
+
+#######################################
+# Variables and Properties
+#######################################
+Count	KEYWORD3
+LastCountTime	KEYWORD3
+LastInterval	KEYWORD3
+CountsPerRev	KEYWORD3
+SensorID	KEYWORD3
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+NO_READING	LITERAL1 
+CountEvent	LITERAL1 
