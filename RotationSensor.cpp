@@ -217,7 +217,7 @@ void RotationSensor::Count_ISR()
 {
     uint32_t now = micros();
 
-    if ((now - _lastPulseTime) < 200) return;  // 200 microsecond debounce
+//    if ((now - _lastPulseTime) < 200) return;  // 200 microsecond debounce
 
     _prevPulseTime = _lastPulseTime;
     _lastPulseTime = now;
