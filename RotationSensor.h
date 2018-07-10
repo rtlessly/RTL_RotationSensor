@@ -6,6 +6,7 @@
 #ifndef _RotationSensor_h_
 #define _RotationSensor_h_
 
+#include <RTL_Stdlib.h>
 #include <inttypes.h>
 
 
@@ -18,6 +19,8 @@ void RotationSensor_DebugDump();
 //******************************************************************************
 class RotationSensor
 {
+    DECLARE_CLASSNAME;
+
     public: static const int NO_READING = -1;
 
     public: typedef struct CountData_struct
@@ -59,7 +62,7 @@ class RotationSensor
     public: bool Enabled();
 
     //**************************************************************************
-    /// Returns the resoultion of the sensor as pulses per revolution.
+    /// Returns the resolution of the sensor as pulses per revolution.
     //**************************************************************************
     public: int Resolution() { return _state.PulsesPerRev; };
 
@@ -104,7 +107,7 @@ class RotationSensor
     /***************************************************************************
      Internal implementation
     ***************************************************************************/
-    private: void Count_ISR();
+    private: void Count_ISR() volatile;
 
     private: volatile uint32_t _count;
     private: volatile uint32_t _lastPulseTime;

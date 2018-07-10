@@ -2,16 +2,14 @@
  RotationSensor.cpp
 Support for an interrupt-driven rotation sensor.
 *******************************************************************************/
-
 #define DEBUG 0
 
 #include <Arduino.h>
 #include <RTL_Stdlib.h>
 #include <RTL_Debug.h>
+
 #include "RotationSensor.h"
 
-
-static DebugHelper Debug("RotationSensor");
 
 
 /******************************************************************************
@@ -34,9 +32,11 @@ static volatile uint32_t debugCount[debugStackSize];
  Forward declarations for each ISR
 ******************************************************************************/
 static volatile RotationSensor* pSensors[2];
-static void RotationSensor_ISR_0();
-static void RotationSensor_ISR_1();
 
+void RotationSensor_ISR_0();
+void RotationSensor_ISR_1();
+
+DEFINE_CLASSNAME(RotationSensor);
 
 /*******************************************************************************
  Constructor
@@ -61,21 +61,21 @@ RotationSensor::RotationSensor(int pin, int pulsesPerRev)
 void RotationSensor::Reset()
 {
     // Disable interrupts while resetting sensor values
-    cli();
+    noInterrupts();
     _count = 0;
     _lastPulseTime  = 0;
     _prevPulseTime  = 0;
-    sei();
+    interrupts();
 
 //#if DEBUG
-//    cli();
+//    noInterrupts();
 //    debugIdx = 0;
 //    for (int i=0; i < debugStackSize; i++)
 //    {
 //        debugTime[i] = 0;
 //        debugCount[i] = 0;
 //    }
-//    sei();
+//    interrupts();
 //#endif
 }
 
@@ -89,7 +89,7 @@ void RotationSensor::Enable(bool enabled)
 {
     if (_state.IRQ == NOT_AN_INTERRUPT)
     {
-        Debug.Log("%s - Invalid interrupt pin %i", __func__, _state.Pin);
+        Logger(_classname_, __func__, this) << F(": Invalid interrupt pin ") << _state.Pin << endl;
         return;
     }
 
@@ -141,17 +141,22 @@ RotationSensor::CountData RotationSensor::Read()
         // Disable interrupts while reading sensor values to make sure we don't get
         // inconsistent values (e.g., if a sensor interrupt occurs between the following
         // lines then the values will be mis-matched).
-        cli();
+        noInterrupts();
         uint32_t count     = _count;
         uint32_t endTime   = _lastPulseTime;
         uint32_t prevTime  = _prevPulseTime;
-        sei();
+        interrupts();
 
         data.Count          = count;
         data.LastCountTime  = endTime;
-        data.LastInterval   = (prevTime == 0) ? 0 : endTime - prevTime;
+        data.LastInterval   = (prevTime == 0) ? 0 : (endTime - prevTime);
 
-        Debug.Log("%s[%i]: count=%l, LastCountTime=%l, LastInterval=%l, resolution=%i", __func__, data.SensorID, count, endTime, data.LastInterval, data.CountsPerRev);
+        TRACE(Logger(_classname_, __func__, this) << '[' << data.SensorID << ']'
+                                                  << F(": count=") << count
+                                                  << F(", endTime=") << endTime
+                                                  << F(", LastInterval=") << data.LastInterval
+                                                  << F(", CountsPerRev=") << data.CountsPerRev
+                                                  << endl);
     }
 
     return data;
@@ -164,13 +169,13 @@ RotationSensor::CountData RotationSensor::Read()
 uint32_t RotationSensor::ReadCount()
 {
     uint32_t count = 0;
-    
+
     if (Enabled())
     {
         // Disable interrupts while reading count.
-        cli();
+        noInterrupts();
         count = _count;
-        sei();
+        interrupts();
     }
 
     return count;
@@ -198,7 +203,7 @@ float RotationSensor::ReadRPM()
 
 
 /*******************************************************************************
- Returns the number of revolotions measured by the sensor since the last reset.
+ Returns the number of revolutions measured by the sensor since the last reset.
  Since the return type is a float, fractional revolutions can be measured up to
  the sensor resolution.
 *******************************************************************************/
@@ -213,7 +218,7 @@ float RotationSensor::ReadRevs()
 
 
 
-void RotationSensor::Count_ISR()
+void RotationSensor::Count_ISR() volatile
 {
     uint32_t now = micros();
 
@@ -238,23 +243,23 @@ void RotationSensor::Count_ISR()
  there is no inherent way to distinguish which sensor is triggering the interrupt,
  each sensor must have its own interrupt. So there are 2 ISR functions with
  essentially identical code, differing only by the index used to access the
- respective variables. 
+ respective variables.
 
  Hopefully, the compiler will be able to optimize away the array indexing since
  the indexes are all constants, so they should just resolve at compile time to
  absolute, constant memory addresses.
 *******************************************************************************/
-static void RotationSensor_ISR_0()
+void RotationSensor_ISR_0()
 {
-    RotationSensor* pSensor = pSensors[0];
+    auto pSensor = pSensors[0];
 
     if (pSensor != NULL) pSensor->Count_ISR();
 }
 
 
-static void RotationSensor_ISR_1()
+void RotationSensor_ISR_1()
 {
-    RotationSensor* pSensor = pSensors[1];
+    auto pSensor = pSensors[1];
 
     if (pSensor != NULL) pSensor->Count_ISR();
 }
@@ -266,19 +271,19 @@ void RotationSensor_DebugDump()
     uint32_t times[debugStackSize];
     uint32_t counts[debugStackSize];
 
-    cli();
+    noInterrupts();
     for (int i=0; i < debugStackSize; i++)
     {
         times[i]   = debugTime[i];
         counts[i]  = debugCount[i];
     }
-    sei();
+    interrupts();
 
-    Debug.PrintLine("Index, Time,Count");
+    Logger(__func__) << F(": Index, Time, Count") << endl;
 
     for (int i=0; i < debugStackSize; i++)
     {
-        Debug.PrintLine("%i,%l,%l", i, times[i], counts[i]);
+        Logger(__func__) << i << F(", ") << times[i] << F(", ") << counts[i] << endl;
     }
 #endif
 }
